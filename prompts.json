@@ -1,18 +1,90 @@
 [
-  {
-    "id": "1",
-    "title": "Cyberpunk Cityscape",
-    "prompt": "A realistic, high-quality photograph of a middle-aged South Asian man with short, styled black hair and a well-groomed beard, wearing dark aviator sunglasses. He is sitting confidently on the hood of a sleek, lime-green Lamborghini Aventador. He is dressed in a stylish, casual outfit consisting of a navy blue jacket and a grey patterned scarf. The car is parked on a modern coastal road at sunset, with soft golden hour lighting reflecting off the car's polished surface and his sunglasses. The background shows a blurred view of a luxury villa and palm trees. Cinematic lighting, 8k resolution, photorealistic, sharp focus, professional photography.",
-    "imageUrl": "https://raw.githubusercontent.com/manus-ai/assets/main/samples/cyberpunk.jpg",
-    "category": "Sci-Fi",
-    "tags": ["neon", "futuristic", "city"]
+{
+  "id": "1",
+  "title": "Luxury Lifestyle: Man with Lamborghini",
+  "prompt": "A realistic, high-quality photograph of a middle-aged South Asian man with short, styled black hair and a well-groomed beard, wearing dark aviator sunglasses. He is sitting confidently on the hood of a sleek, lime-green Lamborghini Aventador. He is dressed in a stylish, casual outfit consisting of a navy blue jacket and a grey patterned scarf. The car is parked on a modern coastal road at sunset, with soft golden hour lighting reflecting off the car's polished surface and his sunglasses. The background shows a blurred view of a luxury villa and palm trees. Cinematic lighting, 8k resolution, photorealistic, sharp focus, professional photography.",
+  "imageUrl": "https://raw.githubusercontent.com/manus-ai/assets/main/samples/lamborghini-man.jpg",
+  "category": "Lifestyle & Luxury",
+  "tags": ["luxury", "lamborghini", "portrait", "golden hour", "photorealistic"]
+},
+{
+    "id": "2",
+    "title": "Modern Executive Office",
+    "prompt": "A professional portrait of a middle-aged South Asian man with styled black hair and a neat beard, wearing a sharp charcoal grey suit and a white dress shirt. He is sitting behind a large, minimalist mahogany desk in a high-rise office with floor-to-ceiling windows overlooking a city skyline at dusk. On the desk is a sleek laptop and a glass of water. Soft interior lighting, professional corporate photography, 8k resolution, photorealistic.",
+    "imageUrl": "https://raw.githubusercontent.com/manus-ai/assets/main/samples/executive-office.jpg",
+    "category": "Professional",
+    "tags": ["corporate", "executive", "office", "suit", "success"]
   },
   {
-    "id": "2",
-    "title": "Enchanted Forest",
-    "prompt": "A mystical forest with glowing plants, ancient trees, and soft sunlight filtering through the canopy, ethereal atmosphere, digital art style.",
-    "imageUrl": "https://raw.githubusercontent.com/manus-ai/assets/main/samples/forest.jpg",
-    "category": "Fantasy",
-    "tags": ["nature", "magic", "forest"]
+    "id": "3",
+    "title": "Luxury Yacht Deck",
+    "prompt": "A realistic photograph of a South Asian man with a well-groomed beard and dark aviator sunglasses, wearing a white linen shirt and light blue chinos. He is standing on the teak deck of a luxury yacht, leaning against the polished chrome railing. The turquoise ocean waves are in the background under a bright, clear blue sky. High-end travel photography, vibrant colors, sharp focus, 8k resolution.",
+    "imageUrl": "https://raw.githubusercontent.com/manus-ai/assets/main/samples/yacht-man.jpg",
+    "category": "Travel & Luxury",
+    "tags": ["yacht", "ocean", "summer", "luxury", "vacation"]
+  },
+  {
+    "id": "4",
+    "title": "Private Jet Interior",
+    "prompt": "A high-quality image of a South Asian man with styled black hair and a groomed beard, sitting in a plush cream leather seat inside a private jet. He is looking out the window at the clouds, holding a tablet. The interior is luxurious with wood accents and warm ambient lighting. Cinematic lighting, photorealistic, 8k resolution, detailed textures.",
+    "imageUrl": "https://raw.githubusercontent.com/manus-ai/assets/main/samples/private-jet.jpg",
+    "category": "Travel & Luxury",
+    "tags": ["private jet", "aviation", "luxury", "travel", "exclusive"]
+  },
+  {
+    "id": "5",
+    "title": "Urban Street Style",
+    "prompt": "A candid-style photograph of a South Asian man with a beard and sunglasses, wearing a black leather jacket over a grey hoodie. He is walking through a busy metropolitan street with neon signs and blurred city traffic in the background. The lighting is cool-toned with a cinematic urban feel. Street photography, sharp focus on subject, 8k resolution, realistic.",
+    "imageUrl": "https://raw.githubusercontent.com/manus-ai/assets/main/samples/urban-street.jpg",
+    "category": "Lifestyle",
+    "tags": ["street style", "urban", "fashion", "city", "candid"]
+  },
+  {
+    "id": "6",
+    "title": "Mountain Cabin Retreat",
+    "prompt": "A cozy, realistic image of a South Asian man with a groomed beard, wearing a thick navy blue knit sweater. He is sitting in a rustic wooden chair on a balcony, holding a steaming mug of coffee. In the background are snow-capped mountains and pine trees during a quiet morning. Soft natural light, high-quality textures, photorealistic, 8k.",
+    "imageUrl": "https://raw.githubusercontent.com/manus-ai/assets/main/samples/mountain-retreat.jpg",
+    "category": "Lifestyle",
+    "tags": ["nature", "winter", "mountains", "cozy", "retreat"]
+  },
+  {
+    "id": "7",
+    "title": "Tech Conference Speaker",
+    "prompt": "A professional shot of a South Asian man with styled black hair and a beard, wearing a smart-casual navy blazer and a light blue shirt. He is standing on a stage with a blurred digital screen background featuring tech graphics. He has a confident expression, gesturing as if giving a presentation. Event photography, stage lighting, sharp focus, 8k resolution.",
+    "imageUrl": "https://raw.githubusercontent.com/manus-ai/assets/main/samples/tech-speaker.jpg",
+    "category": "Professional",
+    "tags": ["conference", "tech", "speaker", "leadership", "event"]
+  },
+  {
+    "id": "8",
+    "title": "Desert Safari Adventure",
+    "prompt": "An adventurous photograph of a South Asian man with a beard and aviator sunglasses, wearing a tan safari shirt and a grey scarf wrapped loosely around his neck. He is standing next to a vintage Land Rover in the middle of a vast desert with golden sand dunes at sunset. Warm, dramatic lighting, epic scale, photorealistic, 8k resolution.",
+    "imageUrl": "https://raw.githubusercontent.com/manus-ai/assets/main/samples/desert-safari.jpg",
+    "category": "Travel & Adventure",
+    "tags": ["desert", "adventure", "safari", "golden hour", "travel"]
+  },
+  {
+    "id": "9",
+    "title": "Gala Dinner Event",
+    "prompt": "A sophisticated image of a South Asian man with a neatly groomed beard, wearing a classic black tuxedo with a bow tie. He is standing in a grand ballroom with crystal chandeliers and elegantly dressed guests blurred in the background. He is holding a glass of sparkling water. Luxury event photography, elegant atmosphere, sharp focus, 8k resolution.",
+    "imageUrl": "https://raw.githubusercontent.com/manus-ai/assets/main/samples/gala-dinner.jpg",
+    "category": "Lifestyle & Luxury",
+    "tags": ["tuxedo", "formal", "gala", "luxury", "event"]
+  },
+  {
+    "id": "10",
+    "title": "Modern Art Gallery",
+    "prompt": "A realistic photograph of a South Asian man with styled hair and a beard, wearing a minimalist black turtleneck and a grey overcoat. He is standing in a brightly lit, white-walled modern art gallery, thoughtfully looking at a large abstract painting. Clean composition, artistic lighting, photorealistic, 8k resolution.",
+    "imageUrl": "https://raw.githubusercontent.com/manus-ai/assets/main/samples/art-gallery.jpg",
+    "category": "Lifestyle",
+    "tags": ["art", "gallery", "culture", "minimalist", "sophisticated"]
+  },
+  {
+    "id": "11",
+    "title": "High-Speed Sports Car",
+    "prompt": "A dynamic shot of a South Asian man with a beard and sunglasses, sitting in the driver's seat of a red Ferrari. The interior is high-tech with carbon fiber accents. Through the windshield, a blurred racetrack is visible, conveying speed. Dramatic lighting, sharp focus on the man's face, cinematic action, 8k resolution.",
+    "imageUrl": "https://raw.githubusercontent.com/manus-ai/assets/main/samples/sports-car.jpg",
+    "category": "Automotive & Luxury",
+    "tags": ["ferrari", "sports car", "racing", "luxury", "speed"]
   }
 ]
