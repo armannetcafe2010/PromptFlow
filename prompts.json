@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "Cyberpunk Cityscape",
+    "prompt": "A futuristic city at night with neon lights, flying cars, and rain-slicked streets, highly detailed, 8k resolution, cinematic lighting.",
+    "imageUrl": "https://raw.githubusercontent.com/manus-ai/assets/main/samples/cyberpunk.jpg",
+    "category": "Sci-Fi",
+    "tags": ["neon", "futuristic", "city"]
+  },
+  {
+    "id": "2",
+    "title": "Enchanted Forest",
+    "prompt": "A mystical forest with glowing plants, ancient trees, and soft sunlight filtering through the canopy, ethereal atmosphere, digital art style.",
+    "imageUrl": "https://raw.githubusercontent.com/manus-ai/assets/main/samples/forest.jpg",
+    "category": "Fantasy",
+    "tags": ["nature", "magic", "forest"]
+  }
+]
