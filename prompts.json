@@ -1,26 +1,30 @@
-[
-  {
-    "id": "1",
-    "title": "Young Man on Japanese Bicycle",
-    "prompt": "A portrait of a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He is seated on a sleek modern Japanese bicycle while holding a contemporary iPhone. He is wearing a stylish gray and black Peshawari Kameez (Shalwar) with intricate detailing around the collar and cuffs. The background shows a vibrant Japanese urban street with soft daylight and subtle bokeh suggesting a bustling city environment. Realistic style with cinematic quality, sharp focus on the subject and slightly blurred background.",
-    "imageUrl": "https://images.iimg.live/images/awesome-masterpiece-4745.webp",
-    "category": "Portrait",
-    "tags": ["portrait", "urban", "bicycle", "peshawari kameez", "cinematic"]
-  },
-  {
-    "id": "2",
-    "title": "Man Hugging Goat in Winter",
-    "prompt": "A heartwarming portrait of a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He gently hugs a small fluffy goat while a majestic German Shepherd dog curiously sniffs the goat with visible breath in the cold air. The scene is set in a serene winter landscape covered with fresh snow and falling snowflakes. Snow-covered evergreen trees and distant hills appear in the background. Soft diffused natural lighting, cinematic color grading, 85mm lens look with f/1.8 aperture creating beautiful bokeh. High dynamic range, film still quality, dramatic yet peaceful mood.",
-    "imageUrl": "https://images.iimg.live/images/majestic-work-7640.webp",
-    "category": "Animals",
-    "tags": ["winter", "goat", "german shepherd", "snow", "cinematic"]
-  },
-  {
-    "id": "3",
-    "title": "Boy Performing Tawaf Near Kaaba",
-    "prompt": "Photorealistic 4:3 selfie of a young boy maintaining his exact facial features with dark almond-shaped eyes and a neutral expression. He is performing Tawaf in Masjid al-Haram in Mecca standing very close to the Kaaba while wearing traditional white Ihram clothing with natural fabric folds. The iconic golden door of the Kaaba is visible behind him. The scene includes a diverse crowd of pilgrims wearing white garments creating an authentic spiritual atmosphere. Bright natural daylight, soft shadows on the marble floor and black Kiswah of the Kaaba, clear blue sky, highly detailed mosque architecture, cinematic lighting and sharp focus on the boy’s face.",
-    "imageUrl": "https://images.iimg.live/images/supreme-photography-5550.webp",
-    "category": "Religious",
-    "tags": ["tawaf", "kaaba", "mecca", "pilgrimage", "ihram"]
-  }
-]
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-03-12",
+  "prompts": [
+    {
+      "id": "1",
+      "title": "Young Man on Japanese Bicycle",
+      "prompt": "A portrait of a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He is seated on a sleek modern Japanese bicycle while holding a contemporary iPhone. He is wearing a stylish gray and black Peshawari Kameez (Shalwar) with intricate detailing around the collar and cuffs. The background shows a vibrant Japanese urban street with soft daylight and subtle bokeh suggesting a bustling city environment. Realistic style with cinematic quality, sharp focus on the subject and slightly blurred background.",
+      "imageUrl": "https://images.iimg.live/images/awesome-masterpiece-4745.webp",
+      "category": "Portrait",
+      "tags": ["portrait", "urban", "bicycle", "peshawari kameez", "cinematic"]
+    },
+    {
+      "id": "2",
+      "title": "Man Hugging Goat in Winter",
+      "prompt": "A heartwarming portrait of a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He gently hugs a small fluffy goat while a majestic German Shepherd dog curiously sniffs the goat with visible breath in the cold air. The scene is set in a serene winter landscape covered with fresh snow and falling snowflakes. Snow-covered evergreen trees and distant hills appear in the background. Soft diffused natural lighting, cinematic color grading, 85mm lens look with f/1.8 aperture creating beautiful bokeh. High dynamic range, film still quality, dramatic yet peaceful mood.",
+      "imageUrl": "https://images.iimg.live/images/majestic-work-7640.webp",
+      "category": "Animals",
+      "tags": ["winter", "goat", "german shepherd", "snow", "cinematic"]
+    },
+    {
+      "id": "3",
+      "title": "Boy Performing Tawaf Near Kaaba",
+      "prompt": "Photorealistic 4:3 selfie of a young boy maintaining his exact facial features with dark almond-shaped eyes and a neutral expression. He is performing Tawaf in Masjid al-Haram in Mecca standing very close to the Kaaba while wearing traditional white Ihram clothing with natural fabric folds. The iconic golden door of the Kaaba is visible behind him. The scene includes a diverse crowd of pilgrims wearing white garments creating an authentic spiritual atmosphere. Bright natural daylight, soft shadows on the marble floor and black Kiswah of the Kaaba, clear blue sky, highly detailed mosque architecture, cinematic lighting and sharp focus on the boy’s face.",
+      "imageUrl": "https://images.iimg.live/images/supreme-photography-5550.webp",
+      "category": "Religious",
+      "tags": ["tawaf", "kaaba", "mecca", "pilgrimage", "ihram"]
+    }
+  ]
+}
