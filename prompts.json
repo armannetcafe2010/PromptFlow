@@ -25,30 +25,6 @@
       "imageUrl": "https://images.iimg.live/images/supreme-photography-5550.webp",
       "category": "Religious",
       "tags": ["tawaf", "kaaba", "mecca", "pilgrimage", "ihram"]
-    },
-    {
-      "id": "4",
-      "title": "Supplication at the Mataf",
-      "prompt": "A cinematic portrait of a young boy with a fair complexion and dark almond-shaped eyes, with his hands raised in sincere Dua (supplication ) while facing the Kaaba. He has a peaceful and focused expression, maintaining exact facial features from the reference photo. He is dressed in a crisp white Ihram. The background features the black Kiswah of the Kaaba and the golden calligraphy under the warm glow of the setting sun (golden hour). Soft bokeh effect on the background crowd, sharp focus on the boy's face and hands. Realistic skin textures and subsurface scattering.",
-      "imageUrl": "https://images.iimg.live/images/divine-moment-1234.webp",
-      "category": "Religious",
-      "tags": ["dua", "supplication", "mecca", "kaaba", "golden hour", "portrait"]
-    },
-    {
-      "id": "5",
-      "title": "Resting at the Prophet's Mosque",
-      "prompt": "A hyper-realistic image of a young boy with a fair complexion and short dark hair sitting on the ornate red and green carpets of Al-Masjid an-Nabawi in Medina. He is wearing a clean white thobe and a small white prayer cap (kufi ). His facial features, especially his dark eyes and neutral expression, are identical to the reference photo. In the background, the iconic giant white umbrellas and the green dome of the Prophet's Mosque are visible through the arches. Soft, diffused indoor lighting, sharp focus on the subject, peaceful and serene atmosphere.",
-      "imageUrl": "https://images.iimg.live/images/serene-medina-5678.webp",
-      "category": "Religious",
-      "tags": ["medina", "prophet's mosque", "thobe", "kufi", "serene", "architecture"]
-    },
-    {
-      "id": "6",
-      "title": "Reading Quran in the Mosque",
-      "prompt": "A close-up, high-detail photo of a young boy with a fair complexion and dark eyes, sitting cross-legged and reading from a large, open Quran on a wooden book stand (rehal ). He is wearing a traditional white thobe. His facial features are captured with 1:1 precision from the reference photo. The scene is set inside a beautifully decorated mosque with intricate Islamic geometric patterns and marble pillars. Natural light from a high window illuminates the pages and the boy's face. Shallow depth of field, 8k resolution, authentic and calm religious setting.",
-      "imageUrl": "https://images.iimg.live/images/holy-study-9012.webp",
-      "category": "Religious",
-      "tags": ["quran", "mosque", "thobe", "reading", "spiritual", "detail"]
     }
   ]
 }
