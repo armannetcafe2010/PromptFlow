@@ -121,6 +121,14 @@
       "imageUrl": "https://images.iimg.live/images/amazing-vision-4480.webp",
       "category": "Portrait",
       "tags": ["cinematic", "portrait", "4k", "ultra-realistic", "grass field", "Royal Enfield Hunter 350", "golden hour", "gray outfit", "Instagram style", "male model", "motorcycle"]
-    }
+    },
+    {
+    "id": "16",
+    "title": "Fan Moment with Shahrukh Khan",
+    "prompt": "Create an ultra-realistic 4K photograph of a fan meeting a legendary Bollywood-style superstar, Shahrukh Khan, at a premium, red-carpet-style event. The superstar is wearing a classy black outfit, exuding confidence, charm, and a warm smile for the camera. The fan (use the reference image provided — keep my face 100% identical, including skin texture, facial hair, hairstyle, expression, and all facial features with no alterations) stands beside the superstar, slightly leaning in for a friendly picture. Maintain realistic body proportions, natural lighting, reflections, and shadows, capturing the excitement of the moment. Background: premium event environment with subtle blur to focus on the two subjects, soft cinematic lighting, natural depth of field. Ensure the fan and superstar appear naturally together in a photorealistic, high-quality, Instagram-ready photograph. Shot with a high-end portrait lens, f/1.8 aperture, HDR, 4K resolution, cinematic color grading, photorealistic details in clothing, skin, and hair.",
+    "imageUrl": "https://images.iimg.live/images/awesome-moment-5000.webp",
+    "category": "Portrait",
+    "tags": ["cinematic", "portrait", "4k", "ultra-realistic", "fan moment", "Shahrukh Khan", "red carpet", "Instagram style", "male model", "celebrity"]
+  }
   ]
 }
