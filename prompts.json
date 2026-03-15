@@ -86,18 +86,18 @@
       "id": "11",
       "title": "Resting in the Shade of Al-Haram",
       "prompt": "A cinematic 9:16 vertical candid portrait of the subject from the reference photo resting calmly against a white marble pillar inside Masjid al-Haram, wearing a simple white Ihram, the subject’s dark almond-shaped eyes and neutral peaceful expression captured with high facial accuracy, cool indirect light reflecting softly from the polished marble surfaces creating natural highlights and realistic skin tones, subtle shadows adding depth, the background softly blurred showing a glimpse of the open courtyard and clear blue sky, tranquil spiritual atmosphere, photorealistic, natural color grading, high dynamic range, shallow depth of field, ultra-detailed textures of marble and fabric, cinematic photography shot on an 85mm lens at f/1.8, ISO 100, ultra-realistic 8K quality.",
-      "imageUrl": "",
+      "imageUrl": "https://images.iimg.live/images/stellar-gallery-1205.webp",
       "category": "Religious",
       "tags": ["masjid al-haram", "mecca", "ihram", "pilgrim", "marble pillar", "spiritual", "peaceful", "islamic pilgrimage", "resting", "photorealistic"]
 },
-  {
-    "id": "12",
-    "title": "Performing Sa'i Between Safa and Marwa",
-    "prompt": "Action-oriented shot of the subject from the reference photo walking through the long, air-conditioned corridor between Safa and Marwa. Maintaining the exact facial structure and short dark hair. Wearing a white Ihram. The background features the modern architectural arches and the green lights indicating the running area. Bright, even lighting with realistic reflections on the polished floor. Sharp focus on the subject's face, conveying a sense of purpose and devotion.",
-    "imageUrl": "",
-    "category": "Religious",
-    "tags": ["sai", "safa-marwa", "mecca", "ihram", "ritual"]
-  },
+{
+  "id": "12",
+  "title": "Performing Sa'i Between Safa and Marwa",
+  "prompt": "A professional cinematic 9:16 vertical action portrait of the subject from the reference photo performing Sa'i while walking through the long corridor between Safa and Marwa inside Masjid al-Haram, preserving the exact facial structure, natural skin texture, and short dark hair of the subject, wearing a simple white Ihram, captured mid-stride with a calm yet focused expression conveying devotion and purpose, the modern marble corridor with repeating architectural arches and the green illuminated markers of the Sa'i running area visible in the softly blurred background, bright balanced indoor lighting reflecting naturally from the polished marble floor, realistic shadows and highlights, natural yet vivid color grading with lifelike skin tones, ultra-detailed textures of fabric and marble, shallow depth of field keeping the subject sharply in focus while pilgrims and architecture fade into soft cinematic bokeh, photorealistic documentary-style photography shot on an 85mm lens at f/1.8, ISO 200, 1/500s shutter speed, high dynamic range, ultra-realistic 8K quality.",
+  "imageUrl": "https://images.iimg.live/images/wonderful-collection-1327.webp",
+  "category": "Religious Portrait",
+  "tags": ["sai", "safa marwa", "masjid al-haram", "mecca", "ihram", "pilgrimage", "umrah ritual", "devotion", "islamic ritual", "photorealistic"]
+},
   {
     "id": "13",
     "title": "Sunset Prayer at the Mosque Perimeter",
