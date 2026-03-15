@@ -82,14 +82,14 @@
       "category": "Religious",
       "tags": ["kiswah", "kaaba", "mecca", "touch", "spiritual"]
     },
-  {
-    "id": "11",
-    "title": "Resting in the Shade of Al-Haram",
-    "prompt": "Candid portrait of the subject from the reference photo resting against a white marble pillar inside the Masjid al-Haram. The subject's dark almond-shaped eyes and neutral expression are captured with 1:1 precision. Wearing a white Ihram. The scene is illuminated by cool, indirect light reflecting off the marble surfaces. The background shows a glimpse of the open courtyard and the clear blue sky. Peaceful and quiet atmosphere, realistic shadows and skin tones.",
-    "imageUrl": "",
-    "category": "Religious",
-    "tags": ["rest", "mecca", "ihram", "marble", "peaceful"]
-  },
+    {
+      "id": "11",
+      "title": "Resting in the Shade of Al-Haram",
+      "prompt": "A cinematic 9:16 vertical candid portrait of the subject from the reference photo resting calmly against a white marble pillar inside Masjid al-Haram, wearing a simple white Ihram, the subject’s dark almond-shaped eyes and neutral peaceful expression captured with high facial accuracy, cool indirect light reflecting softly from the polished marble surfaces creating natural highlights and realistic skin tones, subtle shadows adding depth, the background softly blurred showing a glimpse of the open courtyard and clear blue sky, tranquil spiritual atmosphere, photorealistic, natural color grading, high dynamic range, shallow depth of field, ultra-detailed textures of marble and fabric, cinematic photography shot on an 85mm lens at f/1.8, ISO 100, ultra-realistic 8K quality",
+      "imageUrl": "",
+      "category": "Religious",
+      "tags": ["masjid al-haram", "mecca", "ihram", "pilgrim", "marble pillar", "spiritual", "peaceful", "islamic pilgrimage", "resting", "photorealistic"]
+},
   {
     "id": "12",
     "title": "Performing Sa'i Between Safa and Marwa",
