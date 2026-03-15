@@ -217,6 +217,46 @@
     "imageUrl": "https://images.iimg.live/images/glorious-creation-8542.webp",
     "category": "Animals",
     "tags": ["human", "male", "deer", "autumn", "forest", "cinematic", "vertical"]
+  },
+  {
+    "id": "28",
+    "title": "Man Hugging Baby Lamb in Spring Meadow",
+    "prompt": "A heartwarming portrait of a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He gently hugs a fluffy baby lamb while a curious brown rabbit nibbles on the grass nearby. The scene is set in a serene spring meadow with colorful wildflowers, soft green grass, and gentle morning sunlight filtering through light clouds. Soft diffused natural lighting illuminates [Subject] and the animals, cinematic color grading, 85mm lens at f/1.8 aperture creating beautiful bokeh. High dynamic range, film still quality, mood is peaceful, tender, and joyful, perfectly framed for a vertical 9:16 composition.",
+    "imageUrl": "null",
+    "category": "Animals",
+    "tags": ["human", "male", "lamb", "rabbit", "spring", "meadow", "cinematic", "vertical"]
+  },
+  {
+    "id": "29",
+    "title": "Man Feeding Red Fox in Autumn Forest",
+    "prompt": "A heartwarming portrait of a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He gently extends his hand with nuts to a curious red fox, while a small squirrel perches on a fallen log observing. The scene is set in a golden autumn forest with tall maple and oak trees, scattered fallen leaves, and soft morning mist. Soft diffused natural lighting highlights [Subject]'s face and the fox’s fur, cinematic color grading, 85mm lens at f/1.8 aperture creating beautiful bokeh. High dynamic range, film still quality, mood is immersive, peaceful, and heartwarming, perfectly framed for 9:16 vertical.",
+    "imageUrl": "null",
+    "category": "Animals",
+    "tags": ["human", "male", "fox", "squirrel", "autumn", "forest", "cinematic", "vertical"]
+  },
+  {
+    "id": "30",
+    "title": "Man with Baby Owl on Arm in Misty Woods",
+    "prompt": "A heartwarming portrait of a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He gently holds a fluffy baby owl perched on his arm while a curious hedgehog sniffs the mossy ground nearby. The scene is set in a misty forest with towering pine trees, fallen leaves, and soft morning fog. Soft diffused natural lighting illuminates [Subject] and the owl, cinematic color grading, 85mm lens at f/1.8 aperture producing beautiful bokeh. High dynamic range, film still quality, mood is tender, serene, and magical, framed for vertical 9:16 aspect ratio.",
+    "imageUrl": "null",
+    "category": "Animals",
+    "tags": ["human", "male", "owl", "hedgehog", "forest", "misty", "cinematic", "vertical"]
+  },
+  {
+    "id": "31",
+    "title": "Man Hugging Baby Deer in Snowy Winter Woods",
+    "prompt": "A heartwarming portrait of a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He gently hugs a small baby deer while a playful fox watches from nearby, its breath visible in the cold air. The scene is set in a serene winter forest covered in fresh snow with falling snowflakes and snow-dusted evergreen trees. Soft diffused natural lighting illuminates [Subject] and the animals, cinematic color grading, 85mm lens at f/1.8 aperture creating beautiful bokeh. High dynamic range, film still quality, mood is tender, peaceful, and immersive, perfectly framed for vertical 9:16.",
+    "imageUrl": "null",
+    "category": "Animals",
+    "tags": ["human", "male", "deer", "fox", "winter", "forest", "cinematic", "vertical"]
+  },
+  {
+    "id": "32",
+    "title": "Man Feeding Ducklings by Autumn Pond",
+    "prompt": "A heartwarming portrait of a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He gently feeds a group of fluffy ducklings while a curious raccoon watches from a nearby rock. The scene is set by a calm pond surrounded by golden autumn trees, scattered leaves, and soft morning mist. Soft diffused natural lighting highlights [Subject] and the ducklings, cinematic color grading, 85mm lens at f/1.8 aperture creating beautiful bokeh. High dynamic range, film still quality, mood is gentle, heartwarming, and immersive, perfectly framed for vertical 9:16 aspect ratio.",
+    "imageUrl": "null",
+    "category": "Animals",
+    "tags": ["human", "male", "ducklings", "raccoon", "autumn", "pond", "cinematic", "vertical"]
   }
   ]
 }
