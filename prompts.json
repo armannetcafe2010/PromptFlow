@@ -58,30 +58,30 @@
     "category": "Religious",
     "tags": ["medina", "umbrellas", "thobe", "walking", "cinematic"]
   },
-  {
-    "id": "8",
-    "title": "Reciting Quran by the Kaaba",
-    "prompt": "Ultra-photorealistic close-up portrait (9:16 vertical) of the subject from the reference photo, focusing on the dark eyes and straight nasal bridge as they look down at a small Quran held in their hands. The subject’s facial features are preserved with high identity accuracy. Seated on the white marble of the Mataf inside Masjid al-Haram with the Kaaba and its black and gold Kiswah softly visible directly behind. Wearing traditional white Ihram clothing with natural fabric folds. Soft, diffused lighting gently illuminates the face, emphasizing realistic skin texture and the fine details of the Quranic script. Shot on a 50mm lens, f/1.8 aperture, shallow depth of field, creamy bokeh background, sharp focus on the face and the Quran. Cinematic lighting, HDR, natural color grading, ultra-detailed, 8K resolution, deeply spiritual and quiet atmosphere.",
-    "imageUrl": "https://images.iimg.live/images/perfect-scene-4969.webp",
-    "category": "Religious",
-    "tags": ["quran", "kaaba", "mecca", "ihram", "focus"]
-  },
-  {
-  "id": "9",
-  "title": "Arafat Pilgrim Vertical Portrait",
-  "prompt": "A photorealistic 9:16 vertical portrait with a low camera angle, focusing on the male subject from the reference photo standing on the rocky terrain of Mount Arafat. The camera is positioned lower, pointing slightly upward to emphasize the subject and reduce the amount of sky visible. The subject is in the foreground, captured from the chest up. Maintain the exact facial features, fair complexion, and short dark hair with textured bangs as seen in the reference. He is wearing a white Ihram draped over his shoulder. The background shows the vast plain of Arafat with white tents and pilgrims under a soft, hazy morning light, with the horizon line positioned higher in the frame. Deep atmospheric depth, sharp focus on the subject's calm and prayerful expression. High detail, cinematic lighting, 8k resolution, professional photography style.",
-  "imageUrl": "https://images.iimg.live/images/stellar-creation-7865.webp",
-  "category": "Religious",
-  "tags": ["Hajj", "Mount Arafat", "Ihram", "Photorealistic", "Portrait", "9:16"]
-  },
-  {
-    "id": "10",
-    "title": "Touching the Kaaba's Kiswah",
-    "prompt": "A powerful close-up shot of the subject from the reference photo, with one hand gently touching the black silk and gold embroidery of the Kaaba's Kiswah. The subject's face is seen in profile, showing the distinct straight nasal bridge and youthful jawline. Wearing a white Ihram. The background is a soft blur of the golden door and the surrounding crowd. Intense, dramatic lighting highlighting the texture of the silk and the subject's fair skin. High dynamic range, cinematic quality.",
-    "imageUrl": "",
-    "category": "Religious",
-    "tags": ["kiswah", "kaaba", "mecca", "touch", "spiritual"]
-  },
+    {
+      "id": "8",
+      "title": "Reciting Quran by the Kaaba",
+      "prompt": "Ultra-photorealistic close-up portrait (9:16 vertical) of the subject from the reference photo, focusing on the dark eyes and straight nasal bridge as they look down at a small Quran held in their hands. The subject’s facial features are preserved with high identity accuracy. Seated on the white marble of the Mataf inside Masjid al-Haram with the Kaaba and its black and gold Kiswah softly visible directly behind. Wearing traditional white Ihram clothing with natural fabric folds. Soft, diffused lighting gently illuminates the face, emphasizing realistic skin texture and the fine details of the Quranic script. Shot on a 50mm lens, f/1.8 aperture, shallow depth of field, creamy bokeh background, sharp focus on the face and the Quran. Cinematic lighting, HDR, natural color grading, ultra-detailed, 8K resolution, deeply spiritual and quiet atmosphere.",
+      "imageUrl": "https://images.iimg.live/images/perfect-scene-4969.webp",
+      "category": "Religious",
+      "tags": ["quran", "kaaba", "mecca", "ihram", "focus"]
+    },
+    {
+      "id": "9",
+      "title": "Arafat Pilgrim Vertical Portrait",
+      "prompt": "A photorealistic 9:16 vertical portrait with a low camera angle, focusing on the male subject from the reference photo standing on the rocky terrain of Mount Arafat. The camera is positioned lower, pointing slightly upward to emphasize the subject and reduce the amount of sky visible. The subject is in the foreground, captured from the chest up. Maintain the exact facial features, fair complexion, and short dark hair with textured bangs as seen in the reference. He is wearing a white Ihram draped over his shoulder. The background shows the vast plain of Arafat with white tents and pilgrims under a soft, hazy morning light, with the horizon line positioned higher in the frame. Deep atmospheric depth, sharp focus on the subject's calm and prayerful expression. High detail, cinematic lighting, 8k resolution, professional photography style.",
+      "imageUrl": "https://images.iimg.live/images/stellar-creation-7865.webp",
+      "category": "Religious",
+      "tags": ["Hajj", "Mount Arafat", "Ihram", "Photorealistic", "Portrait", "9:16"]
+    },
+    {
+      "id": "10",
+      "title": "Touching the Kaaba's Kiswah",
+      "prompt": "A powerful close-up shot of the subject from the reference photo, with one hand gently touching the black silk and gold embroidery of the Kaaba's Kiswah. The subject's face is seen in profile, showing the distinct straight nasal bridge and youthful jawline. Wearing a white Ihram. The background is a soft blur of the golden door and the surrounding crowd. Intense, dramatic lighting highlighting the texture of the silk and the subject's fair skin. High dynamic range, cinematic quality.",
+      "imageUrl": "",
+      "category": "Religious",
+      "tags": ["kiswah", "kaaba", "mecca", "touch", "spiritual"]
+    },
   {
     "id": "11",
     "title": "Resting in the Shade of Al-Haram",
