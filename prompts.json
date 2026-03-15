@@ -142,7 +142,7 @@
     "id": "18",
     "title": "Urban Explorer in Historic European City",
     "prompt": "A candid shot of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are walking through a narrow cobblestone street in a historic European city (e.g., Rome, Paris), wearing a stylish casual outfit (e.g., a well-fitted jacket, jeans, and comfortable shoes). Ancient architecture and bustling street life fill the background, with warm afternoon sunlight. Realistic style with a travel photography feel, capturing movement and atmosphere.",
-    "imageUrl": "https://images.iimg.live/images/european-city-5678.webp",
+    "imageUrl": "",
     "category": "Travel",
     "tags": ["portrait", "travel", "urban", "historic", "candid"]
   },
@@ -150,7 +150,7 @@
     "id": "19",
     "title": "Master Chef in Gourmet Kitchen",
     "prompt": "A dynamic shot of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are wearing a clean chef's jacket and apron, intensely focused on plating a gourmet dish in a professional, stainless-steel kitchen. Steam rises from a pan in the background, and soft, warm lighting highlights the food. Realistic style with a culinary photography aesthetic, emphasizing precision and passion.",
-    "imageUrl": "https://images.iimg.live/images/gourmet-chef-9012.webp",
+    "imageUrl": "",
     "category": "Professional",
     "tags": ["portrait", "chef", "kitchen", "culinary", "dynamic"]
   },
@@ -158,7 +158,7 @@
     "id": "20",
     "title": "Intellectual Reader in Cozy Bookstore",
     "prompt": "A serene portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are comfortably seated in an armchair by a window in a charming, old-fashioned bookstore, engrossed in a book. Shelves filled with books line the background, and warm, soft light streams in from the window. Realistic style with a cozy, inviting atmosphere, emphasizing intellectual curiosity.",
-    "imageUrl": "https://images.iimg.live/images/bookstore-reading-3456.webp",
+    "imageUrl": "",
     "category": "Lifestyle",
     "tags": ["portrait", "reading", "bookstore", "cozy", "serene"]
   },
@@ -166,7 +166,7 @@
     "id": "21",
     "title": "Passionate Musician in Dimly Lit Jazz Club",
     "prompt": "A captivating portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are playing a saxophone (or guitar/piano) on a small stage in a dimly lit, intimate jazz club. The background is blurred with warm spotlights and silhouettes of an appreciative audience. Realistic style with a moody, atmospheric quality, emphasizing passion and musical talent.",
-    "imageUrl": "https://images.iimg.live/images/jazz-musician-7890.webp",
+    "imageUrl": "",
     "category": "Artistic",
     "tags": ["portrait", "musician", "jazz", "club", "atmospheric"]
   },
@@ -174,7 +174,7 @@
     "id": "22",
     "title": "Adventurous Hiker in Mountain Landscape",
     "prompt": "A wide shot of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are standing on a mountain trail, looking out over a breathtaking panoramic view of rugged peaks and a clear blue sky. They are wearing appropriate hiking gear. The lighting is bright and natural, emphasizing the grandeur of nature. Realistic style with an adventurous, inspiring feel.",
-    "imageUrl": "https://images.iimg.live/images/mountain-hike-1122.webp",
+    "imageUrl": "",
     "category": "Adventure",
     "tags": ["portrait", "hiking", "mountains", "nature", "adventure"]
   },
@@ -182,7 +182,7 @@
     "id": "23",
     "title": "Creative Street Artist in Vibrant Alley",
     "prompt": "A dynamic shot of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are in the process of creating a vibrant mural on a brick wall in a colorful urban alleyway, holding a spray can. The background is filled with other street art, graffiti, and interesting textures. Bright, diffused daylight illuminates the scene. Realistic style with an energetic, creative vibe, capturing the essence of urban art.",
-    "imageUrl": "https://images.iimg.live/images/street-artist-3344.webp",
+    "imageUrl": "",
     "category": "Artistic",
     "tags": ["portrait", "street art", "urban", "creative", "dynamic"]
   },
@@ -190,7 +190,7 @@
     "id": "24",
     "title": "Serene Participant in Traditional Tea Ceremony",
     "prompt": "A serene portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are participating in a traditional tea ceremony, seated gracefully on a tatami mat in a minimalist Japanese tea room. The background features subtle shoji screens and delicate floral arrangements. Soft, natural light illuminates the scene, creating a peaceful and respectful atmosphere. Realistic style with a focus on cultural authenticity and tranquility.",
-    "imageUrl": "https://images.iimg.live/images/tea-ceremony-5566.webp",
+    "imageUrl": "",
     "category": "Cultural",
     "tags": ["portrait", "cultural", "japanese", "tea ceremony", "serene"]
   },
@@ -198,7 +198,7 @@
     "id": "25",
     "title": "Scenic Photographer in Golden Hour Landscape",
     "prompt": "A silhouette of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are standing on a hill at golden hour, holding a professional camera, capturing a stunning landscape. The sky is painted with warm orange and pink hues, and the distant scenery is bathed in soft, directional light. Realistic style with an artistic, evocative feel, emphasizing the beauty of nature and the art of photography.",
-    "imageUrl": "https://images.iimg.live/images/photographer-golden-hour-7788.webp",
+    "imageUrl": "",
     "category": "Artistic",
     "tags": ["portrait", "photographer", "golden hour", "landscape", "artistic"]
   },
@@ -206,9 +206,17 @@
     "id": "26",
     "title": "Lively Shopper in Bustling Farmers Market",
     "prompt": "A vibrant, candid shot of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are browsing fresh produce at a bustling outdoor farmers market, holding a reusable canvas bag. The background is filled with colorful stalls, diverse people, and natural light. Realistic style with a lively, community-focused atmosphere, capturing everyday charm.",
-    "imageUrl": "https://images.iimg.live/images/farmers-market-9900.webp",
+    "imageUrl": "",
     "category": "Lifestyle",
     "tags": ["portrait", "market", "urban", "lifestyle", "vibrant"]
+  },
+  {
+    "id": "27",
+    "title": "Man Feeding Baby Deer in Autumn Forest",
+    "prompt": "A heartwarming portrait of a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He gently kneels on a carpet of golden autumn leaves, offering a handful of food to a curious baby deer with soft brown fur and bright eyes, while a small red squirrel perches on a nearby log, watching curiously. The scene is set in a serene autumn forest with tall maple and oak trees, scattered fallen leaves, and soft morning mist creating depth. Soft diffused natural lighting illuminates the scene, cinematic color grading, 85mm lens at f/1.8 aperture creating beautiful bokeh. High dynamic range, film still quality, mood is tender, peaceful, and immersive, perfectly composed for a vertical 9:16 aspect ratio.",
+    "imageUrl": "https://images.iimg.live/images/glorious-creation-8542.webp",
+    "category": "Animals",
+    "tags": ["human", "male", "deer", "autumn", "forest", "cinematic", "vertical"]
   }
   ]
 }
