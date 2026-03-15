@@ -99,13 +99,13 @@
   "tags": ["sai", "safa marwa", "masjid al-haram", "mecca", "ihram", "pilgrimage", "umrah ritual", "devotion", "islamic ritual", "photorealistic"]
 },
   {
-    "id": "13",
-    "title": "Sunset Prayer at the Mosque Perimeter",
-    "prompt": "Wide cinematic shot of the subject from the reference photo standing on the outer balcony of the Masjid al-Haram at sunset. The subject's fair complexion and dark eyes are visible in the warm orange light. Wearing a white Ihram. The background features the towering minarets of the mosque and the clock tower against a vibrant purple and orange sky. Dramatic lighting, deep shadows, and a majestic spiritual atmosphere. 24mm wide-angle lens look, 8k resolution.",
-    "imageUrl": "",
-    "category": "Religious",
-    "tags": ["sunset", "mecca", "minarets", "ihram", "majestic"]
-  },
+  "id": "13",
+  "title": "Sunset Prayer at the Mosque Perimeter",
+  "prompt": "A cinematic 9:16 vertical wide-angle portrait of the subject from the reference photo standing on the outer balcony of Masjid al-Haram during sunset, wearing a white Ihram, showing the subject's fair complexion, dark eyes, and calm contemplative expression, captured with high facial accuracy, warm natural orange and purple sunset light illuminating the skin, realistic shadows and reflections, the background featuring towering mosque minarets and the clock tower softly blurred yet recognizable, majestic spiritual atmosphere with dramatic yet natural lighting, ultra-detailed textures of fabric and architecture, photorealistic, natural and vivid color grading, shallow depth of field on the subject while preserving architectural context, 24mm wide-angle lens, f/2.8, ISO 200, 1/200s shutter speed, 8K ultra-high resolution, cinematic composition.",
+  "imageUrl": "https://images.iimg.live/images/radiant-photography-8260.webp",
+  "category": "Religious",
+  "tags": ["sunset", "masjid al-haram", "mecca", "minarets", "ihram", "pilgrimage", "spiritual", "majestic", "photorealistic", "cinematic"]
+},
     {
       "id": "14",
       "title": "Cinematic Portrait with Yamaha MT-15",
