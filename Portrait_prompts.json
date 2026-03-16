@@ -1,7 +1,6 @@
 {
   "version": "1.0.0",
   "category": "Portrait",
-  "count": 4,
   "prompts": [
     {
       "id": "1",
