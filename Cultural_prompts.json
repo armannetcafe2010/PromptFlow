@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "category": "Cultural",
+  "count": 1,
+  "prompts": [
+    {
+      "id": "24",
+      "title": "Serene Participant in Traditional Tea Ceremony",
+      "prompt": "A serene, culturally authentic portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are gracefully participating in a traditional Japanese tea ceremony, seated on a tatami mat in a minimalist tea room. The background features delicate shoji screens, subtle floral arrangements, bamboo accents, and low wooden furniture, creating an atmosphere of calm elegance. Soft natural light filters gently through the screens, casting diffuse highlights and subtle shadows that enhance textures of fabric, wood, and ceramics. Captured in a realistic cultural lifestyle photography style, emphasizing tranquility, mindfulness, and refined detail. Shallow depth of field focuses on the subject while softly blurring the background. Shot on a full-frame camera with a 50mm lens at f/1.8 aperture, producing creamy bokeh and sharp subject focus. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/majestic-work-6604.webp",
+      "category": "Cultural",
+      "tags": [
+        "portrait",
+        "cultural",
+        "japanese",
+        "tea ceremony",
+        "serene"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "category": "Professional",
+  "count": 2,
+  "prompts": [
+    {
+      "id": "17",
+      "title": "Modern Professional in Co-working Space",
+      "prompt": "A portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are seated at a sleek wooden desk in a modern, brightly lit co-working space, focused on a laptop. The background features blurred contemporary office furniture, large windows with soft daylight, and subtle greenery. Realistic style with cinematic quality, sharp focus on the subject and slightly blurred background.",
+      "imageUrl": "https://images.iimg.live/images/glorious-picture-6027.webp",
+      "category": "Professional",
+      "tags": [
+        "portrait",
+        "professional",
+        "modern",
+        "office",
+        "cinematic"
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Master Chef in Gourmet Kitchen",
+      "prompt": "A dynamic culinary photograph of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are wearing a clean white chef’s jacket and a professional apron, intensely focused on carefully plating a gourmet dish in a modern stainless-steel professional kitchen. Steam rises gently from a pan in the background, while polished metal surfaces, hanging utensils, and subtle kitchen activity create an authentic restaurant atmosphere. Warm directional kitchen lighting highlights the food and creates dramatic shadows, emphasizing texture and detail. Captured in a realistic culinary photography style with cinematic composition, shallow depth of field, ultra-detailed textures, and natural motion. Shot on a full-frame camera with an 85mm lens at f/1.8 aperture, producing soft background bokeh and sharp subject focus. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/brilliant-photo-7948.webp",
+      "category": "Professional",
+      "tags": [
+        "portrait",
+        "chef",
+        "kitchen",
+        "culinary",
+        "dynamic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "category": "Travel",
+  "count": 1,
+  "prompts": [
+    {
+      "id": "18",
+      "title": "Urban Explorer in Historic European City",
+      "prompt": "A candid travel photograph of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are walking through a narrow cobblestone street in a historic European city such as Rome or Paris, wearing a stylish casual outfit — a well-fitted jacket, jeans, and comfortable shoes. Elegant old buildings, cafés, and subtle street activity fill the background, creating an authentic European atmosphere. Warm afternoon sunlight casts soft golden tones and long shadows across the street. Captured in a realistic travel photography style with natural movement and depth, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on a full-frame camera with an 88mm lens, f/1.8 aperture, natural bokeh. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3192.webp",
+      "category": "Travel",
+      "tags": [
+        "portrait",
+        "travel",
+        "urban",
+        "historic",
+        "candid"
+      ]
+    }
+  ]
+}

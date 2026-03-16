@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "category": "Adventure",
+  "count": 1,
+  "prompts": [
+    {
+      "id": "22",
+      "title": "Adventurous Hiker in Mountain Landscape",
+      "prompt": "A cinematic wide-angle adventure photograph of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are standing confidently on a rugged mountain trail, gazing out over a breathtaking panoramic landscape of dramatic alpine peaks, deep valleys, and a vast clear blue sky stretching to the horizon. The subject is dressed in realistic hiking gear — a weather-resistant jacket, hiking boots, and a backpack — suggesting an active outdoor journey. The environment features rocky terrain, distant snow-capped mountains, and subtle clouds drifting across the sky, creating a sense of scale and freedom. Bright natural daylight illuminates the landscape, casting crisp shadows and highlighting the textures of stone, grass, and distant ridges. Captured in a realistic outdoor adventure photography style with cinematic composition, strong depth, and natural color grading that emphasizes the grandeur of nature. Shot on a full-frame camera with a 24mm wide-angle lens at f/4 aperture, capturing expansive scenery with sharp detail and natural perspective. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/cool-capture-5602.webp",
+      "category": "Adventure",
+      "tags": [
+        "portrait",
+        "hiking",
+        "mountains",
+        "nature",
+        "adventure"
+      ]
+    }
+  ]
+}
