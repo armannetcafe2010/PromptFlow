@@ -766,11 +766,11 @@
       },
       {
         "id": "63",
-        "title": "Canadian Soldier Base",
-        "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He stands in full Canadian Army uniform with the Canada flag patch, tactical vest, and helmet. Behind him, a Canadian military base with armored vehicles, hangars, and forested hills under soft sunlight. Professional cinematic color grading emphasizes warm earthy tones with subtle highlights. Shot with 85mm lens at f/1.8, shallow depth of field, soft bokeh, HDR, vertical 9:16 composition, mood is strong, vigilant, cinematic.",
+        "title": "Canadian Army Sentinel at Mountain Base",
+        "prompt": "An ultra-realistic cinematic portrait of [Subject], a young man with a fair complexion, deep brown eyes, and short neatly styled dark hair with a light beard and mustache. He stands facing the camera at a Canadian military base, wearing a full modern Canadian Army combat uniform with a visible Canada flag shoulder patch, tactical vest with loaded pouches, and combat helmet. His posture is steady and confident, expression focused and vigilant. The background features a realistic operational base with armored vehicles, military hangars, and forested hills under warm natural sunlight. Golden hour lighting creates soft highlights and natural shadows across the scene. High-end cinematic color grading with warm earthy tones enhances realism and depth. Captured using an 85mm lens at f/1.8, producing shallow depth of field and smooth bokeh. Full-frame vertical 9:16 composition, subject perfectly centered, no borders, no black bars, no letterboxing, edge-to-edge image fill. Ultra-detailed, HDR, sharp focus. The mood is strong, disciplined, and cinematic.",
         "imageUrl": "null",
         "category": "Military",
-        "tags": ["human","male","soldier","Canada","military","Canadian flag","base","cinematic","vertical"]
+        "tags": ["human","male","soldier","Canada","military","Canadian flag","base","cinematic","vertical","ultra-realistic","HDR","85mm","no borders"]
       }
   ]
 }
