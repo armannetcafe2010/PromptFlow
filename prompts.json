@@ -787,8 +787,66 @@
         "imageUrl": "https://images.iimg.live/images/fantastic-masterpiece-1271.webp",
         "category": "Military",
         "tags": ["War", "Combat", "Tactical", "9:16", "Hyperrealistic", "Cinematic", "Soldier"]
-      }
-      
-      
+      },
+
+    
+
+
+        {
+          "id": "66",
+          "title": "US Soldier: Urban Combat Zone",
+          "prompt": "Hyperrealistic, cinematic war-themed portrait of a soldier from the reference image in an urban combat zone. He is wearing modern tactical military gear, a dusty and weathered combat uniform with a plate carrier and helmet. His face shows a determined, intense, and stoic expression, slightly smudged with soot and dirt. Environment: War-torn streets with smoke, debris, and distant fires. Dramatic high-contrast lighting with cold daylight and orange glows from fire. Mid-shot, eye-level, sharp focus on eyes, shallow depth of field. 85mm f/2.0 lens, ultra-detailed textures, 9:16 aspect ratio.",
+          "imageUrl": "https://images.iimg.live/images/fantastic-capture-7268.webp",
+          "category": "Military",
+          "tags": ["War", "Combat", "Tactical", "9:16", "Soldier"]
+        },
+        {
+          "id": "65-2",
+          "title": "Military Portrait: Battlefield Streets",
+          "prompt": "Hyperrealistic cinematic portrait of a soldier in the heat of battle on battlefield streets. He wears modern tactical gear, dusty combat uniform with plate carrier and helmet. Intense, stoic expression with soot and dirt on his face. Environment: War-torn urban streets, smoke, fire, and scattered debris. Dramatic lighting, mid-shot, sharp eyes, shallow depth of field, 85mm f/2.0 lens, ultra-detailed textures, 9:16 aspect ratio.",
+          "imageUrl": "",
+          "category": "Military",
+          "tags": ["War", "Combat", "Tactical", "9:16", "Soldier"]
+        },
+        {
+          "id": "65-3",
+          "title": "Military Portrait: Smoke and Debris",
+          "prompt": "Hyperrealistic portrait of a soldier amidst smoke and debris in a war-torn city. Wearing modern tactical military gear, dusty combat uniform, plate carrier, and helmet. Determined and stoic facial expression with soot and dirt. Environment: Chaotic battlefield with fire and falling debris. Dramatic high-contrast lighting, mid-shot, shallow depth of field, sharp focus on eyes, ultra-detailed textures, 85mm f/2.0 lens, 9:16 aspect ratio.",
+          "imageUrl": "",
+          "category": "Military",
+          "tags": ["War", "Combat", "Tactical", "9:16", "Soldier"]
+        },
+        {
+          "id": "65-4",
+          "title": "Military Portrait: Tactical Soldier in Action",
+          "prompt": "Hyperrealistic cinematic portrait of a tactical soldier in action during urban warfare. Wearing full modern military gear, dusty combat uniform with plate carrier, and helmet. Intense, determined face smudged with dirt and soot. Environment: War-torn city streets with smoke, fire, and debris. Dramatic lighting, mid-shot, eye-level, sharp focus on eyes, shallow depth of field, 85mm f/2.0 lens, ultra-detailed textures, 9:16 aspect ratio.",
+          "imageUrl": "",
+          "category": "Military",
+          "tags": ["War", "Combat", "Tactical", "9:16", "Soldier"]
+        },
+        {
+          "id": "65-5",
+          "title": "Military Portrait: War-Torn Cityscape",
+          "prompt": "Hyperrealistic portrait of a soldier standing in a war-torn cityscape. Wearing modern tactical military gear, dusty combat uniform with plate carrier and helmet. Stoic, intense expression with dirt and soot on face. Environment: Ruined urban buildings, smoke, distant fires, and debris. Dramatic lighting, mid-shot, sharp focus on eyes, shallow depth of field, 85mm f/2.0 lens, ultra-detailed textures, 9:16 aspect ratio.",
+          "imageUrl": "",
+          "category": "Military",
+          "tags": ["War", "Combat", "Tactical", "9:16", "Soldier"]
+        },
+        {
+          "id": "65-6",
+          "title": "Military Portrait: Soldier on Duty",
+          "prompt": "Hyperrealistic cinematic portrait of a soldier on duty in an urban battlefield. Wearing modern tactical gear, dusty and weathered combat uniform with plate carrier and helmet. Determined and stoic expression, face smudged with soot and dirt. Environment: War-torn streets with smoke, fire, and debris. Dramatic high-contrast lighting, mid-shot, eye-level, shallow depth of field, sharp focus on eyes, 85mm f/2.0 lens, ultra-detailed textures, 9:16 aspect ratio.",
+          "imageUrl": "",
+          "category": "Military",
+          "tags": ["War", "Combat", "Tactical", "9:16", "Soldier"]
+        },
+        {
+          "id": "65-7",
+          "title": "Military Portrait: Urban Warfare Scene",
+          "prompt": "Hyperrealistic cinematic portrait of a soldier in an urban warfare scene. Wearing modern tactical military gear, dusty combat uniform with plate carrier and helmet. Intense and stoic expression with dirt and soot. Environment: War-torn city streets, smoke, fire, and debris. Dramatic lighting, mid-shot, eye-level, shallow depth of field, sharp focus on eyes, ultra-detailed textures, 85mm f/2.0 lens, 9:16 aspect ratio.",
+          "imageUrl": "",
+          "category": "Military",
+          "tags": ["War", "Combat", "Tactical", "9:16", "Soldier"]
+        }
   ]
 }
