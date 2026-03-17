@@ -771,22 +771,6 @@
         "imageUrl": "null",
         "category": "Military",
         "tags": ["human","male","soldier","Canada","military","Canadian flag","base","cinematic","vertical"]
-      },
-      {
-        "id": "64",
-        "title": "Australian Soldier Base",
-        "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He wears full Australian Army uniform with the Australia flag patch, tactical vest, and helmet. Behind him, an Australian military base stretches with hangars, armored vehicles, and open terrain under dramatic cloudy sky. Professional cinematic color grading emphasizes muted earthy tones and natural highlights. Shot with 85mm lens at f/1.8, shallow depth of field, soft bokeh, HDR, vertical 9:16 composition, mood is vigilant, professional, cinematic.",
-        "imageUrl": "null",
-        "category": "Military",
-        "tags": ["human","male","soldier","Australia","military","Australian flag","base","cinematic","vertical"]
-      },
-      {
-        "id": "65",
-        "title": "Japanese Soldier Base",
-        "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He wears modern Japanese Self-Defense Force uniform with Japan flag patch, tactical vest, and helmet. Behind him, a Japanese military base stretches with hangars, training vehicles, and coastal hills under clear daylight. Professional cinematic color grading emphasizes subtle warm tones with natural highlights. Shot with 85mm lens at f/1.8, shallow depth of field, soft bokeh, HDR, vertical 9:16 composition, mood is disciplined, vigilant, cinematic.",
-        "imageUrl": "null",
-        "category": "Military",
-        "tags": ["human","male","soldier","Japan","military","Japanese flag","base","cinematic","vertical"]
       }
   ]
 }
