@@ -3,12 +3,172 @@
   "category": "Travel",
   "prompts": [
     {
-      "id": "18",
+      "id": "1",
       "title": "Urban Explorer in Historic European City",
       "prompt": "A candid travel photograph of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are walking through a narrow cobblestone street in a historic European city such as Rome or Paris, wearing a stylish casual outfit — a well-fitted jacket, jeans, and comfortable shoes. Elegant old buildings, cafés, and subtle street activity fill the background, creating an authentic European atmosphere. Warm afternoon sunlight casts soft golden tones and long shadows across the street. Captured in a realistic travel photography style with natural movement and depth, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on a full-frame camera with an 88mm lens, f/1.8 aperture, natural bokeh. 9:16 aspect ratio.",
       "imageUrl": "https://images.iimg.live/images/fantastic-image-3192.webp",
       "category": "Travel",
       "tags": ["portrait", "travel", "urban", "historic", "candid"]
+    },
+    {
+      "id": "2",
+      "title": "Morning Stroll by the Venice Canals",
+      "prompt": "A candid travel photograph of [Subject] with medium complexion, wavy brown hair tied back, walking along a canal in Venice. Wearing a light linen shirt, cropped trousers, and leather sandals. Gondolas float in the water, with colorful buildings reflecting in the calm morning light. Soft morning sunlight illuminates the scene, creating warm highlights and gentle shadows. Captured in photorealistic travel photography style with shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on a full-frame camera with 50mm lens, f/2.0 aperture. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3200.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "canal", "morning"]
+    },
+    {
+      "id": "3",
+      "title": "Sunset Hike in Santorini",
+      "prompt": "A travel photograph of [Subject] with light tan complexion, short blonde hair, wearing a flowing white dress, standing on a cliff overlooking the Aegean Sea in Santorini. Vibrant blue domes and whitewashed buildings surround the horizon. Warm sunset light bathes the scene, highlighting the textures of the cliffs and sea. Photorealistic style, cinematic composition, shallow depth of field, ultra-detailed textures, natural movement. Shot on a 35mm lens, f/2.2 aperture. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3201.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "sunset", "cliff", "romantic"]
+    },
+    {
+      "id": "4",
+      "title": "Cycling Through Amsterdam’s Streets",
+      "prompt": "A candid travel photograph of [Subject] with fair complexion, shoulder-length black hair, riding a vintage bicycle through Amsterdam’s narrow streets lined with brick buildings and flower boxes. Wearing casual attire: denim jacket, t-shirt, sneakers. Morning sunlight filters through the trees, creating soft shadows. Photorealistic style, natural motion, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on 50mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3202.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "cycling", "candid"]
+    },
+    {
+      "id": "5",
+      "title": "Exploring the Streets of Kyoto",
+      "prompt": "A travel photograph of [Subject] with light skin, long black hair, wearing a traditional kimono in soft pastel colors, walking through a narrow street in Kyoto lined with wooden houses and paper lanterns. Late afternoon golden light enhances the warm tones of the wood. Cinematic travel photography style with shallow depth of field, ultra-detailed textures, natural movement. Shot on 85mm lens, f/1.8, natural bokeh. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3203.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "cultural", "street", "Kyoto"]
+    },
+    {
+      "id": "6",
+      "title": "Beach Sunset in Bali",
+      "prompt": "A travel photograph of [Subject] with medium tan skin, curly dark hair tied in a bun, walking barefoot along a sandy beach in Bali. Wearing casual summer clothing: tank top and shorts. Sunset paints the sky in pink, orange, and purple tones. Reflections of the sun shimmer on the wet sand. Photorealistic, cinematic lighting, shallow depth of field, ultra-detailed textures. Shot on 35mm lens, f/2.0. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3204.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "beach", "sunset", "relaxation"]
+    },
+    {
+      "id": "7",
+      "title": "Hiking in the Swiss Alps",
+      "prompt": "A travel photograph of [Subject] with fair complexion, short brown hair, wearing a windbreaker and hiking boots, standing on a mountain trail in the Swiss Alps. Snow-capped peaks and lush valleys stretch into the distance. Crisp morning light highlights textures in the rocks and vegetation. Photorealistic style, cinematic composition, shallow depth of field, ultra-detailed textures. Shot on 70mm lens, f/2.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3205.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "mountains", "hiking", "adventure"]
+    },
+    {
+      "id": "8",
+      "title": "Walking Through Old Havana",
+      "prompt": "A candid travel photograph of [Subject] with medium brown skin, short curly hair, wearing a colorful shirt and casual pants, strolling along cobblestone streets in Old Havana. Vintage cars and pastel buildings create a vibrant atmosphere. Warm sunlight illuminates the scene, casting long shadows. Photorealistic style, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on 50mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3206.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "cultural", "candid"]
+    },
+    {
+      "id": "9",
+      "title": "Rooftop View in Istanbul",
+      "prompt": "A travel photograph of [Subject] with olive complexion, dark hair tied back, wearing a casual jacket and jeans, standing on a rooftop terrace overlooking Istanbul. Minarets and the Bosphorus shimmer in the morning light. Photorealistic, cinematic lighting, shallow depth of field, ultra-detailed textures, natural movement. Shot on 85mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3207.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "rooftop", "scenic"]
+    },
+    {
+      "id": "10",
+      "title": "Cycling Through the Streets of Lisbon",
+      "prompt": "A travel photograph of [Subject] with fair skin, medium-length brown hair, riding a bicycle through Lisbon’s colorful streets. Wearing casual outfit: t-shirt, shorts, and sneakers. Afternoon sunlight casts warm tones on the cobblestones. Photorealistic style, cinematic composition, shallow depth of field, ultra-detailed textures. Shot on 50mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3208.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "cycling", "colorful"]
+    },
+    {
+      "id": "11",
+      "title": "Street Market in Marrakech",
+      "prompt": "A candid travel photograph of [Subject] with medium complexion, wearing a light scarf and casual attire, walking through a bustling market in Marrakech. Colorful textiles, spices, and ceramics fill the background. Soft morning sunlight highlights the vibrant colors and textures. Photorealistic style, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on 35mm lens, f/2.0. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3209.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "market", "urban", "candid"]
+    },
+    {
+      "id": "12",
+      "title": "Exploring the Fjords of Norway",
+      "prompt": "A travel photograph of [Subject] with fair skin, short blonde hair, wearing a warm jacket and scarf, standing on a boat deck in a Norwegian fjord. Towering cliffs and calm waters surround them. Morning fog softens the landscape. Photorealistic style, cinematic composition, shallow depth of field, ultra-detailed textures. Shot on 85mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3210.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "nature", "fjord", "adventure"]
+    },
+    {
+      "id": "13",
+      "title": "Night Walk in Prague",
+      "prompt": "A candid travel photograph of [Subject] with light skin, dark hair, wearing a trench coat and scarf, walking along the Charles Bridge in Prague at night. Historic buildings are illuminated, and reflections shimmer on the river. Photorealistic style, cinematic lighting, shallow depth of field, ultra-detailed textures. Shot on 50mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3211.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "night", "urban", "historic"]
+    },
+    {
+      "id": "14",
+      "title": "Autumn in Central Park, New York",
+      "prompt": "A travel photograph of [Subject] with medium skin tone, long dark hair, wearing a cozy sweater and boots, walking along a tree-lined path in Central Park during autumn. Fallen leaves create a warm, colorful foreground. Soft afternoon sunlight filters through the branches. Photorealistic style, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on 85mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3212.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "park", "autumn"]
+    },
+    {
+      "id": "15",
+      "title": "Desert Adventure in Morocco",
+      "prompt": "A travel photograph of [Subject] with tanned complexion, short black hair, wearing a lightweight scarf and desert clothing, walking on sand dunes in Morocco. Warm sunset light casts dramatic shadows on the dunes. Photorealistic style, cinematic composition, shallow depth of field, ultra-detailed textures. Shot on 50mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3213.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "desert", "adventure", "sunset"]
+    },
+    {
+      "id": "16",
+      "title": "Exploring the Temples of Angkor Wat",
+      "prompt": "A travel photograph of [Subject] with fair skin, shoulder-length brown hair, wearing comfortable exploration clothing, walking through Angkor Wat’s ancient stone temples. Soft morning light illuminates intricate carvings. Photorealistic style, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on 35mm lens, f/2.0. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3214.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "temple", "historic", "adventure"]
+    },
+    {
+      "id": "17",
+      "title": "Exploring the Streets of Barcelona",
+      "prompt": "A candid travel photograph of [Subject] with medium complexion, short black hair, wearing casual modern attire, walking through colorful streets of Barcelona with Gaudi-inspired architecture in the background. Afternoon sunlight casts warm highlights. Photorealistic style, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on 50mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3215.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "architecture", "candid"]
+    },
+    {
+      "id": "18",
+      "title": "Snowy Morning in Tokyo",
+      "prompt": "A travel photograph of [Subject] with light skin, long black hair, wearing a warm coat and scarf, walking in a snow-covered street in Tokyo with neon lights reflecting off the snow. Soft morning light mixes with neon glows. Photorealistic style, cinematic lighting, shallow depth of field, ultra-detailed textures. Shot on 85mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3216.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "snow", "neon"]
+    },
+    {
+      "id": "19",
+      "title": "Exploring Santorini’s Whitewashed Streets",
+      "prompt": "A travel photograph of [Subject] with fair skin, blonde hair, wearing a summer dress and straw hat, strolling through Santorini’s narrow whitewashed streets with blue accents. Afternoon sunlight creates soft shadows on the walls. Photorealistic style, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on 50mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3217.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "coastal", "summer"]
+    },
+    {
+      "id": "20",
+      "title": "Evening Walk Along the Seine, Paris",
+      "prompt": "A travel photograph of [Subject] with light skin, brown hair tied back, wearing a stylish coat and scarf, walking along the Seine River in Paris during evening golden hour. Historic bridges and buildings create a romantic backdrop. Photorealistic style, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on 85mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3218.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "river", "romantic"]
+    },
+    {
+      "id": "21",
+      "title": "Morning Jog in Vancouver’s Stanley Park",
+      "prompt": "A travel photograph of [Subject] with medium skin tone, short black hair, wearing athletic clothing, jogging along a tree-lined path in Stanley Park, Vancouver. Soft morning light creates warm highlights on the path and trees. Photorealistic style, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on 35mm lens, f/2.0. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3219.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "park", "active"]
     }
   ]
 }
