@@ -8,71 +8,31 @@
       "prompt": "A portrait of a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He is seated on a sleek modern Japanese bicycle while holding a contemporary iPhone. He is wearing a stylish gray and black Peshawari Kameez (Shalwar) with intricate detailing around the collar and cuffs. The background shows a vibrant Japanese urban street with soft daylight and subtle bokeh suggesting a bustling city environment. Realistic style with cinematic quality, sharp focus on the subject and slightly blurred background.",
       "imageUrl": "https://images.iimg.live/images/awesome-masterpiece-4745.webp",
       "category": "Portrait",
-      "tags": [
-        "portrait",
-        "urban",
-        "bicycle",
-        "peshawari kameez",
-        "cinematic"
-      ]
+      "tags": ["portrait", "urban", "bicycle", "peshawari kameez", "cinematic"]
     },
     {
-      "id": "14",
+      "id": "2",
       "title": "Cinematic Portrait with Yamaha MT-15",
       "prompt": "Ultra-realistic 4K cinematic portrait of a handsome young man seated naturally in a wide lush green grass field during soft golden daylight. He is wearing a stylish gray outfit — a fitted gray hoodie with matching gray pants and clean white sneakers. His face, hairstyle, beard texture, and facial proportions match the reference image exactly (100%), maintaining natural skin tone and realistic facial details. He is sitting casually on the grass with a relaxed posture, giving a confident Instagram-style portrait pose, looking directly into the camera with a calm and composed expression. In the background, slightly blurred with strong shallow depth of field, a sleek black Yamaha MT-15 motorcycle is parked on the grass, adding a modern lifestyle vibe to the scene. Soft wind moves the grass gently around him, creating a cinematic natural atmosphere. The lighting is soft natural sunlight with subtle shadows, producing highly detailed skin texture, sharp eyes, realistic fabric folds, and professional portrait depth. Shot on a 85mm lens, f/1.8 aperture, ultra-photorealistic, HDR, 4K, high dynamic range, cinematic color grading.",
       "imageUrl": "https://images.iimg.live/images/radiant-memory-5848.webp",
       "category": "Portrait",
-      "tags": [
-        "cinematic",
-        "portrait",
-        "4k",
-        "ultra-realistic",
-        "grass field",
-        "Yamaha MT-15",
-        "golden hour",
-        "gray outfit",
-        "Instagram style",
-        "male model"
-      ]
+      "tags": ["cinematic", "portrait", "4k", "ultra-realistic", "grass field", "Yamaha MT-15", "golden hour", "gray outfit", "Instagram style", "male model"]
     },
     {
-      "id": "15",
+      "id": "3",
       "title": "Cinematic Portrait with Royal Enfield Hunter 350",
       "prompt": "Ultra-realistic 4K cinematic portrait of a handsome young man sitting naturally in a wide lush green grass field during warm golden hour sunlight. He is wearing a stylish gray outfit — a fitted gray hoodie, matching gray jogger pants, and clean white sneakers. His face, hairstyle, beard texture, and facial proportions match the reference image exactly, maintaining natural skin tone, sharp eyes, and realistic facial details. He is seated casually on the grass with a relaxed posture, arms resting comfortably on his knees, giving a confident Instagram-style portrait pose while looking directly at the camera with a calm and composed expression. In the background, slightly blurred with strong shallow depth of field, a sleek black Royal Enfield Hunter 350 motorcycle is parked on the grass, adding a modern lifestyle and adventure vibe to the scene. Tall green grass gently moves with the wind, creating a natural cinematic environment. Soft natural sunlight creates subtle shadows and highlights across the face and clothing, producing highly detailed skin texture, realistic fabric folds, and professional portrait depth. Shot with an 85mm portrait lens, f/1.8 aperture, ultra-photorealistic, HDR, 4K resolution, high dynamic range, cinematic color grading, shallow depth of field, professional photography.",
       "imageUrl": "https://images.iimg.live/images/amazing-vision-4480.webp",
       "category": "Portrait",
-      "tags": [
-        "cinematic",
-        "portrait",
-        "4k",
-        "ultra-realistic",
-        "grass field",
-        "Royal Enfield Hunter 350",
-        "golden hour",
-        "gray outfit",
-        "Instagram style",
-        "male model",
-        "motorcycle"
-      ]
+      "tags": ["cinematic", "portrait", "4k", "ultra-realistic", "grass field", "Royal Enfield Hunter 350", "golden hour", "gray outfit", "Instagram style", "male model", "motorcycle"]
     },
     {
-      "id": "16",
+      "id": "4",
       "title": "Fan Moment with Shahrukh Khan",
       "prompt": "Create an ultra-realistic 4K photograph of a fan meeting a legendary Bollywood-style superstar, Shahrukh Khan, at a premium, red-carpet-style event. The superstar is wearing a classy black outfit, exuding confidence, charm, and a warm smile for the camera. The fan (use the reference image provided — keep my face 100% identical, including skin texture, facial hair, hairstyle, expression, and all facial features with no alterations) stands beside the superstar, slightly leaning in for a friendly picture. Maintain realistic body proportions, natural lighting, reflections, and shadows, capturing the excitement of the moment. Background: premium event environment with subtle blur to focus on the two subjects, soft cinematic lighting, natural depth of field. Ensure the fan and superstar appear naturally together in a photorealistic, high-quality, Instagram-ready photograph. Shot with a high-end portrait lens, f/1.8 aperture, HDR, 4K resolution, cinematic color grading, photorealistic details in clothing, skin, and hair.",
       "imageUrl": "https://images.iimg.live/images/awesome-moment-5000.webp",
       "category": "Portrait",
-      "tags": [
-        "cinematic",
-        "portrait",
-        "4k",
-        "ultra-realistic",
-        "fan moment",
-        "Shahrukh Khan",
-        "red carpet",
-        "Instagram style",
-        "male model",
-        "celebrity"
-      ]
+      "tags": ["cinematic", "portrait", "4k", "ultra-realistic", "fan moment", "Shahrukh Khan", "red carpet", "Instagram style", "male model", "celebrity"]
     }
   ]
 }
