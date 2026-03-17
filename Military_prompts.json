@@ -140,15 +140,15 @@
     },
     {
       "id": "18",
-      "title": "French Soldier Base",
-      "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He stands wearing modern French military uniform with the France flag patch, tactical vest, and helmet. Behind him, a French military base stretches with armored vehicles, hangars, and distant hills under clear sky. Professional cinematic color grading emphasizes subtle blue and warm earth tones. Shot with 85mm lens at f/1.8, shallow depth of field, soft bokeh, HDR, vertical 9:16 composition, mood is strong, disciplined, cinematic.",
-      "imageUrl": "null",
+      "title": "French Army Operator at Tactical Base",
+      "prompt": "An ultra-realistic cinematic portrait of [Subject], a young man with a fair complexion, deep brown eyes, and short, neatly styled dark hair with a well-groomed light beard and mustache. He stands facing the camera at a modern French military base, wearing a detailed contemporary French Army combat uniform with a visible France flag shoulder patch, tactical vest with loaded pouches, and a combat helmet. His posture is upright and composed, expression focused and disciplined. The environment behind him features an active military base with armored vehicles, hangars, and distant rolling hills, naturally blurred for depth separation. The scene is illuminated by soft natural daylight under a clear sky, enhanced with subtle golden hour warmth to create balanced highlights and soft shadows across the subject’s face and gear. High-end cinematic color grading with a refined balance of cool blue tones and warm earthy hues, natural skin tones, and realistic contrast. Captured using an 85mm full-frame prime lens at f/1.8, producing shallow depth of field, creamy background bokeh, and strong subject isolation. Full-frame vertical 9:16 composition, subject centered, edge-to-edge framing, no borders, no black bars, no letterboxing. Ultra-detailed textures, HDR rendering, sharp focus on facial features and uniform materials. The overall mood conveys strength, discipline, and cinematic realism.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-shot-3498.webp",
       "category": "Military",
       "tags": ["human","male","soldier","France","military","French flag","base","cinematic","vertical"]
     },
     {
       "id": "19",
-      "title": "German Soldier Base",
+      "title": "German Army Sentinel at Military Base",
       "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He wears modern German Army uniform with the Germany flag patch, tactical vest, and helmet. The background shows a German military base with vehicles, hangars, and training grounds under partly cloudy sky. Professional cinematic color grading emphasizes earthy greens and neutral tones. Shot with 85mm lens at f/1.8, shallow depth of field, soft bokeh, HDR, vertical 9:16 composition, mood is disciplined, vigilant, cinematic.",
       "imageUrl": "https://images.iimg.live/images/vibrant-scene-6470.webp",
       "category": "Military",
