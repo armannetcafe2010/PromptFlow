@@ -8,13 +8,7 @@
       "prompt": "A portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are seated at a sleek wooden desk in a modern, brightly lit co-working space, focused on a laptop. The background features blurred contemporary office furniture, large windows with soft daylight, and subtle greenery. Realistic style with cinematic quality, sharp focus on the subject and slightly blurred background.",
       "imageUrl": "https://images.iimg.live/images/glorious-picture-6027.webp",
       "category": "Professional",
-      "tags": [
-        "portrait",
-        "professional",
-        "modern",
-        "office",
-        "cinematic"
-      ]
+      "tags": ["portrait", "professional", "modern", "office", "cinematic"]
     },
     {
       "id": "19",
@@ -22,21 +16,15 @@
       "prompt": "A dynamic culinary photograph of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are wearing a clean white chef’s jacket and a professional apron, intensely focused on carefully plating a gourmet dish in a modern stainless-steel professional kitchen. Steam rises gently from a pan in the background, while polished metal surfaces, hanging utensils, and subtle kitchen activity create an authentic restaurant atmosphere. Warm directional kitchen lighting highlights the food and creates dramatic shadows, emphasizing texture and detail. Captured in a realistic culinary photography style with cinematic composition, shallow depth of field, ultra-detailed textures, and natural motion. Shot on a full-frame camera with an 85mm lens at f/1.8 aperture, producing soft background bokeh and sharp subject focus. 9:16 aspect ratio.",
       "imageUrl": "https://images.iimg.live/images/brilliant-photo-7948.webp",
       "category": "Professional",
-      "tags": [
-        "portrait",
-        "chef",
-        "kitchen",
-        "culinary",
-        "dynamic"
-      ]
+      "tags": ["portrait", "chef", "kitchen", "culinary", "dynamic"]
     },
     {
-        "id": "64",
-        "title": "Military Portrait: Eiffel Tower",
-        "prompt": "Subject: An individual with dark hair and brown eyes, resembling the provided image. Attributes: Standing confidently, pose is upright and authoritative, wearing a meticulously detailed and distinguished military uniform with polished insignia, a serious and determined expression, exuding professionalism and strength. Style: Hyperrealistic, professional portrait photography, cinematic quality, inspired by Annie Leibovitz. Composition: Full-body shot, eye-level angle, centered framing, leading lines from the uniform to the Eiffel Tower, shallow depth of field to emphasize the subject. Lighting & Color: Golden hour lighting, warm and rich color palette with deep blues and golds, soft directional light from the side highlighting facial contours and uniform textures, strong contrast between subject and background. Environment: Iconic Eiffel Tower in Paris as a subtly blurred background, hinting at the grandeur of the location, with faint Parisian street elements, under a clear, warm sky. Detail Level: Ultra-detailed uniform textures, sharp facial features, intricate stitching, high resolution, photorealistic rendering. Camera/Technical: Shot with an 85mm prime lens, f/2.8 aperture, ISO 100, professional studio flash with a softbox for key light, no motion blur, sharp focus on the subject's eyes. Mood & Emotion: Authoritative, professional, determined, heroic, respectful, stoic. Optional Model Tweaks: Aspect ratio 9:16. Negative prompt: blurry, low quality, cartoon, ugly, distorted, extra limbs, bad anatomy, watermark, signature, text, noisy, grainy, overexposed, underexposed, childish, amateur, casual, civilian clothes, smiling, poor lighting, dark, dull colors, bad composition, out of focus background, multiple subjects, crowd.",
-        "imageUrl": "/home/ubuntu/upload/DSC_0030copy.jpg",
-        "category": "Professional",
-        "tags": ["military", "Eiffel Tower", "Paris", "professional", "portrait", "uniform", "9:16 aspect ratio", "85mm lens", "golden hour", "photorealistic", "cinematic", "Annie Leibovitz", "full-body", "detailed", "authoritative", "determined"]
-      }
+      "id": "64",
+      "title": "Military Portrait: Eiffel Tower",
+      "prompt": "Subject: An individual with dark hair and brown eyes, resembling the provided image. Attributes: Standing confidently, pose is upright and authoritative, wearing a meticulously detailed and distinguished military uniform with polished insignia, a serious and determined expression, exuding professionalism and strength. Style: Hyperrealistic, professional portrait photography, cinematic quality, inspired by Annie Leibovitz. Composition: Full-body shot, eye-level angle, centered framing, leading lines from the uniform to the Eiffel Tower, shallow depth of field to emphasize the subject. Lighting & Color: Golden hour lighting, warm and rich color palette with deep blues and golds, soft directional light from the side highlighting facial contours and uniform textures, strong contrast between subject and background. Environment: Iconic Eiffel Tower in Paris as a subtly blurred background, hinting at the grandeur of the location, with faint Parisian street elements, under a clear, warm sky. Detail Level: Ultra-detailed uniform textures, sharp facial features, intricate stitching, high resolution, photorealistic rendering. Camera/Technical: Shot with an 85mm prime lens, f/2.8 aperture, ISO 100, professional studio flash with a softbox for key light, no motion blur, sharp focus on the subject's eyes. Mood & Emotion: Authoritative, professional, determined, heroic, respectful, stoic. Optional Model Tweaks: Aspect ratio 9:16. Negative prompt: blurry, low quality, cartoon, ugly, distorted, extra limbs, bad anatomy, watermark, signature, text, noisy, grainy, overexposed, underexposed, childish, amateur, casual, civilian clothes, smiling, poor lighting, dark, dull colors, bad composition, out of focus background, multiple subjects, crowd.",
+      "imageUrl": "/home/ubuntu/upload/DSC_0030copy.jpg",
+      "category": "Professional",
+      "tags": ["military", "Eiffel Tower", "Paris", "professional", "portrait", "uniform", "9:16 aspect ratio", "85mm lens", "golden hour", "photorealistic", "cinematic", "Annie Leibovitz", "full-body", "detailed", "authoritative", "determined"]
+    }
   ]
 }
