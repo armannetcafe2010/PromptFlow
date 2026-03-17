@@ -163,12 +163,20 @@
       "tags": ["human","male","soldier","Canada","military","Canadian flag","base","cinematic","vertical","ultra-realistic","HDR","85mm","no borders"]
     },
     {
-      "id": "65",
+      "id": "21",
       "title": "War-Torn Urban Battlefield",
       "prompt": "Hyperrealistic, cinematic war-themed portrait of the man from the reference image. He is a soldier in the heat of battle, wearing modern tactical military gear, a dusty and weathered combat uniform with a plate carrier, and a tactical helmet. His face is slightly smudged with soot and dirt, showing a determined, intense, and stoic expression. Environment: A realistic, war-torn urban battlefield with smoke, distant fire, and debris. The atmosphere is gritty and high-stakes. Lighting: Dramatic, high-contrast lighting with the orange glow of distant fires and cold, overcast daylight. Style: Professional war photography, inspired by war-zone photojournalism and cinematic action films like '13 Hours'. Composition: Mid-shot, eye-level, capturing the intensity of the moment. Technical: 85mm lens, f/2.0, sharp focus on the eyes, shallow depth of field to blur the chaotic background. No motion blur on the subject. Ultra-detailed textures of fabric, metal, and skin. Aspect ratio: 9:16.",
       "imageUrl": "https://images.iimg.live/images/fantastic-masterpiece-1271.webp",
       "category": "Military",
       "tags": ["War", "Combat", "Tactical", "9:16", "Hyperrealistic", "Cinematic", "Soldier"]
-      }
+    },
+    {
+       "id": "22",
+       "title": "US Soldier: Urban Combat Zone",
+       "prompt": "Hyperrealistic, cinematic war-themed portrait of a soldier from the reference image in an urban combat zone. He is wearing modern tactical military gear, a dusty and weathered combat uniform with a plate carrier and helmet. His face shows a determined, intense, and stoic expression, slightly smudged with soot and dirt. Environment: War-torn streets with smoke, debris, and distant fires. Dramatic high-contrast lighting with cold daylight and orange glows from fire. Mid-shot, eye-level, sharp focus on eyes, shallow depth of field. 85mm f/2.0 lens, ultra-detailed textures, 9:16 aspect ratio.",
+       "imageUrl": "https://images.iimg.live/images/fantastic-capture-7268.webp",
+       "category": "Military",
+       "tags": ["War", "Combat", "Tactical", "9:16", "Soldier"]
+    }
   ]
 }
