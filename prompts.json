@@ -1,800 +1,174 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-03-12",
+  "category": "Travel",
   "prompts": [
     {
       "id": "1",
-      "title": "Young Man on Japanese Bicycle",
-      "prompt": "A portrait of a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He is seated on a sleek modern Japanese bicycle while holding a contemporary iPhone. He is wearing a stylish gray and black Peshawari Kameez (Shalwar) with intricate detailing around the collar and cuffs. The background shows a vibrant Japanese urban street with soft daylight and subtle bokeh suggesting a bustling city environment. Realistic style with cinematic quality, sharp focus on the subject and slightly blurred background.",
-      "imageUrl": "https://images.iimg.live/images/awesome-masterpiece-4745.webp",
-      "category": "Portrait",
-      "tags": [
-        "portrait",
-        "urban",
-        "bicycle",
-        "peshawari kameez",
-        "cinematic"
-      ]
-    },
-    {
-      "id": "2",
-      "title": "Man Hugging Goat in Winter",
-      "prompt": "A heartwarming portrait of a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He gently hugs a small fluffy goat while a majestic German Shepherd dog curiously sniffs the goat with visible breath in the cold air. The scene is set in a serene winter landscape covered with fresh snow and falling snowflakes. Snow-covered evergreen trees and distant hills appear in the background. Soft diffused natural lighting, cinematic color grading, 85mm lens look with f/1.8 aperture creating beautiful bokeh. High dynamic range, film still quality, dramatic yet peaceful mood.",
-      "imageUrl": "https://images.iimg.live/images/majestic-work-7640.webp",
-      "category": "Animals",
-      "tags": [
-        "winter",
-        "goat",
-        "german shepherd",
-        "snow",
-        "cinematic"
-      ]
-    },
-    {
-      "id": "3",
-      "title": "Boy Performing Tawaf Near Kaaba",
-      "prompt": "Photorealistic 4:3 selfie of the subject from the reference photo, characterized by a fair, smooth complexion, deep-set dark almond-shaped eyes with a calm, neutral gaze, and a distinct, straight nasal bridge. The face has a soft, youthful jawline and natural pink-toned lips. The hair is dark, dense, and styled with short, textured bangs across the forehead. The subject is performing Tawaf in Masjid al-Haram in Mecca, standing very close to the Kaaba while wearing traditional white Ihram clothing with realistic fabric textures and natural folds. The iconic golden door of the Kaaba is visible behind the subject. The scene includes a diverse, natural crowd of pilgrims in white garments, creating an authentic spiritual atmosphere. Bright, natural midday sunlight, soft shadows on the polished white marble floor and the black Kiswah of the Kaaba, clear blue sky, highly detailed mosque architecture, cinematic lighting, and sharp focus on the subject's specific facial features.",
-      "imageUrl": "https://images.iimg.live/images/fantastic-vision-5094.webp",
-      "category": "Religious",
-      "tags": [
-        "tawaf",
-        "kaaba",
-        "mecca",
-        "pilgrimage",
-        "ihram"
-      ]
-    },
-    {
-      "id": "4",
-      "title": "Supplication at the Maqam Ibrahim",
-      "prompt": "Photorealistic portrait of the subject from the reference photo, featuring a fair complexion, deep-set dark almond-shaped eyes, and a distinct straight nasal bridge. The subject is standing near the Maqam Ibrahim in the Masjid al-Haram, hands raised in sincere supplication. Wearing a white Ihram with visible cotton-weave texture. The golden cage of the Maqam and the Kaaba's black Kiswah are in the background. Soft morning light creates a serene atmosphere with natural skin tones and realistic fabric folds. 85mm lens, f/2.8, sharp focus on the facial features and expressive dark eyes.",
-      "imageUrl": "https://images.iimg.live/images/brilliant-memory-3309.webp",
-      "category": "Religious",
-      "tags": [
-        "supplication",
-        "maqam ibrahim",
-        "mecca",
-        "ihram",
-        "spiritual"
-      ]
-    },
-    {
-      "id": "5",
-      "title": "Drinking Zamzam at the Holy Mosque",
-      "prompt": "Candid 4:3 shot of the subject from the reference photo, maintaining the exact youthful jawline, natural pink-toned lips, and short dark hair with textured bangs. The subject is drinking Zamzam water from a cup within the marble halls of the Masjid al-Haram. Wearing a white Ihram draped over the left shoulder. The background shows the bustling crowd of pilgrims and ornate white marble pillars. Bright, natural interior lighting with realistic reflections on the marble floor. High-detail rendering of the subject's calm, neutral expression.",
-      "imageUrl": "https://images.iimg.live/images/vibrant-scene-8813.webp",
-      "category": "Religious",
-      "tags": [
-        "zamzam",
-        "mecca",
-        "ihram",
-        "candid",
-        "mosque"
-      ]
-    },
-    {
-      "id": "6",
-      "title": "Evening Prayer in the Prophet's Mosque",
-      "prompt": "Ultra–hyper-realistic vertical portrait (9:16 aspect ratio) of the subject from the reference photo, preserving the exact facial features, identity, fair smooth complexion, and dark almond-shaped eyes with high facial accuracy. The subject is seated peacefully on the rich green carpets of the Rawdah inside Al-Masjid an-Nabawi in Medina. He is wearing a clean white thobe with natural fabric folds and a small white kufi cap. His face is softly illuminated by the warm golden light of the mosque’s ornate chandeliers, creating a calm spiritual glow across his skin. In the background, elegant marble pillars with intricate floral patterns and Islamic arches are softly visible and gently blurred. The atmosphere is serene, sacred, and contemplative. Shallow depth of field with sharp focus on the subject’s facial structure, extremely detailed skin texture and pores, natural skin tones, cinematic realism, high dynamic range, professional portrait photography, ultra-high resolution, 8K detail, captured with an 85mm portrait lens, f/1.8 aperture, soft bokeh, realistic global illumination, natural shadows, photorealistic lighting, face identity preservation from reference image.",
-      "imageUrl": "https://images.iimg.live/images/majestic-moment-7120.webp",
-      "category": "Religious",
-      "tags": [
-        "medina",
-        "rawdah",
-        "thobe",
-        "kufi",
-        "prayer"
-      ]
-    },
-    {
-      "id": "7",
-      "title": "Walking Through the Umbrellas of Medina",
-      "prompt": "Cinematic wide shot (9:16 vertical) of the subject from the reference photo walking through the courtyard of Al-Masjid an-Nabawi in Medina. The subject's dark, dense hair and neutral gaze are perfectly preserved with high facial accuracy. He is wearing a traditional white thobe with realistic fabric folds. The background features the massive, iconic white electronic umbrellas of Al-Masjid an-Nabawi against a clear blue sky. Bright daylight creates natural shadows and highlights on the subject's fair skin. Shot on a 35mm lens, f/1.8 aperture, shallow depth of field, sharp focus on the face with slight motion blur in the background crowd. Ultra-photorealistic, cinematic lighting, HDR, 8K resolution, high dynamic range, natural color grading.",
-      "imageUrl": "https://images.iimg.live/images/perfect-snap-9876.webp",
-      "category": "Religious",
-      "tags": [
-        "medina",
-        "umbrellas",
-        "thobe",
-        "walking",
-        "cinematic"
-      ]
-    },
-    {
-      "id": "8",
-      "title": "Reciting Quran by the Kaaba",
-      "prompt": "Ultra-photorealistic close-up portrait (9:16 vertical) of the subject from the reference photo, focusing on the dark eyes and straight nasal bridge as they look down at a small Quran held in their hands. The subject’s facial features are preserved with high identity accuracy. Seated on the white marble of the Mataf inside Masjid al-Haram with the Kaaba and its black and gold Kiswah softly visible directly behind. Wearing traditional white Ihram clothing with natural fabric folds. Soft, diffused lighting gently illuminates the face, emphasizing realistic skin texture and the fine details of the Quranic script. Shot on a 50mm lens, f/1.8 aperture, shallow depth of field, creamy bokeh background, sharp focus on the face and the Quran. Cinematic lighting, HDR, natural color grading, ultra-detailed, 8K resolution, deeply spiritual and quiet atmosphere.",
-      "imageUrl": "https://images.iimg.live/images/perfect-scene-4969.webp",
-      "category": "Religious",
-      "tags": [
-        "quran",
-        "kaaba",
-        "mecca",
-        "ihram",
-        "focus"
-      ]
-    },
-    {
-      "id": "9",
-      "title": "Arafat Pilgrim",
-      "prompt": "A photorealistic 9:16 vertical portrait with a low camera angle, focusing on the male subject from the reference photo standing on the rocky terrain of Mount Arafat. The camera is positioned lower, pointing slightly upward to emphasize the subject and reduce the amount of sky visible. The subject is in the foreground, captured from the chest up. Maintain the exact facial features, fair complexion, and short dark hair with textured bangs as seen in the reference. He is wearing a white Ihram draped over his shoulder. The background shows the vast plain of Arafat with white tents and pilgrims under a soft, hazy morning light, with the horizon line positioned higher in the frame. Deep atmospheric depth, sharp focus on the subject's calm and prayerful expression. High detail, cinematic lighting, 8k resolution, professional photography style.",
-      "imageUrl": "https://images.iimg.live/images/stellar-creation-7865.webp",
-      "category": "Religious",
-      "tags": [
-        "Hajj",
-        "Mount Arafat",
-        "Ihram",
-        "Photorealistic",
-        "Portrait",
-        "9:16"
-      ]
-    },
-    {
-      "id": "10",
-      "title": "Touching the Kaaba's Kiswah",
-      "prompt": "A cinematic 9:16 vertical close-up portrait of the subject from the reference photo beside the Kaaba, one hand gently touching the black silk and gold-embroidered Kiswah, the subject shown in profile highlighting a straight nasal bridge, youthful jawline, and calm contemplative expression, wearing a simple white Ihram, the rich texture of the Kiswah silk and intricate gold calligraphy sharply detailed, the golden door of the Kaaba and surrounding pilgrims softly blurred in the background with natural bokeh, dramatic yet natural directional lighting emphasizing fabric texture and realistic skin tones, natural color grading, high dynamic range, shallow depth of field, photorealistic cinematic photography shot on an 85mm portrait lens at f/1.8, ISO 100, ultra-detailed, 8K quality.",
-      "imageUrl": "https://images.iimg.live/images/epic-art-5208.webp",
-      "category": "Religious",
-      "tags": [
-        "kiswah",
-        "kaaba",
-        "mecca",
-        "touch",
-        "spiritual"
-      ]
-    },
-    {
-      "id": "11",
-      "title": "Resting in the Shade of Al-Haram",
-      "prompt": "A cinematic 9:16 vertical candid portrait of the subject from the reference photo resting calmly against a white marble pillar inside Masjid al-Haram, wearing a simple white Ihram, the subject’s dark almond-shaped eyes and neutral peaceful expression captured with high facial accuracy, cool indirect light reflecting softly from the polished marble surfaces creating natural highlights and realistic skin tones, subtle shadows adding depth, the background softly blurred showing a glimpse of the open courtyard and clear blue sky, tranquil spiritual atmosphere, photorealistic, natural color grading, high dynamic range, shallow depth of field, ultra-detailed textures of marble and fabric, cinematic photography shot on an 85mm lens at f/1.8, ISO 100, ultra-realistic 8K quality.",
-      "imageUrl": "https://images.iimg.live/images/stellar-gallery-1205.webp",
-      "category": "Religious",
-      "tags": [
-        "masjid al-haram",
-        "mecca",
-        "ihram",
-        "pilgrim",
-        "marble pillar",
-        "spiritual",
-        "peaceful",
-        "islamic pilgrimage",
-        "resting",
-        "photorealistic"
-      ]
-    },
-    {
-      "id": "12",
-      "title": "Performing Sa'i Between Safa and Marwa",
-      "prompt": "A professional cinematic 9:16 vertical action portrait of the subject from the reference photo performing Sa'i while walking through the long corridor between Safa and Marwa inside Masjid al-Haram, preserving the exact facial structure, natural skin texture, and short dark hair of the subject, wearing a simple white Ihram, captured mid-stride with a calm yet focused expression conveying devotion and purpose, the modern marble corridor with repeating architectural arches and the green illuminated markers of the Sa'i running area visible in the softly blurred background, bright balanced indoor lighting reflecting naturally from the polished marble floor, realistic shadows and highlights, natural yet vivid color grading with lifelike skin tones, ultra-detailed textures of fabric and marble, shallow depth of field keeping the subject sharply in focus while pilgrims and architecture fade into soft cinematic bokeh, photorealistic documentary-style photography shot on an 85mm lens at f/1.8, ISO 200, 1/500s shutter speed, high dynamic range, ultra-realistic 8K quality.",
-      "imageUrl": "https://images.iimg.live/images/wonderful-collection-1327.webp",
-      "category": "Religious",
-      "tags": [
-        "sai",
-        "safa marwa",
-        "masjid al-haram",
-        "mecca",
-        "ihram",
-        "pilgrimage",
-        "umrah ritual",
-        "devotion",
-        "islamic ritual",
-        "photorealistic"
-      ]
-    },
-    {
-      "id": "13",
-      "title": "Sunset Prayer at the Mosque Perimeter",
-      "prompt": "A cinematic 9:16 vertical wide-angle portrait of the subject from the reference photo standing on the outer balcony of Masjid al-Haram during sunset, wearing a white Ihram, showing the subject's fair complexion, dark eyes, and calm contemplative expression, captured with high facial accuracy, warm natural orange and purple sunset light illuminating the skin, realistic shadows and reflections, the background featuring towering mosque minarets and the clock tower softly blurred yet recognizable, majestic spiritual atmosphere with dramatic yet natural lighting, ultra-detailed textures of fabric and architecture, photorealistic, natural and vivid color grading, shallow depth of field on the subject while preserving architectural context, 24mm wide-angle lens, f/2.8, ISO 200, 1/200s shutter speed, 8K ultra-high resolution, cinematic composition.",
-      "imageUrl": "https://images.iimg.live/images/radiant-photography-8260.webp",
-      "category": "Religious",
-      "tags": [
-        "sunset",
-        "masjid al-haram",
-        "mecca",
-        "minarets",
-        "ihram",
-        "pilgrimage",
-        "spiritual",
-        "majestic",
-        "photorealistic",
-        "cinematic"
-      ]
-    },
-    {
-      "id": "14",
-      "title": "Cinematic Portrait with Yamaha MT-15",
-      "prompt": "Ultra-realistic 4K cinematic portrait of a handsome young man seated naturally in a wide lush green grass field during soft golden daylight. He is wearing a stylish gray outfit — a fitted gray hoodie with matching gray pants and clean white sneakers. His face, hairstyle, beard texture, and facial proportions match the reference image exactly (100%), maintaining natural skin tone and realistic facial details. He is sitting casually on the grass with a relaxed posture, giving a confident Instagram-style portrait pose, looking directly into the camera with a calm and composed expression. In the background, slightly blurred with strong shallow depth of field, a sleek black Yamaha MT-15 motorcycle is parked on the grass, adding a modern lifestyle vibe to the scene. Soft wind moves the grass gently around him, creating a cinematic natural atmosphere. The lighting is soft natural sunlight with subtle shadows, producing highly detailed skin texture, sharp eyes, realistic fabric folds, and professional portrait depth. Shot on a 85mm lens, f/1.8 aperture, ultra-photorealistic, HDR, 4K, high dynamic range, cinematic color grading.",
-      "imageUrl": "https://images.iimg.live/images/radiant-memory-5848.webp",
-      "category": "Portrait",
-      "tags": [
-        "cinematic",
-        "portrait",
-        "4k",
-        "ultra-realistic",
-        "grass field",
-        "Yamaha MT-15",
-        "golden hour",
-        "gray outfit",
-        "Instagram style",
-        "male model"
-      ]
-    },
-    {
-      "id": "15",
-      "title": "Cinematic Portrait with Royal Enfield Hunter 350",
-      "prompt": "Ultra-realistic 4K cinematic portrait of a handsome young man sitting naturally in a wide lush green grass field during warm golden hour sunlight. He is wearing a stylish gray outfit — a fitted gray hoodie, matching gray jogger pants, and clean white sneakers. His face, hairstyle, beard texture, and facial proportions match the reference image exactly, maintaining natural skin tone, sharp eyes, and realistic facial details. He is seated casually on the grass with a relaxed posture, arms resting comfortably on his knees, giving a confident Instagram-style portrait pose while looking directly at the camera with a calm and composed expression. In the background, slightly blurred with strong shallow depth of field, a sleek black Royal Enfield Hunter 350 motorcycle is parked on the grass, adding a modern lifestyle and adventure vibe to the scene. Tall green grass gently moves with the wind, creating a natural cinematic environment. Soft natural sunlight creates subtle shadows and highlights across the face and clothing, producing highly detailed skin texture, realistic fabric folds, and professional portrait depth. Shot with an 85mm portrait lens, f/1.8 aperture, ultra-photorealistic, HDR, 4K resolution, high dynamic range, cinematic color grading, shallow depth of field, professional photography.",
-      "imageUrl": "https://images.iimg.live/images/amazing-vision-4480.webp",
-      "category": "Portrait",
-      "tags": [
-        "cinematic",
-        "portrait",
-        "4k",
-        "ultra-realistic",
-        "grass field",
-        "Royal Enfield Hunter 350",
-        "golden hour",
-        "gray outfit",
-        "Instagram style",
-        "male model",
-        "motorcycle"
-      ]
-    },
-    {
-      "id": "16",
-      "title": "Fan Moment with Shahrukh Khan",
-      "prompt": "Create an ultra-realistic 4K photograph of a fan meeting a legendary Bollywood-style superstar, Shahrukh Khan, at a premium, red-carpet-style event. The superstar is wearing a classy black outfit, exuding confidence, charm, and a warm smile for the camera. The fan (use the reference image provided — keep my face 100% identical, including skin texture, facial hair, hairstyle, expression, and all facial features with no alterations) stands beside the superstar, slightly leaning in for a friendly picture. Maintain realistic body proportions, natural lighting, reflections, and shadows, capturing the excitement of the moment. Background: premium event environment with subtle blur to focus on the two subjects, soft cinematic lighting, natural depth of field. Ensure the fan and superstar appear naturally together in a photorealistic, high-quality, Instagram-ready photograph. Shot with a high-end portrait lens, f/1.8 aperture, HDR, 4K resolution, cinematic color grading, photorealistic details in clothing, skin, and hair.",
-      "imageUrl": "https://images.iimg.live/images/awesome-moment-5000.webp",
-      "category": "Portrait",
-      "tags": [
-        "cinematic",
-        "portrait",
-        "4k",
-        "ultra-realistic",
-        "fan moment",
-        "Shahrukh Khan",
-        "red carpet",
-        "Instagram style",
-        "male model",
-        "celebrity"
-      ]
-    },
-    {
-      "id": "17",
-      "title": "Modern Professional in Co-working Space",
-      "prompt": "A portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are seated at a sleek wooden desk in a modern, brightly lit co-working space, focused on a laptop. The background features blurred contemporary office furniture, large windows with soft daylight, and subtle greenery. Realistic style with cinematic quality, sharp focus on the subject and slightly blurred background.",
-      "imageUrl": "https://images.iimg.live/images/glorious-picture-6027.webp",
-      "category": "Professional",
-      "tags": [
-        "portrait",
-        "professional",
-        "modern",
-        "office",
-        "cinematic"
-      ]
-    },
-    {
-      "id": "18",
       "title": "Urban Explorer in Historic European City",
       "prompt": "A candid travel photograph of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are walking through a narrow cobblestone street in a historic European city such as Rome or Paris, wearing a stylish casual outfit — a well-fitted jacket, jeans, and comfortable shoes. Elegant old buildings, cafés, and subtle street activity fill the background, creating an authentic European atmosphere. Warm afternoon sunlight casts soft golden tones and long shadows across the street. Captured in a realistic travel photography style with natural movement and depth, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on a full-frame camera with an 88mm lens, f/1.8 aperture, natural bokeh. 9:16 aspect ratio.",
       "imageUrl": "https://images.iimg.live/images/fantastic-image-3192.webp",
       "category": "Travel",
-      "tags": [
-        "portrait",
-        "travel",
-        "urban",
-        "historic",
-        "candid"
-      ]
+      "tags": ["portrait", "travel", "urban", "historic", "candid"]
+    },
+    {
+      "id": "2",
+      "title": "Morning Stroll by the Venice Canals",
+      "prompt": "A candid travel photograph of [Subject] with medium complexion, wavy brown hair tied back, walking along a canal in Venice. Wearing a light linen shirt, cropped trousers, and leather sandals. Gondolas float in the water, with colorful buildings reflecting in the calm morning light. Soft morning sunlight illuminates the scene, creating warm highlights and gentle shadows. Captured in photorealistic travel photography style with shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on a full-frame camera with 50mm lens, f/2.0 aperture. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3200.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "canal", "morning"]
+    },
+    {
+      "id": "3",
+      "title": "Sunset Hike in Santorini",
+      "prompt": "A travel photograph of [Subject] with light tan complexion, short blonde hair, wearing a flowing white dress, standing on a cliff overlooking the Aegean Sea in Santorini. Vibrant blue domes and whitewashed buildings surround the horizon. Warm sunset light bathes the scene, highlighting the textures of the cliffs and sea. Photorealistic style, cinematic composition, shallow depth of field, ultra-detailed textures, natural movement. Shot on a 35mm lens, f/2.2 aperture. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3201.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "sunset", "cliff", "romantic"]
+    },
+    {
+      "id": "4",
+      "title": "Cycling Through Amsterdam’s Streets",
+      "prompt": "A candid travel photograph of [Subject] with fair complexion, shoulder-length black hair, riding a vintage bicycle through Amsterdam’s narrow streets lined with brick buildings and flower boxes. Wearing casual attire: denim jacket, t-shirt, sneakers. Morning sunlight filters through the trees, creating soft shadows. Photorealistic style, natural motion, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on 50mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3202.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "cycling", "candid"]
+    },
+    {
+      "id": "5",
+      "title": "Exploring the Streets of Kyoto",
+      "prompt": "A travel photograph of [Subject] with light skin, long black hair, wearing a traditional kimono in soft pastel colors, walking through a narrow street in Kyoto lined with wooden houses and paper lanterns. Late afternoon golden light enhances the warm tones of the wood. Cinematic travel photography style with shallow depth of field, ultra-detailed textures, natural movement. Shot on 85mm lens, f/1.8, natural bokeh. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3203.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "cultural", "street", "Kyoto"]
+    },
+    {
+      "id": "6",
+      "title": "Beach Sunset in Bali",
+      "prompt": "A travel photograph of [Subject] with medium tan skin, curly dark hair tied in a bun, walking barefoot along a sandy beach in Bali. Wearing casual summer clothing: tank top and shorts. Sunset paints the sky in pink, orange, and purple tones. Reflections of the sun shimmer on the wet sand. Photorealistic, cinematic lighting, shallow depth of field, ultra-detailed textures. Shot on 35mm lens, f/2.0. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3204.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "beach", "sunset", "relaxation"]
+    },
+    {
+      "id": "7",
+      "title": "Hiking in the Swiss Alps",
+      "prompt": "A travel photograph of [Subject] with fair complexion, short brown hair, wearing a windbreaker and hiking boots, standing on a mountain trail in the Swiss Alps. Snow-capped peaks and lush valleys stretch into the distance. Crisp morning light highlights textures in the rocks and vegetation. Photorealistic style, cinematic composition, shallow depth of field, ultra-detailed textures. Shot on 70mm lens, f/2.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3205.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "mountains", "hiking", "adventure"]
+    },
+    {
+      "id": "8",
+      "title": "Walking Through Old Havana",
+      "prompt": "A candid travel photograph of [Subject] with medium brown skin, short curly hair, wearing a colorful shirt and casual pants, strolling along cobblestone streets in Old Havana. Vintage cars and pastel buildings create a vibrant atmosphere. Warm sunlight illuminates the scene, casting long shadows. Photorealistic style, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on 50mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3206.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "cultural", "candid"]
+    },
+    {
+      "id": "9",
+      "title": "Rooftop View in Istanbul",
+      "prompt": "A travel photograph of [Subject] with olive complexion, dark hair tied back, wearing a casual jacket and jeans, standing on a rooftop terrace overlooking Istanbul. Minarets and the Bosphorus shimmer in the morning light. Photorealistic, cinematic lighting, shallow depth of field, ultra-detailed textures, natural movement. Shot on 85mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3207.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "rooftop", "scenic"]
+    },
+    {
+      "id": "10",
+      "title": "Cycling Through the Streets of Lisbon",
+      "prompt": "A travel photograph of [Subject] with fair skin, medium-length brown hair, riding a bicycle through Lisbon’s colorful streets. Wearing casual outfit: t-shirt, shorts, and sneakers. Afternoon sunlight casts warm tones on the cobblestones. Photorealistic style, cinematic composition, shallow depth of field, ultra-detailed textures. Shot on 50mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3208.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "cycling", "colorful"]
+    },
+    {
+      "id": "11",
+      "title": "Street Market in Marrakech",
+      "prompt": "A candid travel photograph of [Subject] with medium complexion, wearing a light scarf and casual attire, walking through a bustling market in Marrakech. Colorful textiles, spices, and ceramics fill the background. Soft morning sunlight highlights the vibrant colors and textures. Photorealistic style, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on 35mm lens, f/2.0. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3209.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "market", "urban", "candid"]
+    },
+    {
+      "id": "12",
+      "title": "Exploring the Fjords of Norway",
+      "prompt": "A travel photograph of [Subject] with fair skin, short blonde hair, wearing a warm jacket and scarf, standing on a boat deck in a Norwegian fjord. Towering cliffs and calm waters surround them. Morning fog softens the landscape. Photorealistic style, cinematic composition, shallow depth of field, ultra-detailed textures. Shot on 85mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3210.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "nature", "fjord", "adventure"]
+    },
+    {
+      "id": "13",
+      "title": "Night Walk in Prague",
+      "prompt": "A candid travel photograph of [Subject] with light skin, dark hair, wearing a trench coat and scarf, walking along the Charles Bridge in Prague at night. Historic buildings are illuminated, and reflections shimmer on the river. Photorealistic style, cinematic lighting, shallow depth of field, ultra-detailed textures. Shot on 50mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3211.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "night", "urban", "historic"]
+    },
+    {
+      "id": "14",
+      "title": "Autumn in Central Park, New York",
+      "prompt": "A travel photograph of [Subject] with medium skin tone, long dark hair, wearing a cozy sweater and boots, walking along a tree-lined path in Central Park during autumn. Fallen leaves create a warm, colorful foreground. Soft afternoon sunlight filters through the branches. Photorealistic style, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on 85mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3212.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "park", "autumn"]
+    },
+    {
+      "id": "15",
+      "title": "Desert Adventure in Morocco",
+      "prompt": "A travel photograph of [Subject] with tanned complexion, short black hair, wearing a lightweight scarf and desert clothing, walking on sand dunes in Morocco. Warm sunset light casts dramatic shadows on the dunes. Photorealistic style, cinematic composition, shallow depth of field, ultra-detailed textures. Shot on 50mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3213.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "desert", "adventure", "sunset"]
+    },
+    {
+      "id": "16",
+      "title": "Exploring the Temples of Angkor Wat",
+      "prompt": "A travel photograph of [Subject] with fair skin, shoulder-length brown hair, wearing comfortable exploration clothing, walking through Angkor Wat’s ancient stone temples. Soft morning light illuminates intricate carvings. Photorealistic style, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on 35mm lens, f/2.0. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3214.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "temple", "historic", "adventure"]
+    },
+    {
+      "id": "17",
+      "title": "Exploring the Streets of Barcelona",
+      "prompt": "A candid travel photograph of [Subject] with medium complexion, short black hair, wearing casual modern attire, walking through colorful streets of Barcelona with Gaudi-inspired architecture in the background. Afternoon sunlight casts warm highlights. Photorealistic style, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on 50mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3215.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "architecture", "candid"]
+    },
+    {
+      "id": "18",
+      "title": "Snowy Morning in Tokyo",
+      "prompt": "A travel photograph of [Subject] with light skin, long black hair, wearing a warm coat and scarf, walking in a snow-covered street in Tokyo with neon lights reflecting off the snow. Soft morning light mixes with neon glows. Photorealistic style, cinematic lighting, shallow depth of field, ultra-detailed textures. Shot on 85mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3216.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "snow", "neon"]
     },
     {
       "id": "19",
-      "title": "Master Chef in Gourmet Kitchen",
-      "prompt": "A dynamic culinary photograph of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are wearing a clean white chef’s jacket and a professional apron, intensely focused on carefully plating a gourmet dish in a modern stainless-steel professional kitchen. Steam rises gently from a pan in the background, while polished metal surfaces, hanging utensils, and subtle kitchen activity create an authentic restaurant atmosphere. Warm directional kitchen lighting highlights the food and creates dramatic shadows, emphasizing texture and detail. Captured in a realistic culinary photography style with cinematic composition, shallow depth of field, ultra-detailed textures, and natural motion. Shot on a full-frame camera with an 85mm lens at f/1.8 aperture, producing soft background bokeh and sharp subject focus. 9:16 aspect ratio.",
-      "imageUrl": "https://images.iimg.live/images/brilliant-photo-7948.webp",
-      "category": "Professional",
-      "tags": [
-        "portrait",
-        "chef",
-        "kitchen",
-        "culinary",
-        "dynamic"
-      ]
+      "title": "Exploring Santorini’s Whitewashed Streets",
+      "prompt": "A travel photograph of [Subject] with fair skin, blonde hair, wearing a summer dress and straw hat, strolling through Santorini’s narrow whitewashed streets with blue accents. Afternoon sunlight creates soft shadows on the walls. Photorealistic style, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on 50mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3217.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "coastal", "summer"]
     },
     {
       "id": "20",
-      "title": "Intellectual Reader in Cozy Bookstore",
-      "prompt": "A serene, intimate portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are comfortably seated in a vintage armchair beside a large window inside a charming old-fashioned bookstore, deeply engrossed in reading a book. Tall wooden shelves packed with classic books fill the background, along with small decorative lamps, ladders, and cozy reading corners that create a nostalgic literary atmosphere. Soft natural window light streams through the glass, blending with warm ambient bookstore lighting to create gentle highlights and shadows across the scene. Captured in a realistic lifestyle photography style with a cozy, inviting mood, emphasizing quiet concentration and intellectual curiosity. Shallow depth of field with rich textures in wood, fabric, and paper. Shot on a full-frame camera with a 50mm lens at f/1.4 aperture, producing soft cinematic bokeh and sharp subject focus. 9:16 aspect ratio.",
-      "imageUrl": "https://images.iimg.live/images/ultimate-collection-7401.webp",
-      "category": "Lifestyle",
-      "tags": [
-        "portrait",
-        "reading",
-        "bookstore",
-        "cozy",
-        "serene"
-      ]
+      "title": "Evening Walk Along the Seine, Paris",
+      "prompt": "A travel photograph of [Subject] with light skin, brown hair tied back, wearing a stylish coat and scarf, walking along the Seine River in Paris during evening golden hour. Historic bridges and buildings create a romantic backdrop. Photorealistic style, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on 85mm lens, f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3218.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "river", "romantic"]
     },
     {
       "id": "21",
-      "title": "Passionate Musician in Dimly Lit Jazz Club",
-      "prompt": "A captivating live music portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are passionately performing on a saxophone (or guitar/piano) on a small stage inside an intimate jazz club. The subject is mid-performance, fully immersed in the music, with expressive posture and subtle motion in their hands. The background shows a softly blurred audience seated at small round tables, faint silhouettes, glasses reflecting light, and warm amber spotlights illuminating the stage. Hazy club atmosphere with gentle smoke and glowing stage lights creates a cinematic mood. Rich wooden interiors, vintage microphones, and subtle reflections enhance the authentic jazz club setting. Captured in a realistic music photography style with dramatic low-key lighting, deep contrast, and shallow depth of field to emphasize emotion and performance energy. Ultra-detailed textures, natural skin tones, and atmospheric lighting. Shot on a full-frame camera with a 90mm portrait lens at f/1.8 aperture, producing strong subject separation and creamy background bokeh. 9:16 aspect ratio.",
-      "imageUrl": "https://images.iimg.live/images/incredible-art-7748.webp",
-      "category": "Artistic",
-      "tags": [
-        "portrait",
-        "musician",
-        "jazz",
-        "club",
-        "atmospheric"
-      ]
-    },
-    {
-      "id": "22",
-      "title": "Adventurous Hiker in Mountain Landscape",
-      "prompt": "A cinematic wide-angle adventure photograph of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are standing confidently on a rugged mountain trail, gazing out over a breathtaking panoramic landscape of dramatic alpine peaks, deep valleys, and a vast clear blue sky stretching to the horizon. The subject is dressed in realistic hiking gear — a weather-resistant jacket, hiking boots, and a backpack — suggesting an active outdoor journey. The environment features rocky terrain, distant snow-capped mountains, and subtle clouds drifting across the sky, creating a sense of scale and freedom. Bright natural daylight illuminates the landscape, casting crisp shadows and highlighting the textures of stone, grass, and distant ridges. Captured in a realistic outdoor adventure photography style with cinematic composition, strong depth, and natural color grading that emphasizes the grandeur of nature. Shot on a full-frame camera with a 24mm wide-angle lens at f/4 aperture, capturing expansive scenery with sharp detail and natural perspective. 9:16 aspect ratio.",
-      "imageUrl": "https://images.iimg.live/images/cool-capture-5602.webp",
-      "category": "Adventure",
-      "tags": [
-        "portrait",
-        "hiking",
-        "mountains",
-        "nature",
-        "adventure"
-      ]
-    },
-    {
-      "id": "23",
-      "title": "Creative Street Artist in Vibrant Alley",
-      "prompt": "A dynamic urban art photograph of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are actively creating a vibrant mural on a textured brick wall in a colorful alleyway, holding a spray can mid-motion, with expressive gestures that convey creativity and energy. The background features layers of street art, graffiti tags, murals, and visually interesting textures like worn brick, paint drips, and urban stickers, creating an authentic city atmosphere. Bright diffused daylight illuminates the scene, casting soft shadows and enhancing vivid colors. Captured in a realistic street photography style with energetic composition, motion detail, and immersive depth. Shot on a full-frame camera with a 35mm lens at f/2.0 aperture, providing natural perspective, moderate background separation, and sharp focus on the subject. 9:16 aspect ratio.",
-      "imageUrl": "https://images.iimg.live/images/ultimate-vision-7618.webp",
-      "category": "Artistic",
-      "tags": [
-        "portrait",
-        "street art",
-        "urban",
-        "creative",
-        "dynamic"
-      ]
-    },
-    {
-      "id": "24",
-      "title": "Serene Participant in Traditional Tea Ceremony",
-      "prompt": "A serene, culturally authentic portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are gracefully participating in a traditional Japanese tea ceremony, seated on a tatami mat in a minimalist tea room. The background features delicate shoji screens, subtle floral arrangements, bamboo accents, and low wooden furniture, creating an atmosphere of calm elegance. Soft natural light filters gently through the screens, casting diffuse highlights and subtle shadows that enhance textures of fabric, wood, and ceramics. Captured in a realistic cultural lifestyle photography style, emphasizing tranquility, mindfulness, and refined detail. Shallow depth of field focuses on the subject while softly blurring the background. Shot on a full-frame camera with a 50mm lens at f/1.8 aperture, producing creamy bokeh and sharp subject focus. 9:16 aspect ratio.",
-      "imageUrl": "https://images.iimg.live/images/majestic-work-6604.webp",
-      "category": "Cultural",
-      "tags": [
-        "portrait",
-        "cultural",
-        "japanese",
-        "tea ceremony",
-        "serene"
-      ]
-    },
-    {
-      "id": "25",
-      "title": "Scenic Photographer in Golden Hour Landscape",
-      "prompt": "A striking silhouette of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are standing atop a hill during golden hour, holding a professional camera, poised to capture a breathtaking landscape. The sky is ablaze with warm orange, pink, and subtle purple hues, while soft, directional sunlight casts gentle highlights on distant mountains, valleys, and trees. The foreground shows subtle grass textures and natural hill contours, enhancing depth and scale. Captured in a realistic, cinematic landscape photography style with an evocative, artistic mood that emphasizes both the majesty of nature and the passion of photography. Shallow depth of field subtly isolates the subject while preserving the sweeping vista behind them. Shot on a full-frame camera with an 85mm lens at f/2.0 aperture, producing creamy bokeh around the subject and sharp silhouette detail. 9:16 aspect ratio.",
-      "imageUrl": "https://images.iimg.live/images/radiant-picture-2569.webp",
-      "category": "Artistic",
-      "tags": [
-        "portrait",
-        "photographer",
-        "golden hour",
-        "landscape",
-        "artistic"
-      ]
-    },
-    {
-      "id": "26",
-      "title": "Lively Shopper in Bustling Farmers Market",
-      "prompt": "A vibrant, candid shot of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are browsing fresh produce at a bustling outdoor farmers market, holding a reusable canvas bag. The background is filled with colorful stalls, diverse people, and natural light. Realistic style with a lively, community-focused atmosphere, capturing everyday charm. 9:16 aspect ratio.",
-      "imageUrl": "https://images.iimg.live/images/awesome-image-6138.webp",
-      "category": "Lifestyle",
-      "tags": [
-        "portrait",
-        "market",
-        "urban",
-        "lifestyle",
-        "vibrant"
-      ]
-    },
-    {
-      "id": "27",
-      "title": "Man Feeding Baby Deer in Autumn Forest",
-      "prompt": "A heartwarming cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He is kneeling upright on one knee on a thick carpet of golden autumn leaves, clearly visible above the forest floor. He gently offers a handful of food to a curious baby deer standing in front of him while a small red squirrel sits on a fallen log nearby observing the interaction. The scene takes place in a peaceful autumn forest filled with tall maple and oak trees, scattered leaves, and soft morning mist drifting between the trunks. Gentle diffused morning sunlight filters through the canopy illuminating the subject and animals. Cinematic color grading emphasizes warm amber tones and soft woodland greens. Shot on an 85mm lens at f/1.8 aperture producing shallow depth of field and creamy bokeh. High dynamic range, film still quality, composed for vertical 9:16 framing.",
-      "imageUrl": "https://images.iimg.live/images/vibrant-portfolio-3012.webp",
-      "category": "Animals",
-      "tags": [
-        "human",
-        "male",
-        "deer",
-        "autumn",
-        "forest",
-        "cinematic",
-        "vertical"
-      ]
-    },
-    {
-      "id": "28",
-      "title": "Man Hugging Lamb in Spring",
-      "prompt": "A heartwarming portrait of a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He gently hugs a fluffy baby lamb while a curious brown rabbit nibbles on the soft green grass nearby. The scene is set in a serene spring meadow filled with colorful wildflowers and rolling green hills under soft morning sunlight. Gentle diffused natural lighting highlights the subject and animals, creating tender shadows and warm highlights. Cinematic color grading, high dynamic range, and film-quality aesthetic emphasize a peaceful, joyful, and intimate mood. Shot on a full-frame camera with an 85mm lens at f/1.8 aperture, producing creamy bokeh and sharp subject focus while subtly blurring the background. Perfectly framed for a vertical 9:16 composition, capturing warmth, tenderness, and tranquility.",
-      "imageUrl": "https://images.iimg.live/images/cool-gallery-1378.webp",
-      "category": "Animals",
-      "tags": [
-        "spring",
-        "lamb",
-        "rabbit",
-        "meadow",
-        "cinematic"
-      ]
-    },
-    {
-      "id": "29",
-      "title": "Man Feeding Red Fox in Autumn Forest",
-      "prompt": "A heartwarming portrait of a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He gently extends his hand with nuts to a curious red fox, while a small squirrel perches on a fallen log observing. The scene is set in a golden autumn forest with tall maple and oak trees, scattered fallen leaves, and soft morning mist. Soft diffused natural lighting highlights [Subject]'s face and the fox’s fur, cinematic color grading, 85mm lens at f/1.8 aperture creating beautiful bokeh. High dynamic range, film still quality, mood is immersive, peaceful, and heartwarming, perfectly framed for 9:16 vertical.",
-      "imageUrl": "https://images.iimg.live/images/vibrant-snap-9226.webp",
-      "category": "Animals",
-      "tags": [
-        "human",
-        "male",
-        "fox",
-        "squirrel",
-        "autumn",
-        "forest",
-        "cinematic",
-        "vertical"
-      ]
-    },
-    {
-      "id": "30",
-      "title": "Man with Baby Owl on Arm in Misty Woods",
-      "prompt": "A heartwarming cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He is comfortably seated on a moss-covered fallen tree log in a misty forest, clearly elevated above the forest floor. His posture is relaxed and upright while he gently holds a fluffy baby owl perched on his forearm. A curious hedgehog walks across the mossy ground a short distance in front of him. The forest environment features towering pine trees, scattered autumn leaves, soft morning fog, and lush green moss covering the ground. Gentle rays of early morning sunlight filter through the trees creating soft volumetric light beams. Soft diffused natural lighting illuminates [Subject] and the owl, professional cinematic color grading with warm natural tones and deep forest greens. Shot on an 85mm lens at f/1.8 aperture creating shallow depth of field and creamy background bokeh. High dynamic range, ultra-realistic film still quality, mood is tender, serene, and magical, framed for vertical 9:16 aspect ratio.",
-      "imageUrl": "https://images.iimg.live/images/dynamic-shot-1422.webp",
-      "category": "Animals",
-      "tags": [
-        "human",
-        "male",
-        "owl",
-        "hedgehog",
-        "forest",
-        "misty",
-        "cinematic",
-        "vertical"
-      ]
-    },
-    {
-      "id": "31",
-      "title": "Man Hugging Baby Deer in Snowy Winter Woods",
-      "prompt": "A cinematic winter portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He is kneeling upright on one knee in fresh snow, gently hugging a small baby deer while a playful fox stands nearby watching. The forest around them is covered in fresh snow with tall evergreen trees and falling snowflakes drifting through the air. Soft cold winter light illuminates the scene creating subtle highlights on the snow. Cinematic color grading with cool blue winter tones and natural skin warmth. Shot with an 85mm lens at f/1.8 aperture producing shallow depth of field and smooth background bokeh. High dynamic range, film still quality, vertical 9:16 composition.",
-      "imageUrl": "https://images.iimg.live/images/excellent-picture-8717.webp",
-      "category": "Animals",
-      "tags": [
-        "human",
-        "male",
-        "deer",
-        "fox",
-        "winter",
-        "forest",
-        "cinematic",
-        "vertical"
-      ]
-    },
-    {
-      "id": "32",
-      "title": "Man Feeding Ducklings by Autumn Pond",
-      "prompt": "A heartwarming portrait of a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He gently feeds a group of fluffy ducklings while a curious raccoon watches from a nearby rock. The scene is set by a calm pond surrounded by golden autumn trees, scattered leaves, and soft morning mist. Soft diffused natural lighting highlights [Subject] and the ducklings, cinematic color grading, 85mm lens at f/1.8 aperture creating beautiful bokeh. High dynamic range, film still quality, mood is gentle, heartwarming, and immersive, perfectly framed for vertical 9:16 aspect ratio.",
-      "imageUrl": "https://images.iimg.live/images/wonderful-picture-6767.webp",
-      "category": "Animals",
-      "tags": [
-        "human",
-        "male",
-        "ducklings",
-        "raccoon",
-        "autumn",
-        "pond",
-        "cinematic",
-        "vertical"
-      ]
-    },
-    {
-      "id": "33",
-      "title": "Man Hugging Baby Snow Leopard in Winter",
-      "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He stands in a snowy alpine landscape gently holding a fluffy baby snow leopard while a loyal German Shepherd stands beside him. Snow-covered pine trees and distant mountains fill the background as snowflakes fall through the cold air. Soft winter daylight illuminates the scene with cool blue tones. Cinematic color grading with dramatic winter contrast. Shot with an 85mm lens at f/1.8 aperture producing shallow depth of field and creamy background bokeh. High dynamic range, film still quality, vertical 9:16 aspect ratio.",
-      "imageUrl": "https://images.iimg.live/images/epic-capture-6509.webp",
-      "category": "Animals",
-      "tags": [
-        "winter",
-        "snow leopard",
-        "german shepherd",
-        "snow",
-        "cinematic",
-        "9:16"
-      ]
-    },
-    {
-      "id": "44",
-      "title": "Soldier in Desert Patrol",
-      "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He wears tactical desert military gear and kneels behind sand dunes, scanning the horizon with binoculars. Dust swirls in the dry air as the sun sets, casting dramatic shadows. Professional cinematic color grading emphasizes warm oranges and muted browns. Shot with 85mm lens at f/1.8 aperture, creating shallow depth of field and soft bokeh. High dynamic range, vertical 9:16 composition, mood is tense, vigilant, and immersive.",
-      "imageUrl": "https://images.iimg.live/images/glorious-view-6127.webp",
-      "category": "Military",
-      "tags": [
-        "human",
-        "male",
-        "soldier",
-        "desert",
-        "military",
-        "cinematic",
-        "vertical"
-      ]
-    },
-    {
-      "id": "45",
-      "title": "Urban Police Officer on Night Patrol",
-      "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He wears a dark police uniform with tactical vest, standing on a wet city street at night. Street lamps and distant patrol lights reflect on the asphalt. Soft rain falls, creating reflections and atmosphere. Professional cinematic color grading emphasizes cool blues and muted shadows. Shot with 85mm lens at f/1.8 for shallow depth of field and cinematic bokeh, high dynamic range, vertical 9:16 composition, mood is tense, vigilant, and atmospheric.",
-      "imageUrl": "https://images.iimg.live/images/amazing-snapshot-7582.webp",
-      "category": "Military",
-      "tags": [
-        "human",
-        "male",
-        "police",
-        "urban",
-        "night",
-        "cinematic",
-        "vertical"
-      ]
-    },
-    {
-      "id": "46",
-      "title": "Soldier in Snowy Mountain Operation",
-      "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He wears white camo winter military gear, crouched behind snow-covered rocks on a mountain ridge. Cold wind blows snowflakes around him. Professional cinematic color grading emphasizes cool whites with subtle warm skin highlights. Shot with 85mm lens at f/1.8 for shallow depth of field and cinematic bokeh, high dynamic range, vertical 9:16 composition, mood is tense, dramatic, and immersive.",
-      "imageUrl": "https://images.iimg.live/images/brilliant-collection-3382.webp",
-      "category": "Military",
-      "tags": [
-        "human",
-        "male",
-        "soldier",
-        "snow",
-        "mountain",
-        "military",
-        "cinematic",
-        "vertical"
-      ]
-    },
-    {
-      "id": "47",
-      "title": "Special Forces in Jungle Ambush",
-      "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He wears tactical jungle camo, lying prone in thick foliage with a rifle aimed at a distant target. Sunlight filters through dense jungle leaves creating dappled shadows. Professional cinematic color grading emphasizes rich greens and muted browns. Shot with 85mm lens at f/1.8 for shallow depth of field and cinematic bokeh, high dynamic range, vertical 9:16 composition, mood is suspenseful, tactical, and immersive.",
-      "imageUrl": "https://images.iimg.live/images/radiant-vision-9682.webp",
-      "category": "Military",
-      "tags": [
-        "human",
-        "male",
-        "soldier",
-        "jungle",
-        "military",
-        "cinematic",
-        "vertical"
-      ]
-    },
-    {
-      "id": "48",
-      "title": "Police SWAT Team Breach",
-      "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He wears full SWAT gear and helmet, holding a tactical shield as he breaches a building entrance. Smoke and debris fill the air. Professional cinematic color grading emphasizes muted blues and high contrast shadows. Shot with 85mm lens at f/1.8 for shallow depth of field and cinematic bokeh, high dynamic range, vertical 9:16 composition, mood is intense, dramatic, and tactical.",
-      "imageUrl": "https://images.iimg.live/images/incredible-portfolio-5414.webp",
-      "category": "Military",
-      "tags": [
-        "human",
-        "male",
-        "police",
-        "SWAT",
-        "urban",
-        "cinematic",
-        "vertical"
-      ]
-    },
-    {
-      "id": "49",
-      "title": "Soldier Recon on Coastal Cliff",
-      "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He stands on a rocky coastal cliff wearing tactical gear, scanning the ocean horizon with binoculars. Waves crash below creating mist. Professional cinematic color grading emphasizes cool blues and muted earth tones. Shot with 85mm lens at f/1.8 for shallow depth of field and cinematic bokeh, high dynamic range, vertical 9:16 composition, mood is vigilant, strategic, and cinematic.",
-      "imageUrl": "https://images.iimg.live/images/majestic-memory-2991.webp",
-      "category": "Military",
-      "tags": [
-        "human",
-        "male",
-        "soldier",
-        "coast",
-        "military",
-        "cinematic",
-        "vertical"
-      ]
-    },
-    {
-      "id": "50",
-      "title": "Urban Patrol Police Officer at Dawn",
-      "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He walks along quiet urban streets at dawn, wearing standard police uniform, with soft light casting long shadows on wet pavement. Professional cinematic color grading emphasizes warm golden highlights and soft urban tones. Shot with 85mm lens at f/1.8, shallow depth of field with soft bokeh, high dynamic range, vertical 9:16 composition, mood is calm, alert, and cinematic.",
-      "imageUrl": "https://images.iimg.live/images/awesome-masterpiece-6258.webp",
-      "category": "Military",
-      "tags": [
-        "human",
-        "male",
-        "police",
-        "urban",
-        "dawn",
-        "cinematic",
-        "vertical"
-      ]
-    },
-    {
-      "id": "51",
-      "title": "Soldier in Night Desert Operation",
-      "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He moves carefully through a desert at night, wearing tactical night-vision gear. Moonlight casts soft shadows across sand dunes. Professional cinematic color grading emphasizes cool dark blues with subtle highlights. Shot with 85mm lens at f/1.8 for shallow depth of field and cinematic bokeh, high dynamic range, vertical 9:16 composition, mood is suspenseful, covert, and immersive.",
-      "imageUrl": "https://images.iimg.live/images/awesome-creation-1568.webp",
-      "category": "Military",
-      "tags": [
-        "human",
-        "male",
-        "soldier",
-        "desert",
-        "night",
-        "military",
-        "cinematic",
-        "vertical"
-      ]
-    },
-    {
-      "id": "52",
-      "title": "SWAT Officer in Urban Smoke",
-      "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He wears tactical SWAT armor and holds a rifle while smoke and sparks fill a dimly lit urban alley. Professional cinematic color grading emphasizes cool grays and soft warm skin highlights. Shot with 85mm lens at f/1.8 for shallow depth of field and cinematic bokeh, high dynamic range, vertical 9:16 composition, mood is intense, tactical, and cinematic.",
-      "imageUrl": "https://images.iimg.live/images/supreme-snapshot-5643.webp",
-      "category": "Military",
-      "tags": [
-        "human",
-        "male",
-        "police",
-        "SWAT",
-        "urban",
-        "cinematic",
-        "vertical"
-      ]
-    },
-    {
-      "id": "53",
-      "title": "Soldier in Rainforest Recon Mission",
-      "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He moves cautiously through a dense tropical rainforest wearing tactical camo, with mist and light rays filtering through thick foliage. Professional cinematic color grading emphasizes deep greens and subtle warm highlights. Shot with 85mm lens at f/1.8 for shallow depth of field and cinematic bokeh, high dynamic range, vertical 9:16 composition, mood is suspenseful, stealthy, and immersive.",
-      "imageUrl": "https://images.iimg.live/images/excellent-photo-9630.webp",
-      "category": "Military",
-      "tags": [
-        "human",
-        "male",
-        "soldier",
-        "rainforest",
-        "military",
-        "cinematic",
-        "vertical"
-      ]
-    },
-    {
-      "id": "54",
-      "title": "Soldier at Bagram Airfield",
-      "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He stands confidently wearing a modern military uniform with the Afghanistan flag patch on the shoulder, tactical vest, and helmet. Behind him, the wide expanse of Bagram Airfield stretches with aircraft, hangars, and distant mountains under a dramatic sky. Professional cinematic color grading emphasizes warm earthy tones with subtle cool highlights on metal surfaces. Shot with an 85mm lens at f/1.8 aperture, shallow depth of field with soft bokeh, high dynamic range, vertical 9:16 composition, mood is strong, vigilant, and cinematic.",
-      "imageUrl": "https://images.iimg.live/images/epic-masterpiece-7416.webp",
-      "category": "Military",
-      "tags": [
-        "human",
-        "male",
-        "soldier",
-        "military",
-        "Afghanistan flag",
-        "Bagram Airfield",
-        "cinematic",
-        "vertical"
-      ]
-    },
-    {
-      "id": "55",
-      "title": "Tactical Soldier Bagram",
-      "prompt": "A cinematic full-body portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He wears complete tactical military gear including helmet, tactical vest, utility belt, knee pads, and combat boots, with the Afghanistan flag patch prominently displayed on his uniform. He stands confidently on the tarmac of Bagram Airfield, with military aircraft, hangars, and mountains visible in the background under a dramatic sky. Professional cinematic color grading emphasizes warm earthy tones with subtle cool highlights on metal and gear. Shot with a full-frame 35mm lens at f/2.0 aperture, capturing full-body detail with shallow depth of field, soft bokeh, high dynamic range, vertical 9:16 composition, mood is strong, vigilant, and cinematic.",
-      "imageUrl": "https://images.iimg.live/images/excellent-masterpiece-6300.webp",
-      "category": "Military",
-      "tags": [
-        "human",
-        "male",
-        "soldier",
-        "tactical gear",
-        "full body",
-        "Bagram Airfield",
-        "Afghanistan flag",
-        "cinematic",
-        "vertical"
-      ]
-    },
-      {
-        "id": "56",
-        "title": "Pakistani Soldier Base",
-        "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He stands confidently wearing a modern Pakistani military uniform with the Pakistan flag patch on the shoulder, tactical vest, and helmet. Behind him, a Pakistani military base stretches with hangars, vehicles, and distant mountains under a dramatic sky. Professional cinematic color grading emphasizes earthy greens and warm skin tones. Shot with an 85mm lens at f/1.8 aperture, shallow depth of field with soft bokeh, high dynamic range, vertical 9:16 composition, mood is strong, vigilant, and cinematic.",
-        "imageUrl": "https://images.iimg.live/images/dynamic-picture-8466.webp",
-        "category": "Military",
-        "tags": ["human","male","soldier","Pakistan","military","Pakistani flag","base","cinematic","vertical"]
-      },
-      {
-        "id": "57",
-        "title": "US Soldier Washington",
-        "prompt": "An ultra-realistic cinematic portrait of [Subject], a young man with a fair complexion, deep brown eyes, and short, neatly styled dark hair complemented by a well-groomed light beard and mustache. He stands confidently within a modern US military installation in Washington, dressed in a detailed contemporary US Army combat uniform featuring a visible American flag shoulder patch and advanced tactical gear. The environment behind him reveals a dynamic operational base with military helicopters, armored vehicles, and sleek infrastructure, subtly blurred to enhance subject focus. The scene is lit by natural daylight under a softly diffused partly cloudy sky, creating balanced highlights and shadows. High-end cinematic color grading with refined blue, gray, and earthy tones enhances realism and depth. Captured using an 85mm prime lens at f/1.8, producing shallow depth of field and smooth background bokeh. Ultra-detailed, HDR rendering, vertical 9:16 composition. The overall mood conveys vigilance, discipline, and quiet heroism.",
-        "imageUrl": "https://images.iimg.live/images/awesome-creation-4587.webp",
-        "category": "Military",
-        "tags": ["human","male","soldier","USA","military","American flag","base","cinematic","vertical","ultra-realistic","HDR","85mm","bokeh"]
-      },
-      {
-        "id": "58",
-        "title": "US Soldier Bagram",
-        "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He stands wearing full US military uniform and tactical gear with the US flag patch on his shoulder, on the tarmac of Bagram Airfield. Behind him, aircraft, hangars, and distant mountains are visible under a dramatic sunrise. Professional cinematic color grading emphasizes warm highlights with muted blues on metal and gear. Shot with 85mm lens at f/1.8, shallow depth of field, soft bokeh, HDR, vertical 9:16 composition, mood is strong, vigilant, cinematic.",
-        "imageUrl": "https://images.iimg.live/images/supreme-masterpiece-3685.webp",
-        "category": "Military",
-        "tags": ["human","male","soldier","USA","military","American flag","Bagram Airfield","cinematic","vertical"]
-      },
-      {
-        "id": "59",
-        "title": "Indian Soldier Base",
-        "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He stands confidently wearing an Indian Army uniform with the India flag patch, tactical vest, and helmet. The military base behind him shows armored vehicles, hangars, and distant hills under golden hour sunlight. Professional cinematic color grading emphasizes warm earthy tones with vibrant highlights. Shot with 85mm lens at f/1.8, shallow depth of field, soft bokeh, HDR, vertical 9:16 composition, mood is strong, disciplined, cinematic.",
-        "imageUrl": "https://images.iimg.live/images/awesome-creation-5314.webp",
-        "category": "Military",
-        "tags": ["human","male","soldier","India","military","Indian flag","base","cinematic","vertical"]
-      },
-      {
-        "id": "60",
-        "title": "British Soldier Base",
-        "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He wears a modern British Army uniform with the UK flag patch on his shoulder, tactical vest, and helmet. Behind him, a British military base with vehicles, hangars, and green fields stretches under an overcast sky. Professional cinematic color grading emphasizes muted greens and earthy tones. Shot with 85mm lens at f/1.8, shallow depth of field, soft bokeh, HDR, vertical 9:16 composition, mood is vigilant, professional, cinematic.",
-        "imageUrl": "https://images.iimg.live/images/epic-capture-8499.webp",
-        "category": "Military",
-        "tags": ["human","male","soldier","UK","military","British flag","base","cinematic","vertical"]
-      },
-      {
-        "id": "61",
-        "title": "French Army Operator at Tactical Base",
-        "prompt": "An ultra-realistic cinematic portrait of [Subject], a young man with a fair complexion, deep brown eyes, and short, neatly styled dark hair with a well-groomed light beard and mustache. He stands facing the camera at a modern French military base, wearing a detailed contemporary French Army combat uniform with a visible France flag shoulder patch, tactical vest with loaded pouches, and a combat helmet. His posture is upright and composed, expression focused and disciplined. The environment behind him features an active military base with armored vehicles, hangars, and distant rolling hills, naturally blurred for depth separation. The scene is illuminated by soft natural daylight under a clear sky, enhanced with subtle golden hour warmth to create balanced highlights and soft shadows across the subject’s face and gear. High-end cinematic color grading with a refined balance of cool blue tones and warm earthy hues, natural skin tones, and realistic contrast. Captured using an 85mm full-frame prime lens at f/1.8, producing shallow depth of field, creamy background bokeh, and strong subject isolation. Full-frame vertical 9:16 composition, subject centered, edge-to-edge framing, no borders, no black bars, no letterboxing. Ultra-detailed textures, HDR rendering, sharp focus on facial features and uniform materials. The overall mood conveys strength, discipline, and cinematic realism.",
-        "imageUrl": "https://images.iimg.live/images/fantastic-shot-3498.webp",
-        "category": "Military",
-        "tags": ["human","male","soldier","France","military","French flag","base","cinematic","vertical"]
-      },
-      {
-        "id": "62",
-        "title": "German Army Sentinel at Military Base",
-        "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He wears modern German Army uniform with the Germany flag patch, tactical vest, and helmet. The background shows a German military base with vehicles, hangars, and training grounds under partly cloudy sky. Professional cinematic color grading emphasizes earthy greens and neutral tones. Shot with 85mm lens at f/1.8, shallow depth of field, soft bokeh, HDR, vertical 9:16 composition, mood is disciplined, vigilant, cinematic.",
-        "imageUrl": "https://images.iimg.live/images/vibrant-scene-6470.webp",
-        "category": "Military",
-        "tags": ["human","male","soldier","Germany","military","German flag","base","cinematic","vertical"]
-      },
-      {
-        "id": "63",
-        "title": "Canadian Army Sentinel at Mountain Base",
-        "prompt": "An ultra-realistic cinematic portrait of [Subject], a young man with a fair complexion, deep brown eyes, and short neatly styled dark hair with a light beard and mustache. He stands facing the camera at a Canadian military base, wearing a full modern Canadian Army combat uniform with a visible Canada flag shoulder patch, tactical vest with loaded pouches, and combat helmet. His posture is steady and confident, expression focused and vigilant. The background features a realistic operational base with armored vehicles, military hangars, and forested hills under warm natural sunlight. Golden hour lighting creates soft highlights and natural shadows across the scene. High-end cinematic color grading with warm earthy tones enhances realism and depth. Captured using an 85mm lens at f/1.8, producing shallow depth of field and smooth bokeh. Full-frame vertical 9:16 composition, subject perfectly centered, no borders, no black bars, no letterboxing, edge-to-edge image fill. Ultra-detailed, HDR, sharp focus. The mood is strong, disciplined, and cinematic.",
-        "imageUrl": "https://images.iimg.live/images/wonderful-portfolio-6537.webp",
-        "category": "Military",
-        "tags": ["human","male","soldier","Canada","military","Canadian flag","base","cinematic","vertical","ultra-realistic","HDR","85mm","no borders"]
-      },
-      {
-        "id": "64",
-        "title": "Military Portrait: Eiffel Tower",
-        "prompt": "Subject: An individual with dark hair and brown eyes, resembling the provided image. Attributes: Standing confidently, pose is upright and authoritative, wearing a meticulously detailed and distinguished military uniform with polished insignia, a serious and determined expression, exuding professionalism and strength. Style: Hyperrealistic, professional portrait photography, cinematic quality, inspired by Annie Leibovitz. Composition: Full-body shot, eye-level angle, centered framing, leading lines from the uniform to the Eiffel Tower, shallow depth of field to emphasize the subject. Lighting & Color: Golden hour lighting, warm and rich color palette with deep blues and golds, soft directional light from the side highlighting facial contours and uniform textures, strong contrast between subject and background. Environment: Iconic Eiffel Tower in Paris as a subtly blurred background, hinting at the grandeur of the location, with faint Parisian street elements, under a clear, warm sky. Detail Level: Ultra-detailed uniform textures, sharp facial features, intricate stitching, high resolution, photorealistic rendering. Camera/Technical: Shot with an 85mm prime lens, f/2.8 aperture, ISO 100, professional studio flash with a softbox for key light, no motion blur, sharp focus on the subject's eyes. Mood & Emotion: Authoritative, professional, determined, heroic, respectful, stoic. Optional Model Tweaks: Aspect ratio 9:16. Negative prompt: blurry, low quality, cartoon, ugly, distorted, extra limbs, bad anatomy, watermark, signature, text, noisy, grainy, overexposed, underexposed, childish, amateur, casual, civilian clothes, smiling, poor lighting, dark, dull colors, bad composition, out of focus background, multiple subjects, crowd.",
-        "imageUrl": "https://images.iimg.live/images/cool-image-2334.webp",
-        "category": "Professional",
-        "tags": ["military", "Eiffel Tower", "Paris", "professional", "portrait", "uniform", "9:16 aspect ratio", "85mm lens", "golden hour", "photorealistic", "cinematic", "Annie Leibovitz", "full-body", "detailed", "authoritative", "determined"]
-      },
-      {
-        "id": "65",
-        "title": "War-Torn Urban Battlefield",
-        "prompt": "Hyperrealistic, cinematic war-themed portrait of the man from the reference image. He is a soldier in the heat of battle, wearing modern tactical military gear, a dusty and weathered combat uniform with a plate carrier, and a tactical helmet. His face is slightly smudged with soot and dirt, showing a determined, intense, and stoic expression. Environment: A realistic, war-torn urban battlefield with smoke, distant fire, and debris. The atmosphere is gritty and high-stakes. Lighting: Dramatic, high-contrast lighting with the orange glow of distant fires and cold, overcast daylight. Style: Professional war photography, inspired by war-zone photojournalism and cinematic action films like '13 Hours'. Composition: Mid-shot, eye-level, capturing the intensity of the moment. Technical: 85mm lens, f/2.0, sharp focus on the eyes, shallow depth of field to blur the chaotic background. No motion blur on the subject. Ultra-detailed textures of fabric, metal, and skin. Aspect ratio: 9:16.",
-        "imageUrl": "https://images.iimg.live/images/fantastic-masterpiece-1271.webp",
-        "category": "Military",
-        "tags": ["War", "Combat", "Tactical", "9:16", "Hyperrealistic", "Cinematic", "Soldier"]
-      },
-        {
-          "id": "66",
-          "title": "US Soldier: Urban Combat Zone",
-          "prompt": "Hyperrealistic, cinematic war-themed portrait of a soldier from the reference image in an urban combat zone. He is wearing modern tactical military gear, a dusty and weathered combat uniform with a plate carrier and helmet. His face shows a determined, intense, and stoic expression, slightly smudged with soot and dirt. Environment: War-torn streets with smoke, debris, and distant fires. Dramatic high-contrast lighting with cold daylight and orange glows from fire. Mid-shot, eye-level, sharp focus on eyes, shallow depth of field. 85mm f/2.0 lens, ultra-detailed textures, 9:16 aspect ratio.",
-          "imageUrl": "https://images.iimg.live/images/fantastic-capture-7268.webp",
-          "category": "Military",
-          "tags": ["War", "Combat", "Tactical", "9:16", "Soldier"]
-        }
+      "title": "Morning Jog in Vancouver’s Stanley Park",
+      "prompt": "A travel photograph of [Subject] with medium skin tone, short black hair, wearing athletic clothing, jogging along a tree-lined path in Stanley Park, Vancouver. Soft morning light creates warm highlights on the path and trees. Photorealistic style, shallow depth of field, cinematic lighting, ultra-detailed textures. Shot on 35mm lens, f/2.0. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/fantastic-image-3219.webp",
+      "category": "Travel",
+      "tags": ["portrait", "travel", "urban", "park", "active"]
+    }
   ]
 }
