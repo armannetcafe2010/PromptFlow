@@ -1,1 +1,14 @@
-
+{
+  "version": "1.0.0",
+  "category": "Trending",
+  "prompts": [
+    {
+      "id": "1",
+      "title": "Man Hugging Goat in Winter",
+      "prompt": "A heartwarming portrait of a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He gently hugs a small fluffy goat while a majestic German Shepherd dog curiously sniffs the goat with visible breath in the cold air. The scene is set in a serene winter landscape covered with fresh snow and falling snowflakes. Snow-covered evergreen trees and distant hills appear in the background. Soft diffused natural lighting, cinematic color grading, 85mm lens look with f/1.8 aperture creating beautiful bokeh. High dynamic range, film still quality, dramatic yet peaceful mood.",
+      "imageUrl": "https://images.iimg.live/images/majestic-work-7640.webp",
+      "category": "Trending",
+      "tags": ["winter","goat","german shepherd","snow","cinematic"]
+    }
+  ]
+}
