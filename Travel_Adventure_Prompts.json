@@ -55,7 +55,7 @@
       "title": "Hiking in the Swiss Alps",
       "prompt": "A travel photograph of [Subject] with fair complexion, short brown hair, wearing a windbreaker and hiking boots, standing on a mountain trail in the Swiss Alps. Snow-capped peaks and lush valleys stretch into the distance. Crisp morning light highlights textures in the rocks and vegetation. Photorealistic style, cinematic composition, shallow depth of field, ultra-detailed textures. Shot on 70mm lens, f/2.8. 9:16 aspect ratio.",
       "imageUrl": "https://images.iimg.live/images/ultimate-snap-1796.webp",
-      "category": "Travel",
+      "category": "Travel & Adventure",
       "tags": ["portrait", "travel", "mountains", "hiking", "adventure"]
     },
     {
@@ -79,7 +79,7 @@
       "title": "Cycling Through the Streets of Lisbon",
       "prompt": "A travel photograph of [Subject] with fair skin, medium-length brown hair, riding a bicycle through Lisbon’s colorful streets. Wearing casual outfit: t-shirt, shorts, and sneakers. Afternoon sunlight casts warm tones on the cobblestones. Photorealistic style, cinematic composition, shallow depth of field, ultra-detailed textures. Shot on 50mm lens, f/1.8. 9:16 aspect ratio.",
       "imageUrl": "https://images.iimg.live/images/wonderful-memory-4769.webp",
-      "category": "Travel",
+      "category": "Travel & Adventure",
       "tags": ["portrait", "travel", "urban", "cycling", "colorful"]
     },
     {
@@ -183,7 +183,7 @@
       "title": "Adventurous Hiker in Mountain Landscape",
       "prompt": "A cinematic wide-angle adventure photograph of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are standing confidently on a rugged mountain trail, gazing out over a breathtaking panoramic landscape of dramatic alpine peaks, deep valleys, and a vast clear blue sky stretching to the horizon. The subject is dressed in realistic hiking gear — a weather-resistant jacket, hiking boots, and a backpack — suggesting an active outdoor journey. The environment features rocky terrain, distant snow-capped mountains, and subtle clouds drifting across the sky, creating a sense of scale and freedom. Bright natural daylight illuminates the landscape, casting crisp shadows and highlighting the textures of stone, grass, and distant ridges. Captured in a realistic outdoor adventure photography style with cinematic composition, strong depth, and natural color grading that emphasizes the grandeur of nature. Shot on a full-frame camera with a 24mm wide-angle lens at f/4 aperture, capturing expansive scenery with sharp detail and natural perspective. 9:16 aspect ratio.",
       "imageUrl": "https://images.iimg.live/images/cool-capture-5602.webp",
-      "category": "Adventure",
+      "category": "Travel & Adventure",
       "tags": ["portrait", "hiking", "mountains", "nature", "adventure"]
     }
   ]
