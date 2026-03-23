@@ -40,6 +40,7 @@
       "prompt": "A hyper-realistic, low-key cinematic side-profile portrait of a handsome man with a thick, well-groomed beard, captured in a confident and relaxed standing posture. He has a calm, composed expression, wearing a dark, well-fitted shirt (fully clothed, not shirtless, no bare chest visible). The lighting is dramatic and minimal, with soft directional light illuminating only part of the face while the rest fades into shadow, creating a moody and professional atmosphere. Subtle rim lighting highlights the contours of the face, beard texture, and fabric details. The skin shows natural texture with fine details. The background is deep charcoal or black with a smooth gradient, creating strong contrast and shallow depth of field. Shot on 85mm lens, high resolution, professional photography aesthetic, vertical 9:16 aspect ratio, centered composition suitable for a Facebook profile picture.",
       "imageUrl": "https://images.iimg.live/images/brilliant-art-2574.webp",
       "category": "Portrait"
+      "tags": ["cinematic portrait, side profile, beard, low key lighting, realistic"]
     },
     {
       "id": 6,
@@ -47,6 +48,7 @@
       "prompt": "A high-end, professional headshot of a handsome man with perfectly styled, voluminous brown hair and light stubble, standing in a relaxed yet confident pose. He is wearing a light blue button-down shirt, standing centered in the frame. The lighting is soft and flattering, with a clear catchlight in his eyes. The background features a beautiful, warm golden bokeh effect with soft circular light orbs. Hyper-realistic skin texture, sharp focus on the face, 8k resolution, masterpiece quality, vertical 9:16 aspect ratio.",
       "imageUrl": "",
       "category": "Portrait"
+      "tags": ["male portrait, headshot, professional, bokeh, realistic"]
     },
     {
       "id": 7,
