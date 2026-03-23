@@ -34,32 +34,32 @@
       "category": "Portrait",
       "tags": ["cinematic", "portrait", "4k", "ultra-realistic", "fan moment", "Shahrukh Khan", "red carpet", "Instagram style", "male model", "celebrity"]
     },
-  {
-    "id": 5,
-    "title": "Cinematic Side-Profile Beard Portrait",
-    "prompt": "A hyper-realistic, cinematic side-profile portrait of a handsome man with a thick, well-groomed beard, captured in a strong standing posture. He is standing tall with a focused gaze, showing a muscular shirtless upper body. The lighting is dramatic and moody, featuring soft rim lighting that highlights the texture of the skin and the individual hairs of the beard. The skin shows natural pores, subtle sweat, and fine details. The background is a solid, dark charcoal grey, creating a shallow depth of field. Shot on 85mm lens, 8k resolution, highly detailed, professional photography aesthetic, vertical 9:16 aspect ratio.",
-    "imageUrl": "https://home/ubuntu/upload/ai-generated-illustration-handsome-shirtless-man-with-beard_665346-131285.jpg",
-    "category": "Portrait"
-  },
-  {
-    "id": 6,
-    "title": "Polished Male Portrait with Bokeh",
-    "prompt": "A high-end, professional headshot of a handsome man with perfectly styled, voluminous brown hair and light stubble, standing in a relaxed yet confident pose. He is wearing a light blue button-down shirt, standing centered in the frame. The lighting is soft and flattering, with a clear catchlight in his eyes. The background features a beautiful, warm golden bokeh effect with soft circular light orbs. Hyper-realistic skin texture, sharp focus on the face, 8k resolution, masterpiece quality, vertical 9:16 aspect ratio.",
-    "imageUrl": "https://home/ubuntu/upload/6f59cdf4-d91f-46a2-9623-74c769efc592.jpg",
-    "category": "Portrait"
-  },
-  {
-    "id": 7,
-    "title": "Sophisticated Corporate Male Portrait",
-    "prompt": "A professional and sophisticated portrait of a handsome man with styled, wavy light brown hair, standing in a poised and elegant manner. He is wearing a tailored grey linen suit jacket over a crisp white shirt, standing in a modern, high-end office environment. His posture is upright and professional, with soft, natural daylight coming from a window. The background is slightly out of focus, showing architectural details. High-resolution photography, realistic skin tones, sharp details, 8k, vertical 9:16 aspect ratio.",
-    "imageUrl": "https://home/ubuntu/upload/handsome-man-man-portrait-attractive-person_1233831-905.jpg",
-    "category": "Portrait"
-  },
-  {
-    "id": 8,
-    "title": "Thoughtful Cafe Portrait",
-    "prompt": "A cinematic portrait of a young man sitting outdoors at a cafe, resting his chin on his hand in a thoughtful pose, looking slightly away from the camera. Soft natural golden hour lighting with warm tones illuminating his face. Shallow depth of field with a creamy blurred background (bokeh), urban environment subtly visible. Modern hairstyle, well-groomed beard, wearing a light casual shirt with sleeves slightly rolled up. High detail, sharp focus on the face, smooth skin tones, professional color grading, 85mm lens, f/1.8, DSLR quality, natural shadows, realistic and clean aesthetic, vertical 9:16 aspect ratio.",
-    "imageUrl": "",
-    "category": "Portrait"
-  }
-]
+    {
+      "id": 5,
+      "title": "Cinematic Side-Profile Beard Portrait",
+      "prompt": "A hyper-realistic, cinematic side-profile portrait of a handsome man with a thick, well-groomed beard, captured in a strong standing posture. He is standing tall with a focused gaze, showing a muscular shirtless upper body. The lighting is dramatic and moody, featuring soft rim lighting that highlights the texture of the skin and the individual hairs of the beard. The skin shows natural pores, subtle sweat, and fine details. The background is a solid, dark charcoal grey, creating a shallow depth of field. Shot on 85mm lens, 8k resolution, highly detailed, professional photography aesthetic, vertical 9:16 aspect ratio.",
+      "imageUrl": "https://home/ubuntu/upload/ai-generated-illustration-handsome-shirtless-man-with-beard_665346-131285.jpg",
+      "category": "Portrait"
+    },
+    {
+      "id": 6,
+      "title": "Polished Male Portrait with Bokeh",
+      "prompt": "A high-end, professional headshot of a handsome man with perfectly styled, voluminous brown hair and light stubble, standing in a relaxed yet confident pose. He is wearing a light blue button-down shirt, standing centered in the frame. The lighting is soft and flattering, with a clear catchlight in his eyes. The background features a beautiful, warm golden bokeh effect with soft circular light orbs. Hyper-realistic skin texture, sharp focus on the face, 8k resolution, masterpiece quality, vertical 9:16 aspect ratio.",
+      "imageUrl": "https://home/ubuntu/upload/6f59cdf4-d91f-46a2-9623-74c769efc592.jpg",
+      "category": "Portrait"
+    },
+    {
+      "id": 7,
+      "title": "Sophisticated Corporate Male Portrait",
+      "prompt": "A professional and sophisticated portrait of a handsome man with styled, wavy light brown hair, standing in a poised and elegant manner. He is wearing a tailored grey linen suit jacket over a crisp white shirt, standing in a modern, high-end office environment. His posture is upright and professional, with soft, natural daylight coming from a window. The background is slightly out of focus, showing architectural details. High-resolution photography, realistic skin tones, sharp details, 8k, vertical 9:16 aspect ratio.",
+      "imageUrl": "https://home/ubuntu/upload/handsome-man-man-portrait-attractive-person_1233831-905.jpg",
+      "category": "Portrait"
+    },
+    {
+      "id": 8,
+      "title": "Thoughtful Cafe Portrait",
+      "prompt": "A cinematic portrait of a young man sitting outdoors at a cafe, resting his chin on his hand in a thoughtful pose, looking slightly away from the camera. Soft natural golden hour lighting with warm tones illuminating his face. Shallow depth of field with a creamy blurred background (bokeh), urban environment subtly visible. Modern hairstyle, well-groomed beard, wearing a light casual shirt with sleeves slightly rolled up. High detail, sharp focus on the face, smooth skin tones, professional color grading, 85mm lens, f/1.8, DSLR quality, natural shadows, realistic and clean aesthetic, vertical 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Portrait"
+    }
+  ]
