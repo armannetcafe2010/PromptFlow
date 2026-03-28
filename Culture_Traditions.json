@@ -9,6 +9,14 @@
       "imageUrl": "https://images.iimg.live/images/majestic-work-6604.webp",
       "category": "Culture & Traditions",
       "tags": ["portrait", "cultural", "japanese", "tea ceremony", "serene"]
+    },
+    {
+      "id": "2",
+      "title": "Afghan Traditional Attire",
+      "prompt": "A culturally rich, hyper-realistic image of [Subject] with natural skin tones, expressive eyes, and neatly styled hair, featuring a well-groomed beard. The subject is dressed in traditional Afghan attire, wearing a clean, elegant perahan tunban with a textured waistcoat, ensuring a fully clothed and modest appearance. They are standing confidently in a traditional courtyard setting with classic Afghan architectural elements such as carved wooden doors, patterned tiles, and soft earth-toned walls. The environment includes subtle cultural details like woven textiles and handcrafted decor, creating an authentic and respectful atmosphere. Lighting is soft and natural with a warm golden tone, casting gentle shadows that enhance depth and fabric textures. Captured in a cinematic, documentary-style photography approach with a shallow depth of field, keeping the subject sharp while softly blurring the background. Shot on a full-frame camera with an 85mm lens at f/1.8 aperture for strong subject isolation and creamy bokeh. Ultra-high resolution, sharp focus, realistic textures, professional color grading. No nudity, no distortion, no extra limbs, no blur, no artifacts, no watermark, no text. 9:16 aspect ratio.",
+      "imageUrl": "https://images.iimg.live/images/afghan-traditional-portrait.webp",
+      "category": "Culture & Traditions",
+      "tags": ["cultural", "afghan", "traditional clothing", "heritage", "modest", "lifestyle"]
     }
   ]
 }
