@@ -17,6 +17,86 @@
       "imageUrl": "https://i.ibb.co/fd3xsMnf/2.png",
       "category": "Culture & Traditions",
       "tags": ["cultural", "afghan", "traditional clothing", "heritage", "modest", "lifestyle"]
+    },
+    {
+      "id": "3",
+      "title": "Japanese Tea Ceremony",
+      "prompt": "A serene, culturally authentic image of [Subject] with natural skin tones and refined features, participating in a traditional Japanese tea ceremony. The subject is fully clothed in an elegant kimono with subtle patterns, seated gracefully on a tatami mat in a minimalist tea room. The setting includes shoji screens, a simple floral arrangement, and handcrafted ceramics. Soft natural light filters through the screens, creating a calm and balanced atmosphere. Captured in a realistic cultural photography style with shallow depth of field, focusing on the subject while softly blurring the background. Shot on a full-frame camera with a 50mm lens at f/1.8 aperture. Ultra-high resolution, sharp focus, natural color grading. No nudity, no distortion, no artifacts, no text. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Culture & Traditions",
+      "tags": ["japanese", "tea ceremony", "cultural", "traditional", "minimal", "serene"]
+    },
+    {
+      "id": "4",
+      "title": "Indian Festival Attire",
+      "prompt": "A vibrant, culturally rich image of [Subject] wearing traditional Indian attire such as a saree or kurta with intricate embroidery, ensuring a fully clothed and modest appearance. The setting reflects a festive environment with warm lights, marigold decorations, and colorful fabrics. The subject stands confidently with natural expressions, surrounded by soft glowing lights that create a joyful atmosphere. Captured in cinematic style with warm tones, shallow depth of field, and detailed fabric textures. Shot on a full-frame camera with an 85mm lens at f/1.8. Ultra-high resolution, sharp details, realistic lighting. No nudity, no distortion, no blur, no text. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Culture & Traditions",
+      "tags": ["indian", "festival", "traditional clothing", "colorful", "cultural"]
+    },
+    {
+      "id": "5",
+      "title": "Arab Desert Heritage",
+      "prompt": "A cinematic, culturally respectful image of [Subject] dressed in traditional Arab attire such as a thobe or abaya, fully clothed and modest. The subject stands in a vast desert landscape with rolling sand dunes and a warm sunset sky. The lighting is golden and dramatic, casting long shadows and enhancing fabric flow. The composition highlights cultural identity and environmental harmony. Shot with a full-frame camera, 85mm lens at f/2.0, shallow depth of field. Ultra-detailed textures, natural tones, professional color grading. No nudity, no distortion, no artifacts, no text. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Culture & Traditions",
+      "tags": ["arab", "desert", "traditional", "heritage", "cultural"]
+    },
+    {
+      "id": "6",
+      "title": "African Tribal Style",
+      "prompt": "A powerful, culturally authentic image of [Subject] wearing traditional African garments with rich patterns and textures, ensuring a fully clothed and respectful presentation. The subject is positioned in a natural outdoor setting with earthy tones and tribal elements. Accessories such as beads or handcrafted jewelry enhance authenticity. Lighting is warm and directional, emphasizing skin tones and textures. Captured in documentary-style photography with shallow depth of field. Shot on a full-frame camera with a 50mm lens at f/1.8. Ultra-high resolution, sharp focus. No nudity, no distortion, no artifacts, no text. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Culture & Traditions",
+      "tags": ["african", "tribal", "cultural", "traditional", "heritage"]
+    },
+    {
+      "id": "7",
+      "title": "Chinese Traditional Wear",
+      "prompt": "An elegant, culturally rich image of [Subject] wearing traditional Chinese attire such as a hanfu or qipao, fully clothed and modest. The setting includes classical Chinese architecture with wooden structures, lanterns, and garden elements. Soft ambient lighting enhances the calm and refined atmosphere. Captured in cinematic style with shallow depth of field and detailed textures. Shot on a full-frame camera with an 85mm lens at f/1.8. Ultra-high resolution, balanced color grading. No nudity, no distortion, no blur, no text. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Culture & Traditions",
+      "tags": ["chinese", "traditional clothing", "hanfu", "cultural", "elegant"]
+    },
+    {
+      "id": "8",
+      "title": "Scottish Highland Dress",
+      "prompt": "A bold, culturally grounded image of [Subject] wearing traditional Scottish Highland attire including a kilt and formal jacket, fully clothed and authentic. The setting is a scenic highland landscape with rolling hills and misty skies. The atmosphere is dramatic and natural, with soft diffused lighting enhancing textures. Captured in cinematic photography style with shallow depth of field. Shot on a full-frame camera with a 70mm lens at f/2.0. Ultra-high resolution, sharp detail. No nudity, no distortion, no artifacts, no text. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Culture & Traditions",
+      "tags": ["scottish", "kilt", "highland", "traditional", "heritage"]
+    },
+    {
+      "id": "9",
+      "title": "Mexican Cultural Style",
+      "prompt": "A lively, culturally vibrant image of [Subject] wearing traditional Mexican attire with colorful fabrics and embroidery, ensuring a modest and fully clothed appearance. The setting includes festive decorations, papel picado banners, and warm lighting. The subject expresses natural joy and cultural pride. Captured in cinematic style with rich colors and shallow depth of field. Shot on a full-frame camera with a 50mm lens at f/1.8. Ultra-detailed textures, high resolution. No nudity, no distortion, no blur, no text. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Culture & Traditions",
+      "tags": ["mexican", "cultural", "colorful", "traditional", "festival"]
+    },
+    {
+      "id": "10",
+      "title": "Korean Hanbok Style",
+      "prompt": "A graceful, culturally authentic image of [Subject] wearing a traditional Korean hanbok, fully clothed and modest. The setting features a traditional Korean courtyard with wooden architecture and natural elements. Soft lighting enhances the pastel tones and fabric flow. Captured in a refined cinematic photography style with shallow depth of field. Shot on a full-frame camera with an 85mm lens at f/1.8. Ultra-high resolution, clean details. No nudity, no distortion, no artifacts, no text. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Culture & Traditions",
+      "tags": ["korean", "hanbok", "traditional", "cultural", "elegant"]
+    },
+    {
+      "id": "11",
+      "title": "Turkish Ottoman Style",
+      "prompt": "A rich, culturally inspired image of [Subject] wearing Ottoman-era inspired traditional clothing, fully clothed and modest. The setting includes ornate interiors with patterned tiles, arches, and warm ambient lighting. The atmosphere is historical and elegant, emphasizing detail and texture. Captured in cinematic style with shallow depth of field. Shot on a full-frame camera with a 85mm lens at f/1.8. Ultra-high resolution, sharp textures. No nudity, no distortion, no blur, no text. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Culture & Traditions",
+      "tags": ["turkish", "ottoman", "historical", "traditional", "cultural"]
+    },
+    {
+      "id": "12",
+      "title": "Brazilian Carnival Style",
+      "prompt": "A dynamic, culturally expressive image of [Subject] wearing vibrant Brazilian carnival-inspired attire that remains tasteful and fully clothed. The setting is energetic with colorful lights and festive atmosphere. Motion and expression convey celebration and rhythm. Captured in cinematic style with vivid colors and shallow depth of field. Shot on a full-frame camera with a 50mm lens at f/1.8. Ultra-high resolution, sharp details. No nudity, no distortion, no artifacts, no text. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Culture & Traditions",
+      "tags": ["brazilian", "carnival", "festival", "colorful", "cultural"]
     }
   ]
 }
