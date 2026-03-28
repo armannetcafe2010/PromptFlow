@@ -97,6 +97,22 @@
       "imageUrl": "",
       "category": "Culture & Traditions",
       "tags": ["brazilian", "carnival", "festival", "colorful", "cultural"]
+    },
+    {
+      "id": "13",
+      "title": "Cultural Standing Pose",
+      "prompt": "A culturally authentic, hyper-realistic image of [Subject] with natural skin tones and refined features, dressed in traditional attire relevant to their heritage, ensuring a fully clothed and modest appearance. The subject is standing upright with a confident yet relaxed posture, shoulders back and gaze slightly off-camera, conveying calm confidence. Hands are naturally positioned, either gently clasped or resting by the sides. The setting reflects a culturally appropriate environment with architectural or natural elements that enhance authenticity. Lighting is soft and directional, creating depth and subtle shadows that highlight fabric textures and facial features. Captured in a cinematic photography style with a shallow depth of field, keeping the subject sharp while softly blurring the background. Shot on a full-frame camera with an 85mm lens at f/1.8. Ultra-high resolution, sharp focus, professional color grading. No nudity, no distortion, no artifacts, no text. 9:16 aspect ratio.",
+      "imageUrl": "https://i.ibb.co/GQ6rG4q9/13.png",
+      "category": "Culture & Traditions",
+      "tags": ["standing", "pose", "cultural", "traditional", "full-body"]
+    },
+    {
+      "id": "14",
+      "title": "Cultural Seated Moment",
+      "prompt": "A culturally rich, realistic image of [Subject] with natural skin tones and expressive features, wearing traditional attire appropriate to their culture, fully clothed and modest. The subject is seated in a relaxed and natural position, either cross-legged or on a chair, engaged in a subtle cultural activity such as holding an object or resting hands gracefully. The posture conveys calmness and authenticity. The environment includes culturally relevant details such as textiles, furniture, or architectural elements that enhance the setting. Lighting is soft and ambient, creating a warm and inviting mood with gentle shadows. Captured in a documentary-style photography approach with shallow depth of field. Shot on a full-frame camera with a 50mm lens at f/1.8. Ultra-high resolution, detailed textures, clean composition. No nudity, no distortion, no blur, no artifacts, no text. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Culture & Traditions",
+      "tags": ["sitting", "lifestyle", "cultural", "traditional", "calm"]
     }
   ]
 }
