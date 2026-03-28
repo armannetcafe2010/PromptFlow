@@ -113,6 +113,22 @@
       "imageUrl": "https://i.ibb.co/LDjBmbbT/14.png",
       "category": "Culture & Traditions",
       "tags": ["sitting", "lifestyle", "cultural", "traditional", "calm"]
+    },
+    {
+      "id": "15",
+      "title": "Moroccan Traditional Standing",
+      "prompt": "A culturally authentic, hyper-realistic image of [Subject] with natural skin tones and expressive features, dressed in traditional Moroccan attire such as a djellaba or kaftan, ensuring a fully clothed and modest appearance. The subject is standing upright in a relaxed yet confident posture, shoulders back, with a calm gaze directed slightly off-camera. Hands are naturally positioned, either gently clasped or resting by the sides. The setting is a traditional Moroccan riad courtyard featuring intricate tilework, carved arches, and a central fountain. Lighting is soft and warm, with natural sunlight filtering from above, casting gentle shadows that enhance textures and patterns. Captured in a cinematic photography style with shallow depth of field, keeping the subject sharp while softly blurring the background. Shot on a full-frame camera with an 85mm lens at f/1.8. Ultra-high resolution, sharp focus, professional color grading. No nudity, no distortion, no artifacts, no text. 9:16 aspect ratio.",
+      "imageUrl": "https://i.ibb.co/Y7Lmc3pt/15.png",
+      "category": "Culture & Traditions",
+      "tags": ["moroccan", "standing", "traditional", "cultural", "architecture"]
+    },
+    {
+      "id": "16",
+      "title": "Peruvian Cultural Sitting",
+      "prompt": "A culturally rich, realistic image of [Subject] with natural skin tones and defined features, wearing traditional Peruvian attire with colorful woven textiles and patterns, fully clothed and modest. The subject is seated in a relaxed and natural position on a low stool or woven blanket, with a calm and grounded posture. Hands may be resting on the knees or gently holding a traditional textile item. The setting is a scenic Andean environment with mountains in the background and earthy tones enhancing authenticity. Lighting is soft and natural, creating a warm and balanced atmosphere with subtle shadows. Captured in a documentary-style photography approach with shallow depth of field. Shot on a full-frame camera with a 50mm lens at f/1.8. Ultra-high resolution, detailed textures, clean composition. No nudity, no distortion, no blur, no artifacts, no text. 9:16 aspect ratio.",
+      "imageUrl": "https://i.ibb.co/NgJ6NHPW/16.png",
+      "category": "Culture & Traditions",
+      "tags": ["peruvian", "sitting", "andean", "traditional", "textiles"]
     }
   ]
 }
