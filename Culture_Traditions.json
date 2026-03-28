@@ -129,6 +129,38 @@
       "imageUrl": "https://i.ibb.co/NgJ6NHPW/16.png",
       "category": "Culture & Traditions",
       "tags": ["peruvian", "sitting", "andean", "traditional", "textiles"]
+    },
+     {
+      "id": "17",
+      "title": "Japanese Male Ceremony",
+      "prompt": "A culturally authentic, hyper-realistic image of a Japanese male [Subject] with natural skin tones, dark eyes, and neatly styled hair. He is dressed in a traditional kimono with subtle patterns, fully clothed and modest. The subject is standing upright with a calm and composed posture, hands gently positioned in front. The setting is a traditional Japanese tea room with tatami mats, shoji screens, and minimal decor. Soft natural light filters through the screens, creating a peaceful and balanced atmosphere. Captured in cinematic photography style with shallow depth of field. Shot on a full-frame camera with an 85mm lens at f/1.8. Ultra-high resolution, sharp focus, natural color grading. No nudity, no distortion, no artifacts, no text. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Culture & Traditions",
+      "tags": ["japanese", "male", "standing", "kimono", "cultural"]
+    },
+    {
+      "id": "18",
+      "title": "Indian Female Festival",
+      "prompt": "A vibrant, culturally rich image of an Indian female [Subject] with natural skin tones and expressive features. She is wearing a traditional saree with intricate embroidery, fully clothed and modest. The subject is standing gracefully with a relaxed posture, one hand lightly holding part of the saree. The setting reflects a festive environment with warm lights, marigold decorations, and colorful fabrics. Lighting is warm and glowing, enhancing colors and textures. Captured in cinematic style with shallow depth of field. Shot on a full-frame camera with an 85mm lens at f/1.8. Ultra-high resolution, detailed textures, professional color grading. No nudity, no distortion, no blur, no artifacts, no text. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Culture & Traditions",
+      "tags": ["indian", "female", "festival", "saree", "cultural"]
+    },
+    {
+      "id": "19",
+      "title": "Scottish Male Highland",
+      "prompt": "A bold, culturally grounded image of a Scottish male [Subject] with natural skin tones and defined features. He is dressed in traditional Highland attire including a kilt and formal jacket, fully clothed and authentic. The subject stands confidently with a strong posture, hands relaxed at the sides. The setting is a scenic Scottish highland landscape with rolling hills and misty skies. Lighting is soft and diffused, creating a dramatic natural atmosphere. Captured in cinematic photography style with shallow depth of field. Shot on a full-frame camera with a 70mm lens at f/2.0. Ultra-high resolution, sharp detail, realistic tones. No nudity, no distortion, no artifacts, no text. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Culture & Traditions",
+      "tags": ["scottish", "male", "standing", "kilt", "heritage"]
+    },
+    {
+      "id": "20",
+      "title": "Korean Female Hanbok",
+      "prompt": "A graceful, culturally authentic image of a Korean female [Subject] with soft facial features and natural skin tones. She is wearing a traditional hanbok, fully clothed and modest. The subject is seated elegantly with a straight yet relaxed posture, hands resting gently on her lap. The setting is a traditional Korean courtyard with wooden architecture and natural elements. Lighting is soft and balanced, enhancing the pastel colors and fabric flow. Captured in a refined cinematic photography style with shallow depth of field. Shot on a full-frame camera with an 85mm lens at f/1.8. Ultra-high resolution, clean details, natural color grading. No nudity, no distortion, no blur, no artifacts, no text. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Culture & Traditions",
+      "tags": ["korean", "female", "sitting", "hanbok", "cultural"]
     }
   ]
 }
