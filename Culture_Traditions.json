@@ -60,14 +60,6 @@
     },
     {
       "id": "8",
-      "title": "Scottish Highland Dress",
-      "prompt": "A bold, culturally grounded image of [Subject] wearing traditional Scottish Highland attire including a kilt and formal jacket, fully clothed and authentic. The setting is a scenic highland landscape with rolling hills and misty skies. The atmosphere is dramatic and natural, with soft diffused lighting enhancing textures. Captured in cinematic photography style with shallow depth of field. Shot on a full-frame camera with a 70mm lens at f/2.0. Ultra-high resolution, sharp detail. No nudity, no distortion, no artifacts, no text. 9:16 aspect ratio.",
-      "imageUrl": "",
-      "category": "Culture & Traditions",
-      "tags": ["scottish", "kilt", "highland", "traditional", "heritage"]
-    },
-    {
-      "id": "9",
       "title": "Mexican Cultural Style",
       "prompt": "A lively, culturally vibrant image of [Subject] wearing traditional Mexican attire with colorful fabrics and embroidery, ensuring a modest and fully clothed appearance. The setting includes festive decorations, papel picado banners, and warm lighting. The subject expresses natural joy and cultural pride. Captured in cinematic style with rich colors and shallow depth of field. Shot on a full-frame camera with a 50mm lens at f/1.8. Ultra-detailed textures, high resolution. No nudity, no distortion, no blur, no text. 9:16 aspect ratio.",
       "imageUrl": "",
@@ -75,7 +67,7 @@
       "tags": ["mexican", "cultural", "colorful", "traditional", "festival"]
     },
     {
-      "id": "10",
+      "id": "9",
       "title": "Korean Hanbok Style",
       "prompt": "A graceful, culturally authentic image of [Subject] wearing a traditional Korean hanbok, fully clothed and modest. The setting features a traditional Korean courtyard with wooden architecture and natural elements. Soft lighting enhances the pastel tones and fabric flow. Captured in a refined cinematic photography style with shallow depth of field. Shot on a full-frame camera with an 85mm lens at f/1.8. Ultra-high resolution, clean details. No nudity, no distortion, no artifacts, no text. 9:16 aspect ratio.",
       "imageUrl": "",
@@ -83,7 +75,7 @@
       "tags": ["korean", "hanbok", "traditional", "cultural", "elegant"]
     },
     {
-      "id": "11",
+      "id": "10",
       "title": "Turkish Ottoman Style",
       "prompt": "A rich, culturally inspired image of [Subject] wearing Ottoman-era inspired traditional clothing, fully clothed and modest. The setting includes ornate interiors with patterned tiles, arches, and warm ambient lighting. The atmosphere is historical and elegant, emphasizing detail and texture. Captured in cinematic style with shallow depth of field. Shot on a full-frame camera with a 85mm lens at f/1.8. Ultra-high resolution, sharp textures. No nudity, no distortion, no blur, no text. 9:16 aspect ratio.",
       "imageUrl": "",
@@ -91,7 +83,7 @@
       "tags": ["turkish", "ottoman", "historical", "traditional", "cultural"]
     },
     {
-      "id": "12",
+      "id": "11",
       "title": "Brazilian Carnival Style",
       "prompt": "A dynamic, culturally expressive image of [Subject] wearing vibrant Brazilian carnival-inspired attire that remains tasteful and fully clothed. The setting is energetic with colorful lights and festive atmosphere. Motion and expression convey celebration and rhythm. Captured in cinematic style with vivid colors and shallow depth of field. Shot on a full-frame camera with a 50mm lens at f/1.8. Ultra-high resolution, sharp details. No nudity, no distortion, no artifacts, no text. 9:16 aspect ratio.",
       "imageUrl": "",
@@ -99,7 +91,7 @@
       "tags": ["brazilian", "carnival", "festival", "colorful", "cultural"]
     },
     {
-      "id": "13",
+      "id": "12",
       "title": "Cultural Standing Pose",
       "prompt": "A culturally authentic, hyper-realistic image of [Subject] with natural skin tones and refined features, dressed in traditional attire relevant to their heritage, ensuring a fully clothed and modest appearance. The subject is standing upright with a confident yet relaxed posture, shoulders back and gaze slightly off-camera, conveying calm confidence. Hands are naturally positioned, either gently clasped or resting by the sides. The setting reflects a culturally appropriate environment with architectural or natural elements that enhance authenticity. Lighting is soft and directional, creating depth and subtle shadows that highlight fabric textures and facial features. Captured in a cinematic photography style with a shallow depth of field, keeping the subject sharp while softly blurring the background. Shot on a full-frame camera with an 85mm lens at f/1.8. Ultra-high resolution, sharp focus, professional color grading. No nudity, no distortion, no artifacts, no text. 9:16 aspect ratio.",
       "imageUrl": "https://i.ibb.co/pBNB81gt/13.webp",
@@ -107,7 +99,7 @@
       "tags": ["standing", "pose", "cultural", "traditional", "full-body"]
     },
     {
-      "id": "14",
+      "id": "13",
       "title": "Cultural Seated Moment",
       "prompt": "A culturally rich, realistic image of [Subject] with natural skin tones and expressive features, wearing traditional attire appropriate to their culture, fully clothed and modest. The subject is seated in a relaxed and natural position, either cross-legged or on a chair, engaged in a subtle cultural activity such as holding an object or resting hands gracefully. The posture conveys calmness and authenticity. The environment includes culturally relevant details such as textiles, furniture, or architectural elements that enhance the setting. Lighting is soft and ambient, creating a warm and inviting mood with gentle shadows. Captured in a documentary-style photography approach with shallow depth of field. Shot on a full-frame camera with a 50mm lens at f/1.8. Ultra-high resolution, detailed textures, clean composition. No nudity, no distortion, no blur, no artifacts, no text. 9:16 aspect ratio.",
       "imageUrl": "https://i.ibb.co/KjGbzhgm/14.webp",
@@ -115,7 +107,7 @@
       "tags": ["sitting", "lifestyle", "cultural", "traditional", "calm"]
     },
     {
-      "id": "15",
+      "id": "14",
       "title": "Moroccan Traditional Standing",
       "prompt": "A culturally authentic, hyper-realistic image of [Subject] with natural skin tones and expressive features, dressed in traditional Moroccan attire such as a djellaba or kaftan, ensuring a fully clothed and modest appearance. The subject is standing upright in a relaxed yet confident posture, shoulders back, with a calm gaze directed slightly off-camera. Hands are naturally positioned, either gently clasped or resting by the sides. The setting is a traditional Moroccan riad courtyard featuring intricate tilework, carved arches, and a central fountain. Lighting is soft and warm, with natural sunlight filtering from above, casting gentle shadows that enhance textures and patterns. Captured in a cinematic photography style with shallow depth of field, keeping the subject sharp while softly blurring the background. Shot on a full-frame camera with an 85mm lens at f/1.8. Ultra-high resolution, sharp focus, professional color grading. No nudity, no distortion, no artifacts, no text. 9:16 aspect ratio.",
       "imageUrl": "https://i.ibb.co/BH4Dj2YJ/15.webp",
@@ -123,7 +115,7 @@
       "tags": ["moroccan", "standing", "traditional", "cultural", "architecture"]
     },
     {
-      "id": "16",
+      "id": "15",
       "title": "Peruvian Cultural Sitting",
       "prompt": "A culturally rich, realistic image of [Subject] with natural skin tones and defined features, wearing traditional Peruvian attire with colorful woven textiles and patterns, fully clothed and modest. The subject is seated in a relaxed and natural position on a low stool or woven blanket, with a calm and grounded posture. Hands may be resting on the knees or gently holding a traditional textile item. The setting is a scenic Andean environment with mountains in the background and earthy tones enhancing authenticity. Lighting is soft and natural, creating a warm and balanced atmosphere with subtle shadows. Captured in a documentary-style photography approach with shallow depth of field. Shot on a full-frame camera with a 50mm lens at f/1.8. Ultra-high resolution, detailed textures, clean composition. No nudity, no distortion, no blur, no artifacts, no text. 9:16 aspect ratio.",
       "imageUrl": "https://i.ibb.co/BVZqgKwK/16.webp",
@@ -131,7 +123,7 @@
       "tags": ["peruvian", "sitting", "andean", "traditional", "textiles"]
     },
      {
-      "id": "17",
+      "id": "16",
       "title": "Japanese Male Ceremony",
       "prompt": "A culturally authentic, hyper-realistic image of a Japanese male [Subject] with natural skin tones, dark eyes, and neatly styled hair. He is dressed in a traditional kimono with subtle patterns, fully clothed and modest. The subject is standing upright with a calm and composed posture, hands gently positioned in front. The setting is a traditional Japanese tea room with tatami mats, shoji screens, and minimal decor. Soft natural light filters through the screens, creating a peaceful and balanced atmosphere. Captured in cinematic photography style with shallow depth of field. Shot on a full-frame camera with an 85mm lens at f/1.8. Ultra-high resolution, sharp focus, natural color grading. No nudity, no distortion, no artifacts, no text. 9:16 aspect ratio.",
       "imageUrl": "https://i.ibb.co/YBrmDtnt/17.webp",
@@ -139,7 +131,7 @@
       "tags": ["japanese", "male", "standing", "kimono", "cultural"]
     },
     {
-      "id": "18",
+      "id": "17",
       "title": "Indian Female Festival",
       "prompt": "A vibrant, culturally rich image of an Indian female [Subject] with natural skin tones and expressive features. She is wearing a traditional saree with intricate embroidery, fully clothed and modest. The subject is standing gracefully with a relaxed posture, one hand lightly holding part of the saree. The setting reflects a festive environment with warm lights, marigold decorations, and colorful fabrics. Lighting is warm and glowing, enhancing colors and textures. Captured in cinematic style with shallow depth of field. Shot on a full-frame camera with an 85mm lens at f/1.8. Ultra-high resolution, detailed textures, professional color grading. No nudity, no distortion, no blur, no artifacts, no text. 9:16 aspect ratio.",
       "imageUrl": "",
@@ -147,7 +139,7 @@
       "tags": ["indian", "female", "festival", "saree", "cultural"]
     },
     {
-      "id": "19",
+      "id": "18",
       "title": "Korean Female Hanbok",
       "prompt": "A graceful, culturally authentic image of a Korean female [Subject] with soft facial features and natural skin tones. She is wearing a traditional hanbok, fully clothed and modest. The subject is seated elegantly with a straight yet relaxed posture, hands resting gently on her lap. The setting is a traditional Korean courtyard with wooden architecture and natural elements. Lighting is soft and balanced, enhancing the pastel colors and fabric flow. Captured in a refined cinematic photography style with shallow depth of field. Shot on a full-frame camera with an 85mm lens at f/1.8. Ultra-high resolution, clean details, natural color grading. No nudity, no distortion, no blur, no artifacts, no text. 9:16 aspect ratio.",
       "imageUrl": "",
