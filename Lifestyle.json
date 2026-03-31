@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "Lifestyle",
   "prompts": [
     {
@@ -38,7 +38,7 @@
       "id": "5",
       "title": "Energetic Jogger in City Park",
       "prompt": "A dynamic portrait of [Subject] jogging through a lush green city park, wearing athletic wear. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Motion blur in the background enhances movement, while sunlight filters through trees. Captured in a vibrant, energetic lifestyle style. Shot with a 70mm lens at f/2. 9:16 aspect ratio.",
-      "imageUrl": "",
+      "imageUrl": "https://i.ibb.co/HDXjFCsf/5.webp",
       "category": "Lifestyle",
       "tags": ["fitness", "running", "park", "active", "energy"]
     },
