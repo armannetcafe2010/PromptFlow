@@ -161,6 +161,85 @@
       "imageUrl": "https://i.ibb.co/tpSJzwGf/20.webp",
       "category": "Lifestyle",
       "tags": ["friends", "social", "outdoor", "happy", "lifestyle"]
-    }
-  ]
-}
+    },
+    { 
+      "id": "21",
+      "title": "Architect at Design Table",
+      "prompt": "A precise and professional portrait of [Subject] working at a large design table filled with blueprints, sketches, and architectural tools. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Overhead studio lighting highlights technical drawings and creates subtle shadows. The atmosphere is focused, analytical, and creative. Captured in a realistic lifestyle photography style. Shot with a 50mm lens at f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Lifestyle",
+      "tags": ["architecture", "design", "studio", "planning", "professional"]
+    },
+  {
+    "id": "22",
+    "title": "Skateboarder Mid Trick",
+    "prompt": "A dynamic action portrait of [Subject] performing a skateboard trick in an urban skate park. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Motion freeze captures energy, with graffiti walls and ramps in the background. Bright daylight enhances movement and sharp detail. Captured in a realistic lifestyle photography style with a bold and energetic mood. Shot with a 70mm lens at f/2. 9:16 aspect ratio.",
+    "imageUrl": "",
+    "category": "Lifestyle",
+    "tags": ["skateboard", "action", "urban", "motion", "sport"]
+  },
+  {
+    "id": "23",
+    "title": "Underwater Swimmer Portrait",
+    "prompt": "A surreal and serene portrait of [Subject] swimming underwater in a clear pool, surrounded by soft light rays and bubbles. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Light refraction creates dreamy distortions and reflections. The mood is calm and fluid. Captured in a realistic lifestyle photography style. Shot with an 85mm lens. 9:16 aspect ratio.",
+    "imageUrl": "",
+    "category": "Lifestyle",
+    "tags": ["underwater", "swimming", "dreamy", "water", "motion"]
+  },
+  {
+    "id": "24",
+    "title": "Hot Air Balloon Viewpoint",
+    "prompt": "A breathtaking portrait of [Subject] standing in a hot air balloon basket overlooking a vast landscape during sunrise. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Warm golden light fills the sky, with clouds and horizon stretching into the distance. The mood is adventurous and awe-inspiring. Shot with a 35mm lens at f/2. 9:16 aspect ratio.",
+    "imageUrl": "",
+    "category": "Lifestyle",
+    "tags": ["balloon", "adventure", "sky", "sunrise", "travel"]
+  },
+  {
+    "id": "25",
+    "title": "DJ Performing in Club",
+    "prompt": "A high-energy portrait of [Subject] performing as a DJ in a dimly lit nightclub with colorful stage lights and smoke effects. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Bright neon beams and crowd silhouettes create a dynamic scene. The mood is intense and rhythmic. Shot with a 50mm lens at f/1.4. 9:16 aspect ratio.",
+    "imageUrl": "",
+    "category": "Lifestyle",
+    "tags": ["dj", "music", "nightlife", "club", "energy"]
+  },
+  {
+    "id": "26",
+    "title": "Fisherman at Early Dawn",
+    "prompt": "A calm and atmospheric portrait of [Subject] standing on a wooden dock early in the morning, holding a fishing rod over still water. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Mist rises over the water with soft dawn light in the background. The mood is quiet and reflective. Shot with a 50mm lens at f/1.8. 9:16 aspect ratio.",
+    "imageUrl": "",
+    "category": "Lifestyle",
+    "tags": ["fishing", "dawn", "nature", "calm", "outdoor"]
+  },
+  {
+    "id": "27",
+    "title": "Florist Arranging Bouquets",
+    "prompt": "A colorful portrait of [Subject] arranging fresh flowers in a bright flower shop filled with vibrant bouquets. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Natural light enhances the rich colors and textures of flowers. The atmosphere is warm and artistic. Shot with a 50mm lens at f/1.6. 9:16 aspect ratio.",
+    "imageUrl": "",
+    "category": "Lifestyle",
+    "tags": ["flowers", "florist", "colorful", "creative", "shop"]
+  },
+  {
+    "id": "28",
+    "title": "Mountaineer on Snow Peak",
+    "prompt": "A powerful portrait of [Subject] standing on a snowy mountain peak, wearing winter gear and facing the horizon. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Bright sunlight reflects off the snow, creating high contrast and dramatic depth. The mood is adventurous and triumphant. Shot with a 35mm lens at f/2. 9:16 aspect ratio.",
+    "imageUrl": "",
+    "category": "Lifestyle",
+    "tags": ["mountain", "snow", "adventure", "nature", "expedition"]
+  },
+  {
+    "id": "29",
+    "title": "Book Cafe Window Light Scene",
+    "prompt": "A cozy portrait of [Subject] sitting at a small table in a book cafe, reading under soft window light. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Shelves of books and warm decor fill the background. The mood is quiet and inviting. Shot with a 50mm lens at f/1.6. 9:16 aspect ratio.",
+    "imageUrl": "",
+    "category": "Lifestyle",
+    "tags": ["cafe", "books", "reading", "cozy", "window"]
+  },
+  {
+    "id": "30",
+    "title": "Firefighter in Action Scene",
+    "prompt": "A dramatic portrait of [Subject] wearing firefighting gear, standing in a controlled action scene with hoses and equipment. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Strong lighting and subtle smoke effects create a heroic and intense atmosphere. Shot with a 50mm lens at f/1.8. 9:16 aspect ratio.",
+    "imageUrl": "",
+    "category": "Lifestyle",
+    "tags": ["firefighter", "action", "heroic", "emergency", "dramatic"]
+  }
+]
