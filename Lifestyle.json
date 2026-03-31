@@ -17,6 +17,150 @@
       "imageUrl": "https://images.iimg.live/images/awesome-image-6138.webp",
       "category": "Lifestyle",
       "tags": ["portrait", "market", "urban", "lifestyle", "vibrant"]
+    },
+    {
+      "id": "3",
+      "title": "Confident Professional on City Street",
+      "prompt": "A sharp, modern portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are standing confidently on a busy urban street, wearing a tailored outfit, with skyscrapers and moving traffic softly blurred in the background. Natural daylight with subtle reflections from glass buildings. Captured in a realistic lifestyle photography style with a confident, ambitious mood. Shot on a full-frame camera with an 85mm lens at f/1.8, shallow depth of field. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Lifestyle",
+      "tags": ["portrait", "urban", "professional", "city", "confident"]
+    },
+    {
+      "id": "4",
+      "title": "Relaxed Morning Coffee at Balcony",
+      "prompt": "A peaceful lifestyle portrait of [Subject] enjoying a cup of coffee while standing on a sunlit balcony. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Soft morning light illuminates the scene, with a city skyline in the background. Cozy, relaxed mood with natural tones. Shot on a full-frame camera with a 50mm lens at f/1.6. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Lifestyle",
+      "tags": ["morning", "coffee", "balcony", "relaxed", "lifestyle"]
+    },
+    {
+      "id": "5",
+      "title": "Energetic Jogger in City Park",
+      "prompt": "A dynamic portrait of [Subject] jogging through a lush green city park, wearing athletic wear. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Motion blur in the background enhances movement, while sunlight filters through trees. Captured in a vibrant, energetic lifestyle style. Shot with a 70mm lens at f/2. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Lifestyle",
+      "tags": ["fitness", "running", "park", "active", "energy"]
+    },
+    {
+      "id": "6",
+      "title": "Creative Artist in Studio",
+      "prompt": "A detailed portrait of [Subject] painting on a canvas in a bright art studio filled with brushes, paints, and abstract works. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Natural window light mixed with warm indoor tones creates depth. Artistic, expressive mood. Shot on a 50mm lens at f/1.4. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Lifestyle",
+      "tags": ["artist", "studio", "creative", "painting", "art"]
+    },
+    {
+      "id": "7",
+      "title": "Traveler at Scenic Mountain View",
+      "prompt": "A cinematic portrait of [Subject] standing at the edge of a scenic mountain viewpoint, wearing casual travel attire. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Vast mountains stretch into the distance under golden hour lighting. Adventurous, inspiring mood. Shot with a 35mm lens at f/2. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Lifestyle",
+      "tags": ["travel", "mountains", "adventure", "nature", "explore"]
+    },
+    {
+      "id": "8",
+      "title": "Focused Remote Worker at Desk",
+      "prompt": "A modern lifestyle portrait of [Subject] working on a laptop at a minimalist desk setup with plants and soft lighting. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Warm desk lamp contrasts with cool ambient light. Focused and productive mood. Shot with a 50mm lens at f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Lifestyle",
+      "tags": ["work", "remote", "desk", "focus", "productivity"]
+    },
+    {
+      "id": "9",
+      "title": "Street Food Enthusiast at Night Market",
+      "prompt": "A lively portrait of [Subject] enjoying street food at a colorful night market filled with neon lights and food stalls. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Vibrant lighting creates dynamic shadows and highlights. Fun, energetic mood. Shot with a 50mm lens at f/1.4. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Lifestyle",
+      "tags": ["food", "night", "market", "street", "vibrant"]
+    },
+    {
+      "id": "10",
+      "title": "Calm Reader by Lakeside",
+      "prompt": "A tranquil portrait of [Subject] sitting near a calm lake reading a book, surrounded by nature. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Soft natural light reflects on water. Peaceful, reflective mood. Shot with a 85mm lens at f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Lifestyle",
+      "tags": ["nature", "reading", "lake", "calm", "peaceful"]
+    },
+    {
+      "id": "11",
+      "title": "Stylish Individual in Fashion District",
+      "prompt": "A trendy portrait of [Subject] walking confidently through a fashionable district, wearing stylish modern clothing. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Urban textures and boutique storefronts fill the background. Stylish, editorial mood. Shot with a 50mm lens at f/1.6. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Lifestyle",
+      "tags": ["fashion", "style", "urban", "trend", "editorial"]
+    },
+    {
+      "id": "12",
+      "title": "Cyclist on Scenic Road",
+      "prompt": "A vibrant action portrait of [Subject] riding a bicycle on a scenic countryside road. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Motion blur and sunlight create a dynamic feel. Energetic outdoor mood. Shot with a 70mm lens at f/2. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Lifestyle",
+      "tags": ["cycling", "outdoor", "road", "motion", "energy"]
+    },
+    {
+      "id": "13",
+      "title": "Evening Walk Under City Lights",
+      "prompt": "A cinematic portrait of [Subject] walking through a city street illuminated by warm streetlights at dusk. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Reflections on wet pavement enhance mood. Calm, introspective vibe. Shot with a 50mm lens at f/1.4. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Lifestyle",
+      "tags": ["evening", "city", "lights", "cinematic", "moody"]
+    },
+    {
+      "id": "14",
+      "title": "Barista Crafting Coffee",
+      "prompt": "A warm portrait of [Subject] preparing coffee behind a cozy café counter, surrounded by espresso machines and cups. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Soft indoor lighting creates a welcoming atmosphere. Shot with a 50mm lens at f/1.6. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Lifestyle",
+      "tags": ["coffee", "barista", "cafe", "warm", "service"]
+    },
+    {
+      "id": "15",
+      "title": "Sunset Beach Relaxation",
+      "prompt": "A serene portrait of [Subject] standing by the ocean during sunset, waves gently crashing nearby. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Golden hour lighting creates soft highlights. Relaxed, dreamy mood. Shot with a 85mm lens at f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Lifestyle",
+      "tags": ["beach", "sunset", "relax", "ocean", "goldenhour"]
+    },
+    {
+      "id": "16",
+      "title": "Tech Enthusiast Gaming Setup",
+      "prompt": "A modern portrait of [Subject] immersed in a gaming setup with RGB lighting and multiple screens. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Neon lights create a futuristic glow. Focused, immersive mood. Shot with a 35mm lens at f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Lifestyle",
+      "tags": ["gaming", "tech", "rgb", "modern", "setup"]
+    },
+    {
+      "id": "17",
+      "title": "Gardener in Backyard Oasis",
+      "prompt": "A natural portrait of [Subject] tending to plants in a lush backyard garden filled with greenery and flowers. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Soft daylight enhances textures. Calm, nurturing mood. Shot with a 50mm lens at f/1.8. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Lifestyle",
+      "tags": ["garden", "plants", "nature", "green", "calm"]
+    },
+    {
+      "id": "18",
+      "title": "Musician Playing Guitar Indoors",
+      "prompt": "A soulful portrait of [Subject] playing an acoustic guitar in a softly lit room. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Warm lighting highlights mood and expression. Artistic, emotional vibe. Shot with a 50mm lens at f/1.4. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Lifestyle",
+      "tags": ["music", "guitar", "indoor", "artistic", "emotion"]
+    },
+    {
+      "id": "19",
+      "title": "Library Researcher Among Books",
+      "prompt": "A focused portrait of [Subject] standing in a large academic library, scanning book titles on tall shelves. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Soft diffused lighting creates a scholarly atmosphere. Shot with a 50mm lens at f/1.6. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Lifestyle",
+      "tags": ["library", "study", "books", "research", "focus"]
+    },
+    {
+      "id": "20",
+      "title": "Casual Friends Meetup Outdoors",
+      "prompt": "A candid lifestyle portrait of [Subject] laughing and interacting in an outdoor social setting like a park meetup. They have a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. Bright natural light enhances the cheerful mood. Shot with a 35mm lens at f/2. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Lifestyle",
+      "tags": ["friends", "social", "outdoor", "happy", "lifestyle"]
     }
   ]
 }
