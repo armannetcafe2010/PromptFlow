@@ -61,7 +61,7 @@
     {
       "id": "8",
       "title": "Film Director on Cinematic Set",
-      "prompt": "A cinematic art-inspired portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are standing on a film set, holding a clapperboard and directing a scene. The background includes soft blurred film lights, cameras, and crew equipment. Dramatic cinematic lighting with strong highlights and shadows. Shot with a 35mm lens at f/1.8, capturing depth and storytelling. Artistic, cinematic, highly detailed, 9:16 aspect ratio.",
+      "prompt": "A cinematic, art-directed portrait of [Subject], with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are, standing confidently on a professional film set holding a clapperboard while directing a scene, framed with strong composition and leading lines, surrounded by softly blurred film lights, cameras, and crew equipment to enhance depth, illuminated by dramatic cinematic lighting with a defined key light, subtle fill, and gentle rim light to sculpt features and separate the subject from the background, captured with a 35mm lens at f/1.8 to balance environmental context and subject focus, producing a shallow depth of field with smooth background bokeh, ultra-realistic with high detail, cinematic color grading, sharp focus on the eyes, and a polished film still aesthetic, 9:16 aspect ratio.",
       "imageUrl": "",
       "category": "Art & Illustration",
       "tags": ["film", "director", "cinematic", "35mm", "creative"]
