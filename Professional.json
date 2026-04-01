@@ -61,7 +61,7 @@
     {
       "id": "8",
       "title": "Tech Entrepreneur in Startup Workspace",
-      "prompt": "A modern startup portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are standing casually in a creative workspace, wearing smart-casual attire (blazer and t-shirt), holding a smartphone while reviewing data on a wall-mounted screen. Background includes neon accents, collaborative desks, and blurred team activity. Mixed lighting with practical LEDs and natural light. Shot with a 35mm lens at f/1.6, creating a dynamic environmental portrait with shallow depth of field. Cinematic composition with leading lines and asymmetry. 9:16 aspect ratio.",
+      "prompt": "A modern startup portrait of [Subject], preserving their natural facial features, skin tone, eye color, and hairstyle. They are standing casually in a creative workspace, wearing smart-casual attire (blazer and t-shirt), holding a smartphone while reviewing data on a wall-mounted screen. The background includes neon accents, collaborative desks, and softly blurred team activity. Mixed lighting with practical LED sources and natural daylight enhances realistic skin tones and texture. Shot with a 35mm lens at f/1.6, creating a dynamic environmental portrait with shallow depth of field. Cinematic composition with leading lines and asymmetry. 9:16 aspect ratio.",
       "imageUrl": "",
       "category": "Professional",
       "tags": ["startup", "tech", "entrepreneur", "standing", "35mm", "modern"]
