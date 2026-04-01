@@ -89,6 +89,78 @@
       "imageUrl": "",
       "category": "Professional",
       "tags": ["photographer", "street", "creative", "standing", "50mm", "cinematic"]
+    },
+    {
+      "id": "12",
+      "title": "Engineering Manager in Industrial Control Room",
+      "prompt": "A professional portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are standing inside a high-tech industrial control room, surrounded by large monitors displaying system data and schematics. Wearing a clean, professional outfit with a technical jacket. Cool ambient lighting with blue tones reflects off metallic surfaces. Shot with a 24mm wide-angle lens at f/2.8, capturing both subject and environment with slight perspective depth. Eye-level framing, cinematic realism, sharp focus on subject. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Professional",
+      "tags": ["engineering", "control room", "standing", "wide-angle", "technical"]
+    },
+    {
+      "id": "13",
+      "title": "Data Scientist in Analytics Workspace",
+      "prompt": "A modern professional portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are seated at a clean desk with multiple monitors showing graphs, charts, and code. The environment is a modern analytics workspace with soft LED lighting. Shot with a 50mm lens at f/1.8, producing a natural perspective and soft background blur. Focus on hands and screen interaction, with sharp subject detail. Cinematic, realistic lighting, 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Professional",
+      "tags": ["data science", "analytics", "workspace", "50mm", "seated"]
+    },
+    {
+      "id": "14",
+      "title": "Airline Pilot in Cockpit",
+      "prompt": "A detailed professional portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are seated in the cockpit of a modern aircraft, wearing a pilot uniform with insignia. The cockpit is filled with illuminated controls and digital panels. Shot with a 35mm lens at f/2.0, balancing subject and cockpit environment. Cool-toned lighting with instrument glow reflecting on the subject. Cinematic composition, realistic, 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Professional",
+      "tags": ["pilot", "aviation", "cockpit", "35mm", "professional"]
+    },
+    {
+      "id": "15",
+      "title": "Marketing Director in Creative Studio",
+      "prompt": "A stylish professional portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are standing in a modern creative studio with digital screens showing marketing visuals and campaign designs. Wearing smart-casual professional attire. Soft studio lighting with colorful accents in the background. Shot with an 85mm lens at f/1.8 for strong subject focus and creamy background bokeh. Cinematic, sharp, 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Professional",
+      "tags": ["marketing", "creative", "studio", "85mm", "standing"]
+    },
+    {
+      "id": "16",
+      "title": "Research Physicist in Quantum Lab",
+      "prompt": "A highly detailed scientific portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are standing in a futuristic quantum physics laboratory, surrounded by glowing instruments and complex experimental setups. Cool neon lighting with blue and purple hues creates a high-tech atmosphere. Shot with a 50mm lens at f/2.2, medium depth of field. Cinematic realism with ultra-detailed textures. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Professional",
+      "tags": ["science", "quantum", "lab", "futuristic", "50mm"]
+    },
+    {
+      "id": "17",
+      "title": "Business Consultant in Corporate Meeting Room",
+      "prompt": "A professional business portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are standing beside a conference table in a modern meeting room, pointing at a presentation screen. The room has glass walls and soft daylight illumination. Shot with a 70mm lens at f/2.4, compressing the background for a clean professional look. Cinematic composition, sharp focus, 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Professional",
+      "tags": ["consultant", "business", "meeting", "70mm", "corporate"]
+    },
+    {
+      "id": "18",
+      "title": "Fashion Photographer on Set",
+      "prompt": "A high-end professional portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are standing on a fashion photoshoot set, holding a camera, surrounded by lighting equipment and backdrop stands. Dramatic studio lighting with high contrast and artistic shadows. Shot with a 85mm lens at f/1.6, emphasizing subject isolation and shallow depth of field. Editorial, cinematic, 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Professional",
+      "tags": ["fashion", "photography", "studio", "85mm", "editorial"]
+    },
+    {
+      "id": "19",
+      "title": "Civil Engineer on Bridge Construction Site",
+      "prompt": "A cinematic professional portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are standing on a large bridge construction site wearing a safety vest and helmet, reviewing plans. Background shows cranes, steel structures, and construction activity. Shot with a 24mm lens at f/3.2 for environmental depth and clarity. Natural daylight with slight overcast tone, realistic textures, 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Professional",
+      "tags": ["engineering", "construction", "bridge", "24mm", "standing"]
+    },
+    {
+      "id": "20",
+      "title": "AI Researcher in Advanced Tech Lab",
+      "prompt": "A futuristic professional portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are standing in an advanced AI lab with holographic displays and floating data visualizations. Sleek modern environment with glowing blue interfaces. Shot with a 35mm lens at f/1.8, blending subject with environment. Cinematic lighting with neon highlights, ultra-realistic detail, 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Professional",
+      "tags": ["AI", "technology", "lab", "futuristic", "35mm"]
     }
   ]
 }
