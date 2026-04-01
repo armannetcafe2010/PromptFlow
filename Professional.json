@@ -25,6 +25,70 @@
       "imageUrl": "https://images.iimg.live/images/cool-image-2334.webp",
       "category": "Professional",
       "tags": ["military", "Eiffel Tower", "Paris", "professional", "portrait", "uniform", "9:16 aspect ratio", "85mm lens", "golden hour", "photorealistic", "cinematic", "Annie Leibovitz", "full-body", "detailed", "authoritative", "determined"]
+    },
+    {
+      "id": "4",
+      "title": "Corporate Executive Standing in Glass Office",
+      "prompt": "A professional portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are standing confidently with arms crossed inside a high-rise glass office overlooking a modern city skyline. Wearing a tailored dark suit, crisp white shirt, and minimalist tie. Floor-to-ceiling windows cast natural daylight, creating reflections on polished surfaces. Realistic corporate photography style with cinematic sharpness. Shot with a 50mm lens at f/2.0, producing balanced perspective and subtle background blur. Eye-level framing, medium shot, strong vertical lines. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Professional",
+      "tags": ["corporate", "executive", "standing", "office", "50mm", "modern"]
+    },
+    {
+      "id": "5",
+      "title": "Scientist in Advanced Research Laboratory",
+      "prompt": "A detailed scientific portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are standing in a high-tech laboratory, wearing a lab coat and protective gloves, analyzing a glowing sample in a glass container. Background includes blurred microscopes, digital screens, and laboratory equipment. Cool-toned lighting with blue and white highlights creates a futuristic scientific atmosphere. Shot in a hyperrealistic style with a 35mm lens at f/1.8, allowing environmental storytelling with moderate depth of field. Sharp focus on subject and hands, soft blur in background. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Professional",
+      "tags": ["science", "laboratory", "standing", "research", "35mm", "futuristic"]
+    },
+    {
+      "id": "6",
+      "title": "Architect Reviewing Blueprints on Construction Site",
+      "prompt": "A cinematic professional scene of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are standing on an active construction site wearing a safety helmet and a tailored coat, holding large architectural blueprints. Background shows cranes, steel structures, and workers in motion, softly blurred. Warm sunlight creates natural highlights and shadows across the scene. Shot with a 35mm wide-angle lens at f/2.8 to capture both subject and environment with depth. Slight low-angle shot to emphasize authority and scale. Ultra-realistic textures and sharp details. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Professional",
+      "tags": ["architect", "construction", "standing", "wide-angle", "cinematic"]
+    },
+    {
+      "id": "7",
+      "title": "Medical Doctor in Hospital Corridor",
+      "prompt": "A clean and professional medical portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are standing in a bright hospital corridor wearing a white coat and stethoscope, holding a tablet. Background features softly blurred hospital rooms and clinical lighting. Neutral color tones with bright whites and soft blues. Shot with an 85mm lens at f/2.2 for strong subject isolation and creamy background bokeh. Eye-level framing, sharp focus on facial expression, conveying calm confidence and professionalism. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Professional",
+      "tags": ["doctor", "medical", "hospital", "portrait", "85mm", "clean"]
+    },
+    {
+      "id": "8",
+      "title": "Tech Entrepreneur in Startup Workspace",
+      "prompt": "A modern startup portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are standing casually in a creative workspace, wearing smart-casual attire (blazer and t-shirt), holding a smartphone while reviewing data on a wall-mounted screen. Background includes neon accents, collaborative desks, and blurred team activity. Mixed lighting with practical LEDs and natural light. Shot with a 35mm lens at f/1.6, creating a dynamic environmental portrait with shallow depth of field. Cinematic composition with leading lines and asymmetry. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Professional",
+      "tags": ["startup", "tech", "entrepreneur", "standing", "35mm", "modern"]
+    },
+    {
+      "id": "9",
+      "title": "Financial Analyst in Trading Floor",
+      "prompt": "A high-energy professional portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are standing in a busy trading floor environment, wearing a sharp suit, looking at multiple glowing financial screens. Background shows blurred traders and dynamic market data visuals. Cool, high-contrast lighting with screen reflections illuminating the face. Shot with a 70mm lens at f/2.5, compressing background elements while maintaining context. Cinematic realism with crisp details and subtle motion blur in background activity. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Professional",
+      "tags": ["finance", "trading", "analyst", "standing", "70mm", "dynamic"]
+    },
+    {
+      "id": "10",
+      "title": "Lawyer in Classic Library Office",
+      "prompt": "A refined professional portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are standing beside a wooden desk in a classic law office filled with bookshelves and legal volumes. Wearing a tailored suit, holding a document folder. Warm tungsten lighting creates a rich, intellectual atmosphere with deep shadows and highlights. Shot with a 135mm lens at f/2.0 for strong background compression and elegant subject isolation. Cinematic composition with symmetrical framing. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Professional",
+      "tags": ["lawyer", "library", "professional", "standing", "135mm", "classic"]
+    },
+    {
+      "id": "11",
+      "title": "Photographer in Urban Street Setting",
+      "prompt": "A stylish professional portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are standing in an urban street environment holding a professional camera, wearing a modern creative outfit. Background features blurred city lights and street textures. Golden hour lighting adds warmth and depth. Shot with a 50mm lens at f/1.4 for shallow depth of field and artistic bokeh. Slight candid pose, capturing motion and personality. Cinematic street photography style. 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Professional",
+      "tags": ["photographer", "street", "creative", "standing", "50mm", "cinematic"]
     }
   ]
 }
