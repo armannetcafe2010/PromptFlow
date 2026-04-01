@@ -126,7 +126,7 @@
       "id": "16",
       "title": "Research Physicist in Quantum Lab",
       "prompt": "A highly detailed scientific portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are standing in a futuristic quantum physics laboratory, surrounded by glowing instruments and complex experimental setups. Cool neon lighting with blue and purple hues creates a high-tech atmosphere. Shot with a 50mm lens at f/2.2, medium depth of field. Cinematic realism with ultra-detailed textures. 9:16 aspect ratio.",
-      "imageUrl": "",
+      "imageUrl": "https://i.ibb.co/sJcgp4Vv/16.webp",
       "category": "Professional",
       "tags": ["science", "quantum", "lab", "futuristic", "50mm"]
     },
@@ -134,7 +134,7 @@
       "id": "17",
       "title": "Business Consultant in Corporate Meeting Room",
       "prompt": "A professional business portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are standing beside a conference table in a modern meeting room, pointing at a presentation screen. The room has glass walls and soft daylight illumination. Shot with a 70mm lens at f/2.4, compressing the background for a clean professional look. Cinematic composition, sharp focus, 9:16 aspect ratio.",
-      "imageUrl": "",
+      "imageUrl": "https://i.ibb.co/GvVLdT0X/17.webp",
       "category": "Professional",
       "tags": ["consultant", "business", "meeting", "70mm", "corporate"]
     },
@@ -142,7 +142,7 @@
       "id": "18",
       "title": "Fashion Photographer on Set",
       "prompt": "A high-end professional portrait of [Subject], preserving the subject’s natural facial features, skin tone, eye color, and hairstyle with full fidelity and realism. They are standing on a fashion photoshoot set, holding a camera, surrounded by lighting equipment, softboxes, and backdrop stands, conveying an active, behind-the-scenes editorial atmosphere. Dramatic studio lighting with strong directional contrast, sculpted highlights, and controlled, artistic shadows that enhance facial structure and depth. Subtle rim lighting separates the subject from the background, adding dimensionality and polish. Shot with an 85mm lens at f/1.6, producing pronounced subject isolation, shallow depth of field, and smooth, cinematic bokeh. Editorial, high-resolution, cinematic composition with clean framing and balanced negative space. 9:16 aspect ratio.",
-      "imageUrl": "",
+      "imageUrl": "https://i.ibb.co/9kL6y8sD/18.webp",
       "category": "Professional",
       "tags": ["fashion", "photography", "studio", "85mm", "editorial"]
     },
@@ -150,7 +150,7 @@
       "id": "19",
       "title": "Civil Engineer on Bridge Construction Site",
       "prompt": "A cinematic professional portrait of [Subject], preserving the subject’s natural facial features, skin tone, eye color, and hairstyle with full accuracy and realism. They are standing on a large bridge construction site, wearing a safety vest and helmet, reviewing plans with a focused, professional demeanor. The environment features towering cranes, partially assembled steel structures, scaffolding, and active construction work, adding scale and industrial depth to the scene. Natural daylight with a slightly overcast sky produces soft, diffused illumination, minimizing harsh shadows while maintaining realistic contrast and accurate color rendering across the subject and environment. Shot with a 24mm lens at f/3.2, capturing environmental context with wide perspective, moderate depth of field, and crisp detail throughout the scene. Cinematic composition with strong leading lines from structural elements and balanced framing. 9:16 aspect ratio.",
-      "imageUrl": "",
+      "imageUrl": "https://i.ibb.co/KcJxhXs6/19.webp",
       "category": "Professional",
       "tags": ["engineering", "construction", "bridge", "24mm", "standing"]
     },
@@ -158,7 +158,7 @@
       "id": "20",
       "title": "AI Researcher in Advanced Tech Lab",
       "prompt": "A futuristic professional portrait of [Subject], preserving the subject’s natural facial features, skin tone, eye color, and hairstyle with full accuracy and realism. They are standing in an advanced AI laboratory, surrounded by holographic displays, floating data visualizations, and interactive interface projections that softly illuminate the environment. The sleek, modern space features clean architectural lines, reflective surfaces, and subtle glowing blue and cyan interfaces that create a high-tech, immersive atmosphere. Cinematic lighting with controlled neon highlights and soft ambient glow enhances depth, adds dimensional contrast, and naturally shapes the subject’s features without overpowering their appearance. Shot with a 35mm lens at f/1.8, balancing subject focus with environmental context while producing a shallow depth of field and smooth, cinematic bokeh. Ultra-realistic rendering with sharp detail, clean composition, and subtle volumetric light effects. 9:16 aspect ratio.",
-      "imageUrl": "",
+      "imageUrl": "https://i.ibb.co/0yZCvmN4/20.webp",
       "category": "Professional",
       "tags": ["AI", "technology", "lab", "futuristic", "35mm"]
     }
