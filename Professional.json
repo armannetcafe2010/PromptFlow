@@ -54,7 +54,7 @@
       "id": "7",
       "title": "Medical Doctor in Hospital Corridor",
       "prompt": "A clean and professional medical portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are standing in a bright hospital corridor wearing a white coat and stethoscope, holding a tablet. Background features softly blurred hospital rooms and clinical lighting. Neutral color tones with bright whites and soft blues. Shot with an 85mm lens at f/2.2 for strong subject isolation and creamy background bokeh. Eye-level framing, sharp focus on facial expression, conveying calm confidence and professionalism. 9:16 aspect ratio.",
-      "imageUrl": "",
+      "imageUrl": "https://i.ibb.co/KxR8TvYh/7.webp",
       "category": "Professional",
       "tags": ["doctor", "medical", "hospital", "portrait", "85mm", "clean"]
     },
@@ -62,7 +62,7 @@
       "id": "8",
       "title": "Tech Entrepreneur in Startup Workspace",
       "prompt": "A modern startup portrait of [Subject], preserving their natural facial features, skin tone, eye color, and hairstyle. They are standing casually in a creative workspace, wearing smart-casual attire (blazer and t-shirt), holding a smartphone while reviewing data on a wall-mounted screen. The background includes neon accents, collaborative desks, and softly blurred team activity. Mixed lighting with practical LED sources and natural daylight enhances realistic skin tones and texture. Shot with a 35mm lens at f/1.6, creating a dynamic environmental portrait with shallow depth of field. Cinematic composition with leading lines and asymmetry. 9:16 aspect ratio.",
-      "imageUrl": "",
+      "imageUrl": "https://i.ibb.co/d0vZWcJd/8.webp",
       "category": "Professional",
       "tags": ["startup", "tech", "entrepreneur", "standing", "35mm", "modern"]
     },
@@ -70,7 +70,7 @@
       "id": "9",
       "title": "Financial Analyst in Trading Floor",
       "prompt": "A high-energy professional portrait of [Subject] with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. They are standing in a busy trading floor environment, wearing a sharp suit, looking at multiple glowing financial screens. Background shows blurred traders and dynamic market data visuals. Cool, high-contrast lighting with screen reflections illuminating the face. Shot with a 70mm lens at f/2.5, compressing background elements while maintaining context. Cinematic realism with crisp details and subtle motion blur in background activity. 9:16 aspect ratio.",
-      "imageUrl": "",
+      "imageUrl": "https://i.ibb.co/9mxF1qYB/9.webp",
       "category": "Professional",
       "tags": ["finance", "trading", "analyst", "standing", "70mm", "dynamic"]
     },
@@ -78,7 +78,7 @@
       "id": "10",
       "title": "Lawyer in Classic Library Office",
       "prompt": "A refined professional portrait of [Subject], preserving their natural facial features, skin tone, eye color, and hairstyle. They are standing beside a wooden desk in a classic law office lined with bookshelves and legal volumes, conveying authority and focus. Dressed in a well-tailored suit appropriate to their personal style, holding a document folder with a composed, confident posture. Warm tungsten lighting shapes the scene, creating a rich, intellectual atmosphere with controlled highlights and deep, natural shadows that enhance facial contours and texture. Shot with a 135mm lens at f/2.0 for strong background compression and elegant subject isolation, producing a soft, creamy bokeh. Cinematic composition with subtle symmetrical framing and balanced negative space. 9:16 aspect ratio.",
-      "imageUrl": "",
+      "imageUrl": "https://i.ibb.co/b5J5bPZW/10.webp",
       "category": "Professional",
       "tags": ["lawyer", "library", "professional", "standing", "135mm", "classic"]
     },
