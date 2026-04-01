@@ -85,7 +85,7 @@
     {
       "id": "11",
       "title": "Street Performer in Urban Night Scene",
-      "prompt": "An expressive artistic portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are performing on a street at night, surrounded by soft glowing lights and a small audience in the background. The scene includes bokeh city lights and reflective surfaces from wet pavement. Shot with a 35mm lens at f/1.6, capturing motion and atmosphere. Vibrant, cinematic night lighting, high contrast, 9:16 aspect ratio.",
+      "prompt": "An expressive, art-directed cinematic portrait of [Subject], with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are, captured mid-performance on a vibrant street at night while engaging with a small audience, surrounded by softly glowing practical lights and rich urban atmosphere, with wet pavement reflecting city lights to enhance depth and visual texture, composed with strong visual hierarchy and subtle leading lines guiding attention toward the subject, illuminated by high-contrast cinematic night lighting with a defined key light and ambient city glow that creates depth and dimensionality, captured with a 35mm lens at f/1.6 to preserve environmental context while maintaining subject prominence, producing a shallow depth of field with smooth bokeh from distant city lights, ultra-realistic detail, dynamic motion, refined color grading, and a polished cinematic aesthetic, 9:16 aspect ratio.",
       "imageUrl": "",
       "category": "Art & Illustration",
       "tags": ["street performance", "night", "urban", "35mm", "cinematic"]
@@ -93,7 +93,7 @@
     {
       "id": "12",
       "title": "Fashion Illustrator Sketching Designs",
-      "prompt": "A refined artistic portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are standing at a drafting table sketching fashion designs on paper. The workspace is filled with fabric samples, sketches, and design tools. Soft studio lighting creates a warm and creative atmosphere. Shot with a 70mm lens at f/2.0, producing elegant composition and depth. Artistic, detailed, fashion-focused, 9:16 aspect ratio.",
+      "prompt": "A refined, art-directed portrait of [Subject], with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are, standing at a professional drafting table while sketching fashion designs with focused precision, surrounded by fabric swatches, technical sketches, and design tools that subtly frame the workspace and reinforce the creative process, composed with clean visual structure and balanced framing to emphasize both subject and craft, illuminated by soft, diffused studio lighting that casts gentle shadows and creates a warm, inviting, and creatively inspired atmosphere, captured with a 70mm lens at f/2.0 to achieve elegant perspective compression, smooth background separation, and a shallow depth of field that keeps the subject sharply defined, with ultra-realistic detail, refined textures, controlled color grading, and a polished fashion-editorial aesthetic, 9:16 aspect ratio.",
       "imageUrl": "",
       "category": "Art & Illustration",
       "tags": ["fashion", "illustration", "design", "70mm", "studio"]
