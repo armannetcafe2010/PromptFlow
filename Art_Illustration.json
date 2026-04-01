@@ -69,7 +69,7 @@
     {
       "id": "9",
       "title": "Tattoo Artist in Studio",
-      "prompt": "A highly detailed artistic portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are standing in a tattoo studio, working on a design with a tattoo machine in hand. The environment includes tattoo sketches, ink bottles, and a client chair softly blurred in the background. Moody lighting with strong contrast highlights the artistic process. Shot with a 50mm lens at f/1.4 for shallow depth of field and sharp subject focus. Realistic, expressive, 9:16 aspect ratio.",
+      "prompt": "A highly detailed, art-directed portrait of [Subject], with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are, standing in a professional tattoo studio while actively working on a design with a tattoo machine in hand, surrounded by tattoo sketches, ink bottles, and a client chair softly blurred in the background to establish depth, illuminated by moody, high-contrast lighting with a defined key light and subtle shadows that emphasize the artistic process, captured with a 50mm lens at f/1.4 to achieve a natural perspective and shallow depth of field with smooth background bokeh, ultra-realistic with sharp focus on the subject, expressive detail, cinematic color grading, and a polished artistic aesthetic, 9:16 aspect ratio.",
       "imageUrl": "",
       "category": "Art & Illustration",
       "tags": ["tattoo", "artist", "studio", "50mm", "edgy"]
@@ -77,7 +77,7 @@
     {
       "id": "10",
       "title": "Glassblower in Artisan Workshop",
-      "prompt": "A vivid artistic portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are shaping molten glass in a traditional glassblowing workshop, with glowing orange glass glowing intensely. The workshop is dimly lit, with the glow from the furnace illuminating the subject. Shot with a 85mm lens at f/1.8, emphasizing subject and glowing materials. Dramatic lighting, rich textures, artistic realism, 9:16 aspect ratio.",
+      "prompt": "A vivid, art-directed portrait of [Subject], with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are, actively shaping molten glass in a traditional glassblowing workshop where intensely glowing orange glass illuminates the scene, surrounded by a dimly lit environment with a furnace casting warm, dynamic light that highlights the subject and reflects off tools and surfaces, captured with an 85mm lens at f/1.8 to achieve strong subject isolation and a shallow depth of field with creamy background bokeh, emphasizing dramatic lighting, rich textures, and ultra-realistic detail with a refined artistic aesthetic and cinematic color grading, 9:16 aspect ratio.",
       "imageUrl": "",
       "category": "Art & Illustration",
       "tags": ["glassblowing", "artisan", "85mm", "glow", "craft"]
