@@ -141,7 +141,7 @@
     {
       "id": "18",
       "title": "Fashion Photographer on Set",
-      "prompt": "A high-end professional portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are standing on a fashion photoshoot set, holding a camera, surrounded by lighting equipment and backdrop stands. Dramatic studio lighting with high contrast and artistic shadows. Shot with a 85mm lens at f/1.6, emphasizing subject isolation and shallow depth of field. Editorial, cinematic, 9:16 aspect ratio.",
+      "prompt": "A high-end professional portrait of [Subject], preserving the subject’s natural facial features, skin tone, eye color, and hairstyle with full fidelity and realism. They are standing on a fashion photoshoot set, holding a camera, surrounded by lighting equipment, softboxes, and backdrop stands, conveying an active, behind-the-scenes editorial atmosphere. Dramatic studio lighting with strong directional contrast, sculpted highlights, and controlled, artistic shadows that enhance facial structure and depth. Subtle rim lighting separates the subject from the background, adding dimensionality and polish. Shot with an 85mm lens at f/1.6, producing pronounced subject isolation, shallow depth of field, and smooth, cinematic bokeh. Editorial, high-resolution, cinematic composition with clean framing and balanced negative space. 9:16 aspect ratio.",
       "imageUrl": "",
       "category": "Professional",
       "tags": ["fashion", "photography", "studio", "85mm", "editorial"]
