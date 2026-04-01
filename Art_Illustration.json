@@ -25,6 +25,78 @@
       "imageUrl": "https://i.ibb.co/7tJh1KPD/3.webp",
       "category": "Art & Illustration",
       "tags": ["portrait", "photographer", "golden hour", "landscape", "artistic"]
+    },
+    {
+      "id": "4",
+      "title": "Painter in a Sunlit Art Studio",
+      "prompt": "A detailed artistic portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are standing inside a sunlit art studio, holding a paintbrush while working on a large canvas filled with expressive brushstrokes. The studio is filled with canvases, paint tubes, and splashes of color. Warm natural light streams through a large window, illuminating the textures of paint and fabric. Shot with a 50mm lens at f/1.8, creating a balanced perspective and soft depth of field. Painterly aesthetic, cinematic realism, 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Art & Illustration",
+      "tags": ["painter", "studio", "artistic", "50mm", "creative"]
+    },
+    {
+      "id": "5",
+      "title": "Digital Illustrator in Neon Workspace",
+      "prompt": "A futuristic illustration-style portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are seated at a digital workstation, sketching on a tablet surrounded by glowing screens displaying vibrant illustrations and concept art. Neon lighting in blue and magenta tones reflects across the workspace. Shot with a 35mm lens at f/1.6, emphasizing subject and glowing environment. High contrast, stylized realism, soft bokeh, 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Art & Illustration",
+      "tags": ["digital art", "neon", "illustration", "35mm", "creative"]
+    },
+    {
+      "id": "6",
+      "title": "Sculptor in Stone Workshop",
+      "prompt": "A realistic artistic portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are standing in a traditional sculpture workshop, carving a stone sculpture with focused precision. Stone dust particles are visible in the air, and unfinished sculptures surround the space. Natural side lighting creates strong shadows and highlights on the textures. Shot with a 85mm lens at f/2.0 for strong subject isolation and fine detail. Classical, fine art atmosphere, 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Art & Illustration",
+      "tags": ["sculpture", "artist", "workshop", "85mm", "classic"]
+    },
+    {
+      "id": "7",
+      "title": "Calligraphy Artist in Minimal Studio",
+      "prompt": "A refined artistic portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are seated at a minimal wooden desk, carefully writing calligraphy with a traditional pen. The background is simple and elegant, with soft natural lighting and subtle shadows. Shot with a 70mm lens at f/2.2, creating a clean and focused composition. The scene emphasizes precision, detail, and calm artistic energy. Ultra-realistic textures, 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Art & Illustration",
+      "tags": ["calligraphy", "minimal", "art", "70mm", "precision"]
+    },
+    {
+      "id": "8",
+      "title": "Film Director on Cinematic Set",
+      "prompt": "A cinematic art-inspired portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are standing on a film set, holding a clapperboard and directing a scene. The background includes soft blurred film lights, cameras, and crew equipment. Dramatic cinematic lighting with strong highlights and shadows. Shot with a 35mm lens at f/1.8, capturing depth and storytelling. Artistic, cinematic, highly detailed, 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Art & Illustration",
+      "tags": ["film", "director", "cinematic", "35mm", "creative"]
+    },
+    {
+      "id": "9",
+      "title": "Tattoo Artist in Studio",
+      "prompt": "A highly detailed artistic portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are standing in a tattoo studio, working on a design with a tattoo machine in hand. The environment includes tattoo sketches, ink bottles, and a client chair softly blurred in the background. Moody lighting with strong contrast highlights the artistic process. Shot with a 50mm lens at f/1.4 for shallow depth of field and sharp subject focus. Realistic, expressive, 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Art & Illustration",
+      "tags": ["tattoo", "artist", "studio", "50mm", "edgy"]
+    },
+    {
+      "id": "10",
+      "title": "Glassblower in Artisan Workshop",
+      "prompt": "A vivid artistic portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are shaping molten glass in a traditional glassblowing workshop, with glowing orange glass glowing intensely. The workshop is dimly lit, with the glow from the furnace illuminating the subject. Shot with a 85mm lens at f/1.8, emphasizing subject and glowing materials. Dramatic lighting, rich textures, artistic realism, 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Art & Illustration",
+      "tags": ["glassblowing", "artisan", "85mm", "glow", "craft"]
+    },
+    {
+      "id": "11",
+      "title": "Street Performer in Urban Night Scene",
+      "prompt": "An expressive artistic portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are performing on a street at night, surrounded by soft glowing lights and a small audience in the background. The scene includes bokeh city lights and reflective surfaces from wet pavement. Shot with a 35mm lens at f/1.6, capturing motion and atmosphere. Vibrant, cinematic night lighting, high contrast, 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Art & Illustration",
+      "tags": ["street performance", "night", "urban", "35mm", "cinematic"]
+    },
+    {
+      "id": "12",
+      "title": "Fashion Illustrator Sketching Designs",
+      "prompt": "A refined artistic portrait of [Subject] with the subject’s natural facial features, skin tone, eye color, and hairstyle preserved exactly as they are. They are standing at a drafting table sketching fashion designs on paper. The workspace is filled with fabric samples, sketches, and design tools. Soft studio lighting creates a warm and creative atmosphere. Shot with a 70mm lens at f/2.0, producing elegant composition and depth. Artistic, detailed, fashion-focused, 9:16 aspect ratio.",
+      "imageUrl": "",
+      "category": "Art & Illustration",
+      "tags": ["fashion", "illustration", "design", "70mm", "studio"]
     }
   ]
 }
