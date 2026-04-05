@@ -65,6 +65,90 @@
       "imageUrl": "https://i.ibb.co/d0wy3qGT/8.webp",
       "category": "Portrait",
       "tags": ["cafe portrait", "cinematic", "golden hour", "bokeh", "realistic"]
+    },
+    {
+      "id": "9",
+      "title": "Elite Supercar Cockpit (9:16)",
+      "prompt": "Hyper-realistic 8K vertical portrait of a handsome man in the driver's seat of a high-end supercar. The shot captures a close-up angle showing his confident expression. His skin texture is incredibly detailed, showing fine pores, subtle facial hair stubble, and natural skin oils under warm cabin ambient lighting. He wears a premium pebbled-leather jacket; you can see the individual grains and stitching. The background shows the blurred carbon-fiber dashboard and a hint of the city through the window. Shot on Sony A7R IV, 35mm f/1.4 G-Master lens, ISO 100, shutter speed 1/250. Vertical 9:16 aspect ratio, raw photo style, no filter.",
+      "category": "Portrait",
+      "tags": ["hyper-realistic", "supercar", "leather jacket", "9:16", "raw photo"]
+    },
+    {
+      "id": "10",
+      "title": "Dark Academia Library (16:9)",
+      "prompt": "Professional 8K widescreen photograph of a sophisticated man in an ancient, mahogany-filled library. He is leaning against a shelf, holding an open antique book with yellowed, textured pages. The lighting is provided by a green-shaded banker's lamp, creating realistic volumetric dust motes in the air and soft shadows on his face. His navy turtleneck shows realistic knit fibers and micro-lint. The focus is razor-sharp on his eyes, with a creamy bokeh blurring the rows of books behind him. Shot on Canon EOS R5, 85mm f/1.2L, f/2.0, natural warm tones. Cinematic 16:9 aspect ratio, photorealistic.",
+      "category": "Portrait",
+      "tags": ["dark academia", "library", "turtleneck", "16:9", "professional"]
+    },
+    {
+      "id": "11",
+      "title": "Industrial Athlete (9:16)",
+      "prompt": "Raw, unedited vertical portrait of a fit man in a gritty industrial gym. The lighting is harsh overhead fluorescent, creating dramatic shadows that define his muscle structure. His charcoal compression shirt shows realistic fabric tension and moisture-wicking texture. Micro-beads of sweat are visible on his forehead and neck, reflecting the light. The background features blurred iron weight plates and rusted metal beams. Shot on Nikon Z9, 50mm f/1.8, high contrast, sharp focus on skin texture and eyes. Vertical 9:16 aspect ratio, documentary photography style.",
+      "category": "Portrait",
+      "tags": ["fitness", "industrial", "sweat texture", "9:16", "raw"]
+    },
+    {
+      id": "12",
+      "title": "Nordic Winter Expedition (16:9)",
+      "prompt": "High-fidelity 8K widescreen shot of a man in a snowy Scandinavian forest. He wears a heavy, textured camel-hair overcoat and a chunky wool scarf; individual fibers and snowflakes caught in the wool are visible. His cheeks and nose have a natural cold-weather flush. The lighting is the soft, flat light of a cloudy winter day, casting no harsh shadows. The background is a dense, out-of-focus pine forest covered in heavy snow. Shot on Fujifilm GFX 100S, 110mm f/2, f/2.8, ultra-detailed skin and fabric. Cinematic 16:9 aspect ratio, real life photography.",
+      "category": "Portrait",
+      "tags": ["winter", "nordic", "overcoat", "16:9", "high-fidelity"]
+    },
+    {
+      "id": "13",
+      "title": "Amalfi Coast Sunset (9:16)",
+      "prompt": "Vertical lifestyle photograph of a man standing on a balcony overlooking the Amalfi Coast at sunset. He is wearing a breathable white linen shirt; the fabric shows realistic wrinkles and semi-transparency. The golden hour sun hits his face at a 45-degree angle, creating a perfect Rembrandt lighting effect with natural catchlights in his eyes. His hair is slightly tousled by the sea breeze. The background shows the blurred colorful villas and the sparkling Mediterranean Sea. Shot on Leica M11, 35mm f/2 Summicron, vibrant but natural colors. Vertical 9:16 aspect ratio.",
+      "category": "Portrait",
+      "tags": ["amalfi", "sunset", "linen", "9:16", "lifestyle"]
+    },
+    {
+      "id": "14",
+      "title": "Cyber-Tech Workspace (16:9)",
+      "prompt": "Widescreen 8K portrait of a tech-professional in a dimly lit, high-tech office. The primary light source is the cool blue and purple glow from multiple monitors, reflecting realistically on his skin and the rims of his glasses. He wears a matte black tech-hoodie. You can see the reflection of code on his pupils. The background is a clean, minimalist setup with blurred hardware components. Shot on Sony A7S III, 24mm f/1.4, f/1.8, low-light performance, sharp focus, minimal noise. Cinematic 16:9 aspect ratio, futuristic but realistic.",
+      "category": "Portrait",
+      "tags": ["tech", "workspace", "neon reflection", "16:9", "8k"]
+    },
+    {
+      "id": "15",
+      "title": "Heritage Palace Courtyard (9:16)",
+      "prompt": "Vertical architectural portrait of a man in a grand Mughal-style palace. He wears a deep maroon Sherwani with intricate, hand-stitched gold embroidery; the metallic threads catch the natural daylight. He stands in a sunlit archway, with the stone carvings behind him showing realistic weathering and texture. The lighting is bright and airy, highlighting his calm, dignified expression. Skin shows natural texture without any artificial smoothing. Shot on Hasselblad H6D, 80mm, f/4, crisp details, royal aesthetic. Vertical 9:16 aspect ratio.",
+      "category": "Portrait",
+      "tags": ["heritage", "palace", "sherwani", "9:16", "architectural"]
+    },
+    {
+      "id": "16",
+      "title": "Tokyo Rain Night (16:9)",
+      "prompt": "Widescreen cinematic photograph of a man under a transparent umbrella in Shinjuku at night. Raindrops are frozen in mid-air by a fast shutter speed, reflecting the neon signs. His dark trench coat is visibly wet, with water beading on the shoulders. The background is a vibrant, multi-colored bokeh of Tokyo's street lights and signs. His face is lit by the ambient neon glow, showing realistic skin tones under mixed lighting. Shot on Canon EOS R3, 50mm f/1.2, ISO 800, 1/500s. Cinematic 16:9 aspect ratio, urban realism.",
+      "category": "Portrait",
+      "tags": ["tokyo", "rain", "neon", "16:9", "urban"]
+    },
+    {
+      "id": "17",
+      "title": "Manhattan Penthouse Dusk (9:16)",
+      "prompt": "Vertical high-fashion portrait of a man on a Manhattan penthouse terrace during the blue hour. He wears a bespoke black wool suit; the fabric texture is sharp and detailed. Behind him, the Empire State Building and city lights are blurred into a professional bokeh. The lighting is a mix of the fading natural sky and warm interior light from the terrace. His expression is neutral and high-fashion. Shot on Phase One XF, 80mm lens, f/2.8, ultra-high dynamic range. Vertical 9:16 aspect ratio, luxury magazine style.",
+      "category": "Portrait",
+      "tags": ["manhattan", "suit", "blue hour", "9:16", "fashion"]
+    },
+    {
+      "id": "18",
+      "title": "Neo-Noir Alleyway (16:9)",
+      "prompt": "Widescreen neo-noir portrait of a man in a misty urban alleyway. A single flickering pink neon sign provides a strong rim light along his jawline and shoulder. He wears a futuristic matte-finish utility jacket with visible zippers and straps. Steam rises from a nearby vent, catching the light in a realistic volumetric way. The mood is mysterious and cinematic. Sharp focus on the eye closest to the light. Shot on Blackmagic Pocket Cinema Camera 6K, 35mm, f/1.4, cinematic grain. 16:9 aspect ratio.",
+      "category": "Portrait",
+      "tags": ["neo-noir", "neon", "utility jacket", "16:9", "cinematic"]
+    },
+    {
+      "id": "19",
+      "title": "Pacific Northwest Forest (9:16)",
+      "prompt": "Vertical nature portrait of a man in a mossy, evergreen forest. Soft, dappled sunlight filters through the canopy, creating 'God rays' and natural highlights on his olive utility jacket. He is looking off-camera, his face showing realistic sun-spots and fine lines. The background is a lush, deep green blur of ferns and ancient trees. The air looks slightly damp and fresh. Shot on Sony A7R V, 85mm f/1.4, f/2.2, organic colors, sharp focus on the subject. Vertical 9:16 aspect ratio, National Geographic style.",
+      "category": "Portrait",
+      "tags": ["forest", "nature", "utility jacket", "9:16", "organic"]
+    },
+    {
+      "id": "20",
+      "title": "Venice Beach Skater (16:9)",
+      "prompt": "Widescreen action-portrait of a skater resting at a concrete bowl in Venice Beach. He wears a vintage-wash graphic t-shirt; you can see the faded print and cotton texture. He has a relaxed posture, with a skateboard leaning against his leg. The lighting is the harsh, bright midday sun of California, creating clean, sharp shadows. Background shows a blurred palm tree and a hint of the ocean. Shot on Leica SL2, 35mm f/2, ISO 50, 1/1000s, high clarity. Cinematic 16:9 aspect ratio, authentic street culture.",
+      "category": "Portrait",
+      "tags": ["skater", "venice beach", "street style", "16:9", "authentic"]
     }
   ]
 }
