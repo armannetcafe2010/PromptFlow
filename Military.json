@@ -148,11 +148,11 @@
     },
     {
       "id": "19",
-      "title": "Chinese Special Forces Night Operation",
-      "prompt": "A cinematic ultra-realistic portrait of [Subject], depicted as a Chinese special forces operator wearing modern black tactical gear with advanced helmet and night optics. He moves through a dense neon-lit urban environment resembling a futuristic city, with glowing signs and reflections on wet pavement. His posture is low and tactical, expression focused and alert. Lighting features neon blues and reds reflecting across his gear. Shot with 85mm lens at f/1.8, shallow depth of field, HDR, cinematic cyberpunk-style grading, vertical 9:16.",
-      "imageUrl": "",
+      "title": "Chinese Special Forces Urban Operation",
+      "prompt": "An ultra-realistic cinematic portrait of [Subject], depicted as a Chinese special forces operator wearing authentic modern tactical gear in dark camouflage, including helmet, vest, and standard-issue equipment with realistic insignia. He moves cautiously through a real urban environment at night, such as a quiet city street or industrial area, with concrete buildings, parked vehicles, and minimal street lighting. The ground is slightly wet, creating natural reflections from street lamps. His posture is tactical and controlled, expression serious and focused. Lighting is natural and grounded—soft yellow street lights and subtle ambient shadows, no exaggerated colors. Color grading is neutral and realistic, with muted tones and accurate skin color. Shot with an 85mm lens at f/1.8, shallow depth of field, HDR, ultra-detailed textures in fabric, gear, and skin, photorealistic style, vertical 9:16 composition.",
+      "imageUrl": "https://i.ibb.co/39qRQnKx/19.webp",
       "category": "Military",
-      "tags": ["china","special forces","urban","night","neon","tactical","cinematic"]
+      "tags": ["china","special forces","urban","night","realistic","military","cinematic","vertical"]
     },
     {
       "id": "20",
