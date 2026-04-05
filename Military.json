@@ -36,6 +36,14 @@
     },
     {
       "id": "5",
+      "title": "Russian Arctic Military Patrol",
+      "prompt": "An ultra-realistic cinematic portrait of [Subject], depicted as a Russian soldier wearing heavy Arctic military gear with white camouflage and fur-lined hood. He stands in a frozen tundra environment with snowstorms and icy winds blowing across the landscape. Behind him, armored Arctic vehicles and frozen terrain stretch into the distance under a pale cold sky. His expression is stoic and resilient. Lighting is cold and diffused with bluish tones. Shot with 85mm lens at f/1.8, shallow depth of field, HDR, ultra-detailed snow particles, fabric textures, and breath condensation, vertical 9:16 composition.",
+      "imageUrl": "https://i.ibb.co/4gM1LHg6/5.webp",
+      "category": "Military",
+      "tags": ["russian","arctic","snow","military","cold","cinematic","vertical"]
+    },
+    {
+      "id": "6",
       "title": "Special Forces in Jungle Ambush",
       "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He wears tactical jungle camo, lying prone in thick foliage with a rifle aimed at a distant target. Sunlight filters through dense jungle leaves creating dappled shadows. Professional cinematic color grading emphasizes rich greens and muted browns. Shot with 85mm lens at f/1.8 for shallow depth of field and cinematic bokeh, high dynamic range, vertical 9:16 composition, mood is suspenseful, tactical, and immersive.",
       "imageUrl": "https://i.ibb.co/tpRLvXF8/5.webp",
@@ -43,7 +51,7 @@
       "tags": ["human","male","soldier","jungle","military","cinematic","vertical"]
     },
     {
-      "id": "6",
+      "id": "7",
       "title": "Soldier in Rainforest Recon Mission",
       "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He moves cautiously through a dense tropical rainforest wearing tactical camo, with mist and light rays filtering through thick foliage. Professional cinematic color grading emphasizes deep greens and subtle warm highlights. Shot with 85mm lens at f/1.8 for shallow depth of field and cinematic bokeh, high dynamic range, vertical 9:16 composition, mood is suspenseful, stealthy, and immersive.",
       "imageUrl": "https://i.ibb.co/C3tGMx3r/6.webp",
@@ -51,7 +59,7 @@
       "tags": ["human","male","soldier","rainforest","military","cinematic","vertical"]
     },
     {
-      "id": "7",
+      "id": "8",
       "title": "Soldier at Bagram Airfield",
       "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He stands confidently wearing a modern military uniform with the Afghanistan flag patch on the shoulder, tactical vest, and helmet. Behind him, the wide expanse of Bagram Airfield stretches with aircraft, hangars, and distant mountains under a dramatic sky. Professional cinematic color grading emphasizes warm earthy tones with subtle cool highlights on metal surfaces. Shot with an 85mm lens at f/1.8 aperture, shallow depth of field with soft bokeh, high dynamic range, vertical 9:16 composition, mood is strong, vigilant, and cinematic.",
       "imageUrl": "https://i.ibb.co/vxr3ThbL/7.webp",
@@ -59,7 +67,7 @@
       "tags": ["human","male","soldier","military","Afghanistan flag","Bagram Airfield","cinematic","vertical"]
     },
     {
-      "id": "8",
+      "id": "9",
       "title": "Tactical Soldier Bagram",
       "prompt": "A cinematic full-body portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He wears complete tactical military gear including helmet, tactical vest, utility belt, knee pads, and combat boots, with the Afghanistan flag patch prominently displayed on his uniform. He stands confidently on the tarmac of Bagram Airfield, with military aircraft, hangars, and mountains visible in the background under a dramatic sky. Professional cinematic color grading emphasizes warm earthy tones with subtle cool highlights on metal and gear. Shot with a full-frame 35mm lens at f/2.0 aperture, capturing full-body detail with shallow depth of field, soft bokeh, high dynamic range, vertical 9:16 composition, mood is strong, vigilant, and cinematic.",
       "imageUrl": "https://i.ibb.co/9mLQwCL1/8.webp",
@@ -67,7 +75,7 @@
       "tags": ["human","male","soldier","tactical gear","full body","Bagram Airfield","Afghanistan flag","cinematic","vertical"]
     },
     {
-      "id": "9",
+      "id": "10",
       "title": "Urban Police Officer on Night Patrol",
       "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He wears a dark police uniform with tactical vest, standing on a wet city street at night. Street lamps and distant patrol lights reflect on the asphalt. Soft rain falls, creating reflections and atmosphere. Professional cinematic color grading emphasizes cool blues and muted shadows. Shot with 85mm lens at f/1.8 for shallow depth of field and cinematic bokeh, high dynamic range, vertical 9:16 composition, mood is tense, vigilant, and atmospheric.",
       "imageUrl": "https://i.ibb.co/7JV6hVZ8/9.webp",
@@ -75,7 +83,7 @@
       "tags": ["human","male","police","urban","night","cinematic","vertical"]
     },
     {
-      "id": "10",
+      "id": "11",
       "title": "Urban Patrol Police Officer at Dawn",
       "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He walks along quiet urban streets at dawn, wearing standard police uniform, with soft light casting long shadows on wet pavement. Professional cinematic color grading emphasizes warm golden highlights and soft urban tones. Shot with 85mm lens at f/1.8, shallow depth of field with soft bokeh, high dynamic range, vertical 9:16 composition, mood is calm, alert, and cinematic.",
       "imageUrl": "https://i.ibb.co/B5KkJdkR/10.webp",
@@ -83,7 +91,7 @@
       "tags": ["human","male","police","urban","dawn","cinematic","vertical"]
     },
     {
-      "id": "11",
+      "id": "12",
       "title": "Police SWAT Team Breach",
       "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He wears full SWAT gear and helmet, holding a tactical shield as he breaches a building entrance. Smoke and debris fill the air. Professional cinematic color grading emphasizes muted blues and high contrast shadows. Shot with 85mm lens at f/1.8 for shallow depth of field and cinematic bokeh, high dynamic range, vertical 9:16 composition, mood is intense, dramatic, and tactical.",
       "imageUrl": "https://i.ibb.co/KcD0fxn1/11.webp",
@@ -91,7 +99,7 @@
       "tags": ["human","male","police","SWAT","urban","cinematic","vertical"]
     },
     {
-      "id": "12",
+      "id": "13",
       "title": "SWAT Officer in Urban Smoke",
       "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He wears tactical SWAT armor and holds a rifle while smoke and sparks fill a dimly lit urban alley. Professional cinematic color grading emphasizes cool grays and soft warm skin highlights. Shot with 85mm lens at f/1.8 for shallow depth of field and cinematic bokeh, high dynamic range, vertical 9:16 composition, mood is intense, tactical, and cinematic.",
       "imageUrl": "https://i.ibb.co/wFP1DSKr/12.webp",
@@ -99,7 +107,7 @@
       "tags": ["human","male","police","SWAT","urban","cinematic","vertical"]
     },
     {
-      "id": "13",
+      "id": "14",
       "title": "Pakistani Soldier Base",
       "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He stands confidently wearing a modern Pakistani military uniform with the Pakistan flag patch on the shoulder, tactical vest, and helmet. Behind him, a Pakistani military base stretches with hangars, vehicles, and distant mountains under a dramatic sky. Professional cinematic color grading emphasizes earthy greens and warm skin tones. Shot with an 85mm lens at f/1.8 aperture, shallow depth of field with soft bokeh, high dynamic range, vertical 9:16 composition, mood is strong, vigilant, and cinematic.",
       "imageUrl": "https://i.ibb.co/V0tSfV9y/13.webp",
@@ -107,7 +115,7 @@
       "tags": ["human","male","soldier","Pakistan","military","Pakistani flag","base","cinematic","vertical"]
     },
     {
-      "id": "14",
+      "id": "15",
       "title": "US Soldier Washington",
       "prompt": "An ultra-realistic cinematic portrait of [Subject], a young man with a fair complexion, deep brown eyes, and short, neatly styled dark hair complemented by a well-groomed light beard and mustache. He stands confidently within a modern US military installation in Washington, dressed in a detailed contemporary US Army combat uniform featuring a visible American flag shoulder patch and advanced tactical gear. The environment behind him reveals a dynamic operational base with military helicopters, armored vehicles, and sleek infrastructure, subtly blurred to enhance subject focus. The scene is lit by natural daylight under a softly diffused partly cloudy sky, creating balanced highlights and shadows. High-end cinematic color grading with refined blue, gray, and earthy tones enhances realism and depth. Captured using an 85mm prime lens at f/1.8, producing shallow depth of field and smooth background bokeh. Ultra-detailed, HDR rendering, vertical 9:16 composition. The overall mood conveys vigilance, discipline, and quiet heroism.",
       "imageUrl": "https://i.ibb.co/SXn28xhQ/14.webp",
@@ -115,7 +123,7 @@
       "tags": ["human","male","soldier","USA","military","American flag","base","cinematic","vertical","ultra-realistic","HDR","85mm","bokeh"]
     },
     {
-      "id": "15",
+      "id": "16",
       "title": "US Soldier Bagram",
       "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He stands wearing full US military uniform and tactical gear with the US flag patch on his shoulder, on the tarmac of Bagram Airfield. Behind him, aircraft, hangars, and distant mountains are visible under a dramatic sunrise. Professional cinematic color grading emphasizes warm highlights with muted blues on metal and gear. Shot with 85mm lens at f/1.8, shallow depth of field, soft bokeh, HDR, vertical 9:16 composition, mood is strong, vigilant, cinematic.",
       "imageUrl": "https://i.ibb.co/V07qTnzJ/15.webp",
@@ -123,7 +131,7 @@
       "tags": ["human","male","soldier","USA","military","American flag","Bagram Airfield","cinematic","vertical"]
     },
     {
-      "id": "16",
+      "id": "17",
       "title": "Indian Soldier Base",
       "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He stands confidently wearing an Indian Army uniform with the India flag patch, tactical vest, and helmet. The military base behind him shows armored vehicles, hangars, and distant hills under golden hour sunlight. Professional cinematic color grading emphasizes warm earthy tones with vibrant highlights. Shot with 85mm lens at f/1.8, shallow depth of field, soft bokeh, HDR, vertical 9:16 composition, mood is strong, disciplined, cinematic.",
       "imageUrl": "https://i.ibb.co/99Hc7LSF/16.webp",
@@ -131,7 +139,7 @@
       "tags": ["human","male","soldier","India","military","Indian flag","base","cinematic","vertical"]
     },
     {
-      "id": "17",
+      "id": "18",
       "title": "British Soldier Base",
       "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He wears a modern British Army uniform with the UK flag patch on his shoulder, tactical vest, and helmet. Behind him, a British military base with vehicles, hangars, and green fields stretches under an overcast sky. Professional cinematic color grading emphasizes muted greens and earthy tones. Shot with 85mm lens at f/1.8, shallow depth of field, soft bokeh, HDR, vertical 9:16 composition, mood is vigilant, professional, cinematic.",
       "imageUrl": "https://i.ibb.co/SXWqyxfh/17.webp",
@@ -139,7 +147,15 @@
       "tags": ["human","male","soldier","UK","military","British flag","base","cinematic","vertical"]
     },
     {
-      "id": "18",
+      "id": "19",
+      "title": "Russian Arctic Military Patrol",
+      "prompt": "An ultra-realistic cinematic portrait of [Subject], depicted as a Russian soldier wearing heavy Arctic military gear with white camouflage and fur-lined hood. He stands in a frozen tundra environment with snowstorms and icy winds blowing across the landscape. Behind him, armored Arctic vehicles and frozen terrain stretch into the distance under a pale cold sky. His expression is stoic and resilient. Lighting is cold and diffused with bluish tones. Shot with 85mm lens at f/1.8, shallow depth of field, HDR, ultra-detailed snow particles, fabric textures, and breath condensation, vertical 9:16 composition.",
+      "imageUrl": "https://i.ibb.co/placeholder.webp",
+      "category": "Military",
+      "tags": ["russian","arctic","snow","military","cold","cinematic","vertical"]
+    },
+    {
+      "id": "20",
       "title": "French Army Operator at Tactical Base",
       "prompt": "An ultra-realistic cinematic portrait of [Subject], a young man with a fair complexion, deep brown eyes, and short, neatly styled dark hair with a well-groomed light beard and mustache. He stands facing the camera at a modern French military base, wearing a detailed contemporary French Army combat uniform with a visible France flag shoulder patch, tactical vest with loaded pouches, and a combat helmet. His posture is upright and composed, expression focused and disciplined. The environment behind him features an active military base with armored vehicles, hangars, and distant rolling hills, naturally blurred for depth separation. The scene is illuminated by soft natural daylight under a clear sky, enhanced with subtle golden hour warmth to create balanced highlights and soft shadows across the subject’s face and gear. High-end cinematic color grading with a refined balance of cool blue tones and warm earthy hues, natural skin tones, and realistic contrast. Captured using an 85mm full-frame prime lens at f/1.8, producing shallow depth of field, creamy background bokeh, and strong subject isolation. Full-frame vertical 9:16 composition, subject centered, edge-to-edge framing, no borders, no black bars, no letterboxing. Ultra-detailed textures, HDR rendering, sharp focus on facial features and uniform materials. The overall mood conveys strength, discipline, and cinematic realism.",
       "imageUrl": "https://i.ibb.co/tPJZ0vVT/18.webp",
@@ -147,7 +163,7 @@
       "tags": ["human","male","soldier","France","military","French flag","base","cinematic","vertical"]
     },
     {
-      "id": "19",
+      "id": "21",
       "title": "German Army Sentinel at Military Base",
       "prompt": "A cinematic portrait of [Subject], a young man with a fair complexion, dark brown eyes, and short dark hair styled neatly with a light beard and mustache. He wears modern German Army uniform with the Germany flag patch, tactical vest, and helmet. The background shows a German military base with vehicles, hangars, and training grounds under partly cloudy sky. Professional cinematic color grading emphasizes earthy greens and neutral tones. Shot with 85mm lens at f/1.8, shallow depth of field, soft bokeh, HDR, vertical 9:16 composition, mood is disciplined, vigilant, cinematic.",
       "imageUrl": "https://i.ibb.co/N2CqFXjm/19.webp",
@@ -155,7 +171,7 @@
       "tags": ["human","male","soldier","Germany","military","German flag","base","cinematic","vertical"]
     },
     {
-      "id": "20",
+      "id": "22",
       "title": "Canadian Army Sentinel at Mountain Base",
       "prompt": "An ultra-realistic cinematic portrait of [Subject], a young man with a fair complexion, deep brown eyes, and short neatly styled dark hair with a light beard and mustache. He stands facing the camera at a Canadian military base, wearing a full modern Canadian Army combat uniform with a visible Canada flag shoulder patch, tactical vest with loaded pouches, and combat helmet. His posture is steady and confident, expression focused and vigilant. The background features a realistic operational base with armored vehicles, military hangars, and forested hills under warm natural sunlight. Golden hour lighting creates soft highlights and natural shadows across the scene. High-end cinematic color grading with warm earthy tones enhances realism and depth. Captured using an 85mm lens at f/1.8, producing shallow depth of field and smooth bokeh. Full-frame vertical 9:16 composition, subject perfectly centered, no borders, no black bars, no letterboxing, edge-to-edge image fill. Ultra-detailed, HDR, sharp focus. The mood is strong, disciplined, and cinematic.",
       "imageUrl": "https://i.ibb.co/1YKYTrcv/20.webp",
@@ -163,7 +179,7 @@
       "tags": ["human","male","soldier","Canada","military","Canadian flag","base","cinematic","vertical","ultra-realistic","HDR","85mm","no borders"]
     },
     {
-      "id": "21",
+      "id": "23",
       "title": "War-Torn Urban Battlefield",
       "prompt": "Hyperrealistic, cinematic war-themed portrait of the man from the reference image. He is a soldier in the heat of battle, wearing modern tactical military gear, a dusty and weathered combat uniform with a plate carrier, and a tactical helmet. His face is slightly smudged with soot and dirt, showing a determined, intense, and stoic expression. Environment: A realistic, war-torn urban battlefield with smoke, distant fire, and debris. The atmosphere is gritty and high-stakes. Lighting: Dramatic, high-contrast lighting with the orange glow of distant fires and cold, overcast daylight. Style: Professional war photography, inspired by war-zone photojournalism and cinematic action films like '13 Hours'. Composition: Mid-shot, eye-level, capturing the intensity of the moment. Technical: 85mm lens, f/2.0, sharp focus on the eyes, shallow depth of field to blur the chaotic background. No motion blur on the subject. Ultra-detailed textures of fabric, metal, and skin. Aspect ratio: 9:16.",
       "imageUrl": "https://i.ibb.co/39hS6bbg/21.webp",
@@ -171,7 +187,7 @@
       "tags": ["War", "Combat", "Tactical", "9:16", "Hyperrealistic", "Cinematic", "Soldier"]
     },
     {
-      "id": "22",
+      "id": "24",
       "title": "US Soldier: Urban Combat Zone",
       "prompt": "Hyperrealistic, cinematic war-themed portrait of a soldier from the reference image in an urban combat zone. He is wearing modern tactical military gear, a dusty and weathered combat uniform with a plate carrier and helmet. His face shows a determined, intense, and stoic expression, slightly smudged with soot and dirt. Environment: War-torn streets with smoke, debris, and distant fires. Dramatic high-contrast lighting with cold daylight and orange glows from fire. Mid-shot, eye-level, sharp focus on eyes, shallow depth of field. 85mm f/2.0 lens, ultra-detailed textures, 9:16 aspect ratio.",
       "imageUrl": "https://i.ibb.co/gb24TjS7/22.webp",
@@ -179,7 +195,7 @@
       "tags": ["War", "Combat", "Tactical", "9:16", "Soldier"]
     },
     {
-      "id": "26",
+      "id": "25",
       "title": "Russian Spetsnaz Operator in Tactical Mission",
       "prompt": "A hyper-realistic cinematic portrait of [Subject], depicted as a Russian Spetsnaz operator wearing black tactical gear, ballistic helmet, and modern loadout. He is in a covert urban or forest tactical environment, holding advanced equipment. The Russian flag patch is visible on his uniform. His face shows intense focus and elite training. Lighting is dramatic with high contrast shadows and muted cold tones. Shot with 85mm lens at f/1.8, shallow depth of field, HDR, ultra-detailed textures, cinematic composition, vertical 9:16.",
       "imageUrl": "https://i.ibb.co/cSbhYPbq/26.webp",
@@ -187,7 +203,7 @@
       "tags": ["spetsnaz","russian","special forces","tactical","elite","cinematic","vertical"]
     },
     {
-      "id": "27",
+      "id": "26",
       "title": "Pilot Portrait with Su-57 Behind",
       "prompt": "An ultra-realistic cinematic portrait of [Subject], depicted as a Russian Air Force pilot standing confidently on an airbase runway. He wears a modern flight suit with visible Russian insignia, gloves, and flight gear, maintaining a disciplined posture and focused expression. Behind him, slightly out of focus but clearly recognizable, stands a Sukhoi Su-57 stealth fighter jet parked on the runway. The aircraft is positioned naturally in the background at a realistic scale, with its angular stealth design, twin engines, and subtle metallic reflections visible. The depth of field ensures the subject is in sharp focus while the jet remains softly blurred, creating a professional portrait composition. Environment includes a wide military airfield with runway markings, distant hangars, and a dramatic sky. Lighting is natural with cinematic grading—cool tones with soft highlights reflecting off the aircraft surface. Shot with an 85mm lens at f/1.8, shallow depth of field, HDR, ultra-detailed textures in skin, fabric, and metal, realistic shadows and reflections, vertical 9:16 composition, photorealistic aviation portrait style.",
       "imageUrl": "https://i.ibb.co/0pxsKGCv/27.webp",
