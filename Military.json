@@ -209,6 +209,14 @@
       "imageUrl": "https://i.ibb.co/0pxsKGCv/27.webp",
       "category": "Military",
       "tags": ["russian","pilot","Su-57","fighter jet","airbase","aviation","cinematic","portrait","vertical","ultra-realistic"]
+    },
+    {
+      "id": "27",
+      "title": "Afghan Military Doctor Official Portrait",
+      "prompt": "An ultra-realistic professional studio portrait of [Subject], depicted as an Afghan military doctor (medical officer). He is seated upright, facing directly toward the camera with a calm, intelligent, and authoritative expression. He wears a formal military medical uniform or a clean white doctor's coat over a military uniform, with realistic medical insignia, rank badges, and a stethoscope subtly visible around his neck or placed naturally. His posture is straight and disciplined, with both hands resting neatly on a dark desk surface. Behind him, the Afghanistan national flag is positioned clearly and naturally, slightly out of focus to maintain depth while remaining recognizable. The background is a neutral studio backdrop with soft gradient tones, clean and distraction-free. Lighting is soft, balanced, and professional studio lighting with even illumination across the face, natural skin tones, and subtle shadows—no dramatic or cinematic effects. The image should resemble an official government or military medical portrait. Shot with an 85mm lens at f/4 aperture, medium depth of field, sharp focus on face and uniform details, realistic shadows, accurate proportions, HDR, no over-processing. Composition is vertical 9:16, properly framed with head and upper torso visible, centered and symmetrical alignment, ultra-detailed, photorealistic, high-end professional photography style.",
+      "imageUrl": "https://i.ibb.co/GQCV96nD/27.webp",
+      "category": "Military",
+      "tags": ["afghanistan","military doctor","medical officer","portrait","official","9:16","realistic","professional"]
     }
   ]
 }
