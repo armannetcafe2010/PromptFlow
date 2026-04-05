@@ -148,6 +148,14 @@
     },
     {
       "id": "19",
+      "title": "Historic Meeting with Dr. Mohammad Ashraf Ghani",
+      "prompt": "Create an ultra-realistic 4K photograph of a formal meeting moment with a legendary Afghan president, Dr. Mohammad Ashraf Ghani (use an authentic portrait reference online such as this one: https://worldjusticeproject.org/sites/default/files/images/bio/2017/AshrafGhaniFINAL2.jpg — a real portrait of Dr. Ghani), in a high-level diplomatic setting. The president is wearing a formal suit, exuding authority, intelligence, and composure with a confident, natural expression. The second figure (use the reference image provided — keep my face 100% identical, including skin texture, facial hair, hairstyle, expression, and all facial features with no alterations) stands beside him, slightly angled as if engaged in a respectful conversation or photo opportunity. Maintain realistic body proportions, accurate lighting, reflections, and shadows, capturing a believable political and formal atmosphere. Background: an official government or diplomatic environment with subtle blur, flags or institutional elements softly visible, and elegant lighting. Ensure both subjects appear naturally together in a photorealistic, high-quality, professional photograph. Shot with a high-end portrait lens, f/1.8 aperture, HDR, 4K resolution, cinematic color grading, ultra-detailed skin textures, clothing fabric realism, and sharp focus.",
+      "imageUrl": "https://i.ibb.co/MxYqnNpQ/19.webp",
+      "category": "Portrait",
+      "tags": ["cinematic", "portrait", "4k", "ultra-realistic", "diplomatic", "Dr. Mohammad Ashraf Ghani", "Afghanistan", "political", "professional"]
+    },
+    {
+      "id": "20",
       "title": "Pacific Northwest Forest",
       "prompt": "Vertical nature portrait of a man in a mossy, evergreen forest. Soft, dappled sunlight filters through the canopy, creating 'God rays' and natural highlights on his olive utility jacket. He is looking off-camera, his face showing realistic sun-spots and fine lines. The background is a lush, deep green blur of ferns and ancient trees. The air looks slightly damp and fresh. Shot on Sony A7R V, 85mm f/1.4, f/2.2, organic colors, sharp focus on the subject. Vertical 9:16 aspect ratio, National Geographic style.",
       "imageUrl": "https://i.ibb.co/FbHBD0mc/19.webp",
@@ -155,7 +163,7 @@
       "tags": ["forest", "nature", "utility jacket", "9:16", "organic"]
     },
     {
-      "id": "20",
+      "id": "21",
       "title": "Venice Beach Skater",
       "prompt": "Widescreen action-portrait of a skater resting at a concrete bowl in Venice Beach. He wears a vintage-wash graphic t-shirt; you can see the faded print and cotton texture. He has a relaxed posture, with a skateboard leaning against his leg. The lighting is the harsh, bright midday sun of California, creating clean, sharp shadows. Background shows a blurred palm tree and a hint of the ocean. Shot on Leica SL2, 35mm f/2, ISO 50, 1/1000s, high clarity. Cinematic 16:9 aspect ratio, authentic street culture.",
       "imageUrl": "https://i.ibb.co/hF2cc2n7/20.webp",
