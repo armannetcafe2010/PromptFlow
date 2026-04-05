@@ -177,6 +177,14 @@
       "imageUrl": "https://i.ibb.co/gb24TjS7/22.webp",
       "category": "Military",
       "tags": ["War", "Combat", "Tactical", "9:16", "Soldier"]
+    },
+    {
+      "id": "26",
+      "title": "Russian Spetsnaz Operator in Tactical Mission",
+      "prompt": "A hyper-realistic cinematic portrait of [Subject], depicted as a Russian Spetsnaz operator wearing black tactical gear, ballistic helmet, and modern loadout. He is in a covert urban or forest tactical environment, holding advanced equipment. The Russian flag patch is visible on his uniform. His face shows intense focus and elite training. Lighting is dramatic with high contrast shadows and muted cold tones. Shot with 85mm lens at f/1.8, shallow depth of field, HDR, ultra-detailed textures, cinematic composition, vertical 9:16.",
+      "imageUrl": "https://i.ibb.co/cSbhYPbq/26.webp",
+      "category": "Military",
+      "tags": ["spetsnaz","russian","special forces","tactical","elite","cinematic","vertical"]
     }
   ]
 }
