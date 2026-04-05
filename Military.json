@@ -185,6 +185,14 @@
       "imageUrl": "https://i.ibb.co/cSbhYPbq/26.webp",
       "category": "Military",
       "tags": ["spetsnaz","russian","special forces","tactical","elite","cinematic","vertical"]
+    },
+    {
+      "id": "27",
+      "title": "Pilot Portrait with Su-57 Behind",
+      "prompt": "An ultra-realistic cinematic portrait of [Subject], depicted as a Russian Air Force pilot standing confidently on an airbase runway. He wears a modern flight suit with visible Russian insignia, gloves, and flight gear, maintaining a disciplined posture and focused expression. Behind him, slightly out of focus but clearly recognizable, stands a Sukhoi Su-57 stealth fighter jet parked on the runway. The aircraft is positioned naturally in the background at a realistic scale, with its angular stealth design, twin engines, and subtle metallic reflections visible. The depth of field ensures the subject is in sharp focus while the jet remains softly blurred, creating a professional portrait composition. Environment includes a wide military airfield with runway markings, distant hangars, and a dramatic sky. Lighting is natural with cinematic grading—cool tones with soft highlights reflecting off the aircraft surface. Shot with an 85mm lens at f/1.8, shallow depth of field, HDR, ultra-detailed textures in skin, fabric, and metal, realistic shadows and reflections, vertical 9:16 composition, photorealistic aviation portrait style.",
+      "imageUrl": "https://i.ibb.co/0pxsKGCv/27.webp",
+      "category": "Military",
+      "tags": ["russian","pilot","Su-57","fighter jet","airbase","aviation","cinematic","portrait","vertical","ultra-realistic"]
     }
   ]
 }
