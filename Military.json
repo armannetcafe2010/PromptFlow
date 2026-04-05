@@ -148,11 +148,11 @@
     },
     {
       "id": "19",
-      "title": "Russian Arctic Military Patrol",
-      "prompt": "An ultra-realistic cinematic portrait of [Subject], depicted as a Russian soldier wearing heavy Arctic military gear with white camouflage and fur-lined hood. He stands in a frozen tundra environment with snowstorms and icy winds blowing across the landscape. Behind him, armored Arctic vehicles and frozen terrain stretch into the distance under a pale cold sky. His expression is stoic and resilient. Lighting is cold and diffused with bluish tones. Shot with 85mm lens at f/1.8, shallow depth of field, HDR, ultra-detailed snow particles, fabric textures, and breath condensation, vertical 9:16 composition.",
-      "imageUrl": "https://i.ibb.co/placeholder.webp",
+      "title": "Chinese Special Forces Night Operation",
+      "prompt": "A cinematic ultra-realistic portrait of [Subject], depicted as a Chinese special forces operator wearing modern black tactical gear with advanced helmet and night optics. He moves through a dense neon-lit urban environment resembling a futuristic city, with glowing signs and reflections on wet pavement. His posture is low and tactical, expression focused and alert. Lighting features neon blues and reds reflecting across his gear. Shot with 85mm lens at f/1.8, shallow depth of field, HDR, cinematic cyberpunk-style grading, vertical 9:16.",
+      "imageUrl": "",
       "category": "Military",
-      "tags": ["russian","arctic","snow","military","cold","cinematic","vertical"]
+      "tags": ["china","special forces","urban","night","neon","tactical","cinematic"]
     },
     {
       "id": "20",
