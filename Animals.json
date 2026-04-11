@@ -65,6 +65,14 @@
       "imageUrl": "https://i.ibb.co/66gBK58/8.webp",
       "category": "Animals",
       "tags": ["winter","snow leopard","german shepherd","snow","cinematic","9:16"]
+    },
+    {
+      "id": "9",
+      "title": "Luxury Safari Portrait with Lion",
+      "prompt": "A cinematic ultra-realistic portrait of [Subject] seated confidently on a modern chair placed in a wild yet controlled savannah environment, positioned safely near a majestic lion. The lion stands or rests calmly beside the scene, emphasizing power, dominance, and natural beauty without aggression. The setting blends a cinematic wildlife aesthetic with luxury editorial styling, featuring warm golden hour lighting, soft dust particles in the air, and a dramatic natural landscape in the background. The subject is dressed in high-end contemporary fashion, maintaining a calm and composed expression that reflects confidence and harmony with nature. Shot with a 35mm lens, shallow depth of field, ultra-detailed photorealism, cinematic color grading, HDR lighting, and high-fashion wildlife editorial style, 9:16 aspect ratio.",
+      "imageUrl": "https://i.ibb.co/twV0S24G/9.webp",
+      "category": "Animals",
+      "tags": ["lion", "wildlife", "safari", "luxury", "cinematic", "nature", "portrait", "big cat"]
     }
   ]
 }
