@@ -241,6 +241,14 @@
       "imageUrl": "https://i.ibb.co/mr50xyYD/30.webp",
       "category": "Lifestyle",
       "tags": ["firefighter", "action", "heroic", "emergency", "dramatic"]
+    },
+    {
+      "id": "31",
+      "title": "Luxury Beachside BMW Lifestyle Scene",
+      "prompt": "A cinematic ultra-realistic lifestyle portrait of [Subject] sitting confidently on a modern designer chair placed next to a sleek BMW coupe parked on a luxurious beach party location. The environment is an upscale coastal party scene with golden sunset lighting, soft ocean waves, and a stylish social atmosphere with subtle neon accents, elegant guests in the background, and premium décor elements. The BMW coupe reflects the warm sunset glow, emphasizing luxury and status. The subject is dressed in high-end contemporary streetwear, posed naturally with a confident, relaxed expression. Shot with a 35mm lens, shallow depth of field, cinematic color grading, ultra-detailed photorealism, HDR lighting, fashion editorial style, 9:16 aspect ratio.",
+      "imageUrl": "https://i.ibb.co/CsKtb9Lw/31.webp",
+      "category": "Lifestyle",
+      "tags": ["luxury", "bmw", "beach", "party", "cinematic", "automotive", "lifestyle"]
     }
   ]
 }
