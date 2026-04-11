@@ -67,12 +67,12 @@
       "tags": ["winter","snow leopard","german shepherd","snow","cinematic","9:16"]
     },
     {
-      "id": "9",
-      "title": "Luxury Safari Portrait with Lion",
-      "prompt": "A cinematic ultra-realistic portrait of [Subject] seated confidently on a modern chair placed in a wild yet controlled savannah environment, positioned safely near a majestic lion. The lion stands or rests calmly beside the scene, emphasizing power, dominance, and natural beauty without aggression. The setting blends a cinematic wildlife aesthetic with luxury editorial styling, featuring warm golden hour lighting, soft dust particles in the air, and a dramatic natural landscape in the background. The subject is dressed in high-end contemporary fashion, maintaining a calm and composed expression that reflects confidence and harmony with nature. Shot with a 35mm lens, shallow depth of field, ultra-detailed photorealism, cinematic color grading, HDR lighting, and high-fashion wildlife editorial style, 9:16 aspect ratio.",
-      "imageUrl": "https://i.ibb.co/twV0S24G/9.webp",
+      "id": "2",
+      "title": "Close-Up Luxury Safari Portrait with Lion",
+      "prompt": "A cinematic ultra-realistic close-up portrait of [Subject] seated on a modern chair in a controlled savannah environment, with a majestic lion positioned very close beside them within the same frame. The composition is tightly framed to ensure both subject and lion are clearly visible in high detail, avoiding wide landscape shots. The focus is on facial clarity, fabric texture, and lion fur detail, with no excessive background distance or zoom-out composition. The lion appears calm and powerful, enhancing the sense of dominance and harmony in the scene. The subject is dressed in high-end fashion, maintaining a confident, composed expression. Golden hour lighting with soft cinematic shadows, ultra-sharp focus, shallow depth of field but with both subject and lion kept in focus range. Shot with an 85mm portrait lens, high resolution, HDR, editorial wildlife photography style, 9:16 aspect ratio.",
+      "imageUrl": "https://i.ibb.co/TxDXLhr4/9.webp",
       "category": "Animals",
-      "tags": ["lion", "wildlife", "safari", "luxury", "cinematic", "nature", "portrait", "big cat"]
+      "tags": ["lion", "close-up", "wildlife", "safari", "luxury", "portrait", "high-detail", "sharp-focus"]
     }
   ]
 }
