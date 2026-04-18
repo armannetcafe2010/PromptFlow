@@ -169,6 +169,14 @@
       "imageUrl": "https://i.ibb.co/xSK7D8gK/21.webp",
       "category": "Portrait",
       "tags": ["skater", "venice beach", "street style", "16:9", "authentic"]
+    },
+    {
+      "id": "22",
+      "title": "Stylish Man with White Hair and Beard",
+      "prompt": "A high-detail 3D digital render in a 9:16 aspect ratio, maintaining the exact character and facial features from the uploaded reference image. The man features thick, swept-back white hair, a full white beard, and thick-rimmed white aviator glasses. He is wearing a white knitted scarf and a white outfit. The style is minimalist and monochromatic with soft, cinematic lighting and a neutral grey background. Focus on preserving the facial features and textures of the subject. --ar 9:16",
+      "imageUrl": "https://i.ibb.co/Mx9Ns7WB/22.webp",
+      "category": "Portrait",
+      "tags": ["white hair", "white beard", "minimalist", "3D render", "9:16"]
     }
   ]
 }
