@@ -217,6 +217,14 @@
       "imageUrl": "https://i.ibb.co/GQCV96nD/27.webp",
       "category": "Military",
       "tags": ["afghanistan","military doctor","medical officer","portrait","official","9:16","realistic","professional"]
+    },
+    {
+      "id": "28",
+      "title": "Tactical Operator in Serene Desert Combat Stance",
+      "prompt": "A tactical operator in full desert combat gear, helmet, and protective eyewear, maintaining a serene yet alert combat stance. They are positioned in a vast, sun-drenched desert battlefield with distant sand dunes and a clear, expansive sky. Soft, diffused natural light illuminates the scene, highlighting the textures of their gear and the arid landscape, creating a sense of calm readiness amidst the harsh environment. Captured in a realistic tactical photography style, emphasizing vigilance, discipline, and the stark beauty of the desert. Shallow depth of field focuses sharply on the operator, with the desert background softly blurred to convey depth. Shot on a full-frame camera with a 85mm lens at f/2.0 aperture, producing creamy bokeh and sharp subject focus. 9:16 aspect ratio.",
+      "imageUrl": "https://i.ibb.co/m521WFFg/28.webp",
+      "category": "Military",
+      "tags": ["military", "tactical", "desert", "combat stance", "serene", "calm"]
     }
   ]
 }
